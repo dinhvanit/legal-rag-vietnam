@@ -1,0 +1,16 @@
+# Môi trường ảo (Virtual Environment)
+venv/
+.venv/
+env/
+
+# Cache của Python
+__pycache__/
+*.pyc
+
+# Cấu hình bảo mật và Log
+.env
+logs/
+output/
+
+# Các file index lưu local (nếu có)
+*.pkl

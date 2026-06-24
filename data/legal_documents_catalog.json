@@ -1,0 +1,919 @@
+[
+  {
+    "law_id": "04/2017/QH14",
+    "law_name": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa số 04/2017/QH14 ngày 12/06/2017",
+    "priority": "High",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Văn bản gốc chi phối toàn bộ 200+ câu hỏi về tiêu chí xác định SME, chính sách hỗ trợ mặt bằng, tín dụng, đào tạo, tư vấn, chuỗi giá trị, ươm tạo khởi nghiệp sáng tạo, chuyển đổi hộ kinh doanh thành DNNVV"
+  },
+  {
+    "law_id": "80/2021/NĐ-CP",
+    "law_name": "Nghị định 80/2021/NĐ-CP ngày 26/08/2021 quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+    "priority": "High",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Chi tiết hóa 150+ câu hỏi về thủ tục nhận hỗ trợ, mức hỗ trợ tư vấn, đào tạo khởi sự kinh doanh, quản trị doanh nghiệp, chuyển đổi số, chuỗi giá trị, điều kiện cơ sở ươm tạo, khu làm việc chung"
+  },
+  {
+    "law_id": "38/2019/QH14",
+    "law_name": "Luật Quản lý thuế số 38/2019/QH14 ngày 13/06/2019",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Nền tảng cho 200+ câu hỏi về đăng ký thuế, khai thuế, hoàn thuế, nộp thuế, cưỡng chế thuế, ấn định thuế, gia hạn nộp thuế, xóa nợ thuế, xử phạt vi phạm thủ tục thuế, thanh tra kiểm tra thuế"
+  },
+  {
+    "law_id": "123/2020/NĐ-CP",
+    "law_name": "Nghị định 123/2020/NĐ-CP ngày 19/10/2020 quy định về hóa đơn, chứng từ",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối 80+ câu hỏi về hóa đơn điện tử có mã/không mã cơ quan thuế, hóa đơn khởi tạo từ máy tính tiền, xử lý hóa đơn sai sót, chuyển đổi hóa đơn giấy sang điện tử, định dạng hóa đơn, chứng từ khấu trừ TNCN điện tử"
+  },
+  {
+    "law_id": "78/2021/TT-BTC",
+    "law_name": "Thông tư 78/2021/TT-BTC ngày 17/09/2021 của Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế, Nghị định 123/2020/NĐ-CP về hóa đơn điện tử",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Hướng dẫn chi tiết quy trình đăng ký, sử dụng, xử lý sự cố hóa đơn điện tử; điều kiện dùng hóa đơn không mã; doanh nghiệp được miễn phí dịch vụ HĐĐT có mã"
+  },
+  {
+    "law_id": "45/2019/QH14",
+    "law_name": "Bộ luật Lao động số 45/2019/QH14 (ngày 20/11/2019)",
+    "priority": "High",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Nền tảng cho 250+ câu hỏi về hợp đồng lao động, thử việc, kỷ luật lao động, chấm dứt hợp đồng, trợ cấp thôi việc, tiền lương, làm thêm giờ, nghỉ phép, lao động nữ, lao động chưa thành niên, lao động nước ngoài, đình công"
+  },
+  {
+    "law_id": "12/2022/NĐ-CP",
+    "law_name": "Nghị định 12/2022/NĐ-CP ngày 17/01/2022 quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+    "priority": "High",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Chi phối 120+ câu hỏi về mức phạt vi phạm: giữ bằng gốc nhân viên, không ký HĐLĐ, phạt tiền thay kỷ luật, không khám sức khỏe, không trả BHXH, sa thải vì đình công, vi phạm về giờ làm việc, không nộp kinh phí công đoàn"
+  },
+  {
+    "law_id": "41/2024/QH15",
+    "law_name": "Luật Bảo hiểm xã hội số 58/2014/QH13 (đang áp dụng) và Luật Bảo hiểm xã hội số 41/2024/QH15 (có hiệu lực 01/07/2025)",
+    "priority": "High",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Cơ sở cho câu hỏi về BHXH bắt buộc, chậm đóng BHXH, làm giả hồ sơ hưởng BHXH, trợ cấp thất nghiệp, quyết toán BHXH khi nghỉ việc, thời gian đóng BHXH tính trợ cấp"
+  },
+  {
+    "law_id": "50/2005/QH11",
+    "law_name": "Luật Sở hữu trí tuệ số 50/2005/QH11 ngày 29/11/2005, được sửa đổi bổ sung bởi Luật 36/2009/QH12, Luật 07/2022/QH15",
+    "priority": "High",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Chi phối 150+ câu hỏi về nhãn hiệu, kiểu dáng công nghiệp, sáng chế, chỉ dẫn địa lý, quyền tác giả, quyền liên quan, tên thương mại, giống cây trồng, xâm phạm quyền SHTT, hợp đồng chuyển nhượng/li-xăng SHCN"
+  },
+  {
+    "law_id": "65/2023/NĐ-CP",
+    "law_name": "Nghị định 65/2023/NĐ-CP ngày 23/08/2023 quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng",
+    "priority": "High",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Hướng dẫn quy trình nộp đơn, thẩm định, cấp văn bằng bảo hộ nhãn hiệu, kiểu dáng, sáng chế; phản đối cấp văn bằng; thủ tục ghi nhận thay đổi; duy trì hiệu lực văn bằng; khiếu nại quyết định của Cục SHTT"
+  },
+  {
+    "law_id": "36/2005/QH11",
+    "law_name": "Luật Thương mại số 36/2005/QH11 ngày 14/06/2005",
+    "priority": "High",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Nền tảng cho 150+ câu hỏi về mua bán hàng hóa, hợp đồng thương mại, phạt vi phạm, bồi thường thiệt hại, hủy hợp đồng, đại lý thương mại, môi giới, đại diện, gia công, nhượng quyền thương mại, khuyến mại, hội chợ triển lãm"
+  },
+  {
+    "law_id": "59/2020/QH14",
+    "law_name": "Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020",
+    "priority": "High",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Cơ sở 100+ câu hỏi về đặt tên doanh nghiệp, đăng ký doanh nghiệp, vốn điều lệ, góp vốn, người đại diện pháp luật, HĐTV, HĐQT, giải thể, tổ chức lại, công ty TNHH, cổ phần, hợp danh, doanh nghiệp xã hội"
+  },
+  {
+    "law_id": "01/2021/NĐ-CP",
+    "law_name": "Nghị định 01/2021/NĐ-CP ngày 04/01/2021 về đăng ký doanh nghiệp",
+    "priority": "High",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Chi tiết hóa thủ tục hồ sơ đăng ký thành lập, thay đổi thông tin, giải thể; biên bản giao nhận tài sản góp vốn; điều kiện tên doanh nghiệp; quy định về người đại diện theo pháp luật"
+  },
+  {
+    "law_id": "45/2024/NĐ-CP",
+    "law_name": "Nghị định 45/2024/NĐ-CP ngày 26/04/2024 sửa đổi, bổ sung một số điều của Nghị định 01/2021/NĐ-CP về đăng ký doanh nghiệp",
+    "priority": "High",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Được trích dẫn trực tiếp trong câu hỏi id=1978 về việc kê khai số định danh cá nhân theo khoản 1 Điều 11 để lược bỏ giấy tờ khi đăng ký doanh nghiệp"
+  },
+  {
+    "law_id": "88/2015/QH13",
+    "law_name": "Luật Kế toán số 88/2015/QH13 ngày 20/11/2015",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Cơ sở cho câu hỏi về chứng từ kế toán, sổ kế toán, báo cáo tài chính, kế toán trưởng, dịch vụ kế toán, hành vi tẩy xóa chứng từ, lưu trữ tài liệu kế toán, chuyển đổi chứng từ giấy sang điện tử"
+  },
+  {
+    "law_id": "133/2016/TT-BTC",
+    "law_name": "Thông tư 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối câu hỏi về lập báo cáo tài chính năm, trình bày thông tin chung về doanh nghiệp, hạch toán tài sản cố định, tài sản ngắn hạn, chênh lệch tiền mặt tại quỹ, xác định giá gốc thiết bị"
+  },
+  {
+    "law_id": "19/2023/QH15",
+    "law_name": "Luật Bảo vệ quyền lợi người tiêu dùng số 19/2023/QH15 ngày 20/06/2023 (thay thế Luật 59/2010/QH12)",
+    "priority": "High",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về nghĩa vụ cung cấp thông tin sản phẩm, hợp đồng theo mẫu, điều kiện giao dịch chung, điều khoản miễn trách nhiệm, bán hàng từ xa, bán hàng tận cửa, thu hồi sản phẩm khuyết tật, bảo hành, giải quyết khiếu nại người tiêu dùng"
+  },
+  {
+    "law_id": "91/2015/QH13",
+    "law_name": "Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015",
+    "priority": "High",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Nền tảng cho câu hỏi về giao dịch dân sự, hợp đồng vô hiệu, đại diện theo ủy quyền, thế chấp tài sản, bảo đảm thực hiện nghĩa vụ, tín chấp, đặt cọc, thời hiệu khởi kiện, bất khả kháng, hủy bỏ hợp đồng"
+  },
+  {
+    "law_id": "80/2021/TT-BTC",
+    "law_name": "Thông tư 80/2021/TT-BTC ngày 29/09/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định 126/2020/NĐ-CP",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Hướng dẫn chi tiết về khai thuế, quyết toán thuế, thời hạn nộp hồ sơ khai thuế theo tháng/quý, hoàn thuế GTGT xuất khẩu, khấu trừ thuế TNCN, đăng ký thuế, thay đổi thông tin"
+  },
+  {
+    "law_id": "126/2020/NĐ-CP",
+    "law_name": "Nghị định 126/2020/NĐ-CP ngày 19/10/2020 quy định chi tiết một số điều của Luật Quản lý thuế",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối câu hỏi về thời hạn nộp hồ sơ khai thuế theo quý, kỳ tính thuế TNDN, gia hạn nộp thuế, đăng ký thuế khi tổ chức lại doanh nghiệp, xóa tiền nợ thuế khi phá sản"
+  },
+  {
+    "law_id": "96/2015/TT-BTC",
+    "law_name": "Thông tư 96/2015/TT-BTC ngày 22/06/2015 hướng dẫn về thuế thu nhập doanh nghiệp (đã được cập nhật bởi Thông tư 25/2018/TT-BTC)",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối câu hỏi về kỳ tính thuế TNDN, ưu đãi thuế TNDN cho DNNVV, miễn giảm thuế doanh nghiệp mới thành lập từ hộ kinh doanh, doanh nghiệp đầu tư vào địa bàn ưu đãi"
+  },
+  {
+    "law_id": "13/2008/QH12",
+    "law_name": "Luật Thuế giá trị gia tăng số 13/2008/QH12 ngày 03/06/2008 và các luật sửa đổi số 31/2013/QH13, 71/2014/QH13, 106/2016/QH13",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Cơ sở câu hỏi về miễn/giảm thuế GTGT, đối tượng không chịu thuế, phương pháp tính thuế GTGT, hoàn thuế GTGT cho hàng xuất khẩu, khấu trừ thuế đầu vào"
+  },
+  {
+    "law_id": "14/2008/QH12",
+    "law_name": "Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 ngày 03/06/2008 và các luật sửa đổi số 32/2013/QH13, 71/2014/QH13",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Cơ sở câu hỏi về thuế suất TNDN, ưu đãi miễn giảm thuế doanh nghiệp mới thành lập, giảm thuế TNDN cho DNNVV, kỳ tính thuế năm tài chính khác dương lịch"
+  },
+  {
+    "law_id": "70/2014/QH13",
+    "law_name": "Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12 ngày 14/11/2008 và sửa đổi số 70/2014/QH13, 106/2016/QH13",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Liên quan câu hỏi về xin giảm thuế TTĐB khi gặp thiên tai, hồ sơ và thủ tục giảm thuế TTĐB, thời hạn giải quyết của cơ quan thuế"
+  },
+  {
+    "law_id": "04/2007/QH12",
+    "law_name": "Luật Thuế thu nhập cá nhân số 04/2007/QH12 và các sửa đổi (Luật 26/2012/QH13, 71/2014/QH13, 28/2024/QH15)",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Liên quan câu hỏi về khấu trừ TNCN tại nguồn, chứng từ khấu trừ TNCN điện tử, thuế GTGT và TNCN của hộ kinh doanh, nộp thuế thay cho tổ chức kinh doanh xuyên biên giới"
+  },
+  {
+    "law_id": "68/2014/QH13",
+    "law_name": "Luật Doanh nghiệp số 68/2014/QH13 (đã hết hiệu lực, thay bởi 59/2020/QH14) - các câu hỏi về giai đoạn chuyển tiếp",
+    "priority": "Low",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Một số câu hỏi về lịch sử đăng ký doanh nghiệp, chuyển đổi hình thức doanh nghiệp giai đoạn trước 2021 có thể cần tham chiếu"
+  },
+  {
+    "law_id": "29/2023/QH15",
+    "law_name": "Luật Kinh doanh bất động sản số 66/2014/QH13 (và Luật 29/2023/QH15 hiệu lực 01/01/2025)",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan đến các câu hỏi về thuê mặt bằng sản xuất trong cụm công nghiệp, cơ sở ươm tạo, hỗ trợ giá thuê mặt bằng cho DNNVV, điều kiện xây dựng khu làm việc chung"
+  },
+  {
+    "law_id": "45/2013/QH13",
+    "law_name": "Luật Đất đai số 45/2013/QH13 (và Luật Đất đai số 31/2024/QH15 hiệu lực 01/01/2025)",
+    "priority": "Medium",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Cơ sở câu hỏi về thuê đất trong cụm công nghiệp, tài sản thế chấp là bất động sản (vật phụ gắn liền), hợp đồng hợp tác khai thác đất, quyền chuyển nhượng tài sản đã đăng ký"
+  },
+  {
+    "law_id": "29/2013/QH13",
+    "law_name": "Luật Khoa học và Công nghệ số 29/2013/QH13 ngày 18/06/2013",
+    "priority": "Medium",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Liên quan câu hỏi về đầu tư khởi nghiệp sáng tạo, tổ chức ươm tạo công nghệ, chính sách hỗ trợ đổi mới sáng tạo cho DNNVV, điều kiện được xác định là doanh nghiệp khởi nghiệp sáng tạo"
+  },
+  {
+    "law_id": "38/2018/NĐ-CP",
+    "law_name": "Nghị định 38/2018/NĐ-CP ngày 11/03/2018 quy định chi tiết về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo",
+    "priority": "High",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Chi phối 30+ câu hỏi về điều kiện nhận đầu tư từ tổ chức tài chính nhà nước địa phương, hạn mức vốn góp, thời hạn đầu tư, nghĩa vụ báo cáo, giải thể quỹ đầu tư khởi nghiệp sáng tạo"
+  },
+  {
+    "law_id": "34/2018/NĐ-CP",
+    "law_name": "Nghị định 34/2018/NĐ-CP ngày 08/03/2018 về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa",
+    "priority": "High",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Chi phối 40+ câu hỏi về điều kiện cấp bảo lãnh, hồ sơ đề nghị bảo lãnh, hợp đồng bảo lãnh, chứng thư bảo lãnh, mức bảo lãnh tối đa, phí bảo lãnh, xử lý rủi ro, hoàn trả nợ sau bảo lãnh, xóa nợ lãi"
+  },
+  {
+    "law_id": "39/2019/NĐ-CP",
+    "law_name": "Nghị định 39/2019/NĐ-CP ngày 10/05/2019 về tổ chức và hoạt động của Quỹ phát triển doanh nghiệp nhỏ và vừa",
+    "priority": "High",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Chi phối câu hỏi về điều kiện vay vốn từ Quỹ phát triển DNNVV, lãi suất vay, cho vay qua ngân hàng thương mại, xử lý nợ quá hạn, nguyên tắc tài trợ"
+  },
+  {
+    "law_id": "58/2012/QH13",
+    "law_name": "Luật Phòng, chống tác hại của rượu, bia (và các luật liên quan đến Luật số 58/2014/QH13 về An toàn vệ sinh thực phẩm số 55/2010/QH12)",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Xuất hiện gián tiếp trong câu hỏi về giấy chứng nhận an toàn thực phẩm, điều kiện kinh doanh dịch vụ karaoke, thuốc lá, biển hiệu quảng cáo"
+  },
+  {
+    "law_id": "25/2008/QH12",
+    "law_name": "Luật Bảo hiểm y tế số 25/2008/QH12",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Liên quan câu hỏi về khám sức khỏe định kỳ, bệnh nghề nghiệp, quyền lợi y tế của người lao động, chi phí y tế tai nạn lao động"
+  },
+  {
+    "law_id": "84/2015/QH13",
+    "law_name": "Luật An toàn, vệ sinh lao động số 84/2015/QH13 ngày 25/06/2015",
+    "priority": "High",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Chi phối 30+ câu hỏi về khám sức khỏe định kỳ, quan trắc môi trường lao động, thẻ an toàn, trang bị bảo hộ lao động, tai nạn lao động, bệnh nghề nghiệp, lập hồ sơ vệ sinh môi trường, báo cáo an toàn vệ sinh lao động"
+  },
+  {
+    "law_id": "11/2020/NĐ-CP",
+    "law_name": "Nghị định 88/2015/NĐ-CP ngày 07/10/2015 sửa đổi Nghị định 95/2013/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lao động (đã thay bởi NĐ 12/2022/NĐ-CP)",
+    "priority": "Low",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Tài liệu lịch sử, thực tế câu hỏi về xử phạt vi phạm lao động hiện đang áp dụng NĐ 12/2022/NĐ-CP"
+  },
+  {
+    "law_id": "12/2012/QH13",
+    "law_name": "Luật Công đoàn số 12/2012/QH13 ngày 20/06/2012 (và Luật 51/2024/QH15 hiệu lực 01/07/2025)",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Cơ sở câu hỏi về kinh phí công đoàn, phạt chậm đóng kinh phí công đoàn, quyền cán bộ công đoàn, tuyên truyền thành lập công đoàn cấp cơ sở"
+  },
+  {
+    "law_id": "145/2020/NĐ-CP",
+    "law_name": "Nghị định 145/2020/NĐ-CP ngày 14/12/2020 quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+    "priority": "High",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Chi tiết về thời giờ làm việc, nghỉ ngơi, lương làm thêm giờ, nghỉ hằng năm, thử việc, hợp đồng lao động, đối thoại tại nơi làm việc, thỏa ước lao động tập thể, quy chế dân chủ cơ sở"
+  },
+  {
+    "law_id": "152/2020/NĐ-CP",
+    "law_name": "Nghị định 152/2020/NĐ-CP ngày 30/12/2020 quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Chi phối câu hỏi về giấy phép lao động cho người nước ngoài, hợp đồng lao động dài hơn giấy phép, làm sai công việc ghi trong giấy phép, xử phạt vi phạm về giấy phép lao động"
+  },
+  {
+    "law_id": "54/2010/QH12",
+    "law_name": "Luật Trọng tài thương mại số 54/2010/QH12 ngày 17/06/2010",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về điều kiện giải quyết tranh chấp bằng trọng tài, thỏa thuận trọng tài qua email, chọn trọng tài viên, biện pháp khẩn cấp tạm thời, phản đối thỏa thuận trọng tài vô hiệu, tự bảo vệ khi bị kiện"
+  },
+  {
+    "law_id": "23/2018/QH14",
+    "law_name": "Luật Cạnh tranh số 23/2018/QH14 ngày 12/06/2018",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về hành vi cạnh tranh không lành mạnh khi xâm phạm tên thương mại, nhãn hiệu, bán hàng đa cấp"
+  },
+  {
+    "law_id": "16/2012/QH13",
+    "law_name": "Luật Quảng cáo số 16/2012/QH13 ngày 21/06/2012",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về quảng cáo thương mại, biển hiệu quảng cáo ngoài trời, giấy phép xây dựng công trình quảng cáo, quảng cáo trang thiết bị y tế, dùng hình ảnh cá nhân để quảng cáo, sử dụng loa quảng cáo gần trường học"
+  },
+  {
+    "law_id": "38/2021/NĐ-CP",
+    "law_name": "Nghị định 38/2021/NĐ-CP ngày 29/03/2021 quy định xử phạt vi phạm hành chính trong lĩnh vực văn hóa và quảng cáo",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về mức phạt vi phạm quảng cáo: biển hiệu sai kích thước, quảng cáo thuốc lá, không đăng ký nhãn hiệu, trưng bày hàng hóa sai quy định"
+  },
+  {
+    "law_id": "22/2023/QH15",
+    "law_name": "Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về hồ sơ mời thầu, thông báo mời thầu, bảo đảm dự thầu, ưu tiên DNNVV khi đấu thầu, đánh giá hồ sơ dự thầu, phương thức một túi hồ sơ theo Hiệp định CPTPP"
+  },
+  {
+    "law_id": "24/2024/NĐ-CP",
+    "law_name": "Nghị định 24/2024/NĐ-CP ngày 27/02/2024 quy định chi tiết một số điều của Luật Đấu thầu về lựa chọn nhà thầu",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Hướng dẫn thủ tục mở thầu, làm rõ hồ sơ dự thầu, biên bản mở thầu, bảo đảm dự thầu, mua sắm theo Hiệp định CPTPP"
+  },
+  {
+    "law_id": "81/2018/NĐ-CP",
+    "law_name": "Nghị định 81/2018/NĐ-CP ngày 22/05/2018 quy định chi tiết Luật Thương mại về hoạt động xúc tiến thương mại",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về đăng ký chương trình khuyến mại, thông báo khuyến mại, hội chợ triển lãm thương mại, điều kiện tổ chức hội chợ trong và ngoài nước"
+  },
+  {
+    "law_id": "09/2018/NĐ-CP",
+    "law_name": "Nghị định 09/2018/NĐ-CP ngày 15/01/2018 quy định chi tiết Luật Thương mại và Luật Quản lý ngoại thương về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan câu hỏi về chi nhánh thương nhân nước ngoài tại Việt Nam, nghĩa vụ kế toán và báo cáo hoạt động của chi nhánh nước ngoài"
+  },
+  {
+    "law_id": "35/2018/NĐ-CP",
+    "law_name": "Nghị định 35/2006/NĐ-CP ngày 31/03/2006 quy định chi tiết Luật Thương mại về hoạt động nhượng quyền thương mại (và Nghị định 120/2011/NĐ-CP sửa đổi)",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về đăng ký nhượng quyền thương mại, điều kiện, nghĩa vụ khi kết thúc hợp đồng nhượng quyền, quy trình đăng ký trước khi nhượng quyền, bất khả kháng trong hợp đồng nhượng quyền"
+  },
+  {
+    "law_id": "98/2020/NĐ-CP",
+    "law_name": "Nghị định 98/2020/NĐ-CP ngày 26/08/2020 quy định xử phạt vi phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về xử phạt vi phạm hoạt động thương mại: vi phạm nhãn hàng hóa, không đăng ký kinh doanh, vi phạm về đại lý xăng dầu, bán hàng đa cấp"
+  },
+  {
+    "law_id": "132/2018/TT-BTC",
+    "law_name": "Thông tư 132/2018/TT-BTC ngày 28/12/2018 hướng dẫn chế độ kế toán cho doanh nghiệp siêu nhỏ",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối câu hỏi về chế độ kế toán doanh nghiệp siêu nhỏ, sổ sách kế toán, báo cáo tài chính năm, chứng từ kế toán, tổ chức công tác kế toán doanh nghiệp siêu nhỏ"
+  },
+  {
+    "law_id": "17/2012/QH13",
+    "law_name": "Luật Giám định tư pháp số 13/2012/QH13 ngày 20/06/2012 (và sửa đổi 56/2020/QH14)",
+    "priority": "Low",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Liên quan câu hỏi về yêu cầu giám định quyền SHTT, hồ sơ hợp đồng giám định, xử lý khi không đồng ý kết quả giám định, giám định giống cây trồng"
+  },
+  {
+    "law_id": "79/2006/QH11",
+    "law_name": "Luật Kinh doanh bảo hiểm số 24/2000/QH10 ngày 09/12/2000 (và sửa đổi 61/2010/QH12, Luật 08/2022/QH15)",
+    "priority": "Low",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về bảo hiểm tín dụng, bảo lãnh, các sản phẩm bảo hiểm doanh nghiệp"
+  },
+  {
+    "law_id": "47/2010/QH12",
+    "law_name": "Luật Các tổ chức tín dụng số 47/2010/QH12 (và Luật 32/2024/QH15)",
+    "priority": "Medium",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Cơ sở câu hỏi về điều kiện vay vốn ngân hàng, hợp đồng vay vốn ngân hàng qua quỹ bảo lãnh, thế chấp tài sản, bảo đảm tiền vay"
+  },
+  {
+    "law_id": "29/2024/QH15",
+    "law_name": "Nghị định 21/2021/NĐ-CP ngày 19/03/2021 quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ",
+    "priority": "Medium",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Chi phối câu hỏi về thế chấp bất động sản có vật phụ, bảo đảm bằng tín chấp, tài sản hình thành trong tương lai làm bảo đảm nhiều khoản vay, điều kiện về giá trị và nghĩa vụ thông báo"
+  },
+  {
+    "law_id": "20/2023/QH15",
+    "law_name": "Luật Giao dịch điện tử số 20/2023/QH15 ngày 22/06/2023",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về hiệu lực hợp đồng/giao dịch qua email, chứng từ điện tử trong quản lý thuế, hóa đơn điện tử, chứng từ kế toán điện tử"
+  },
+  {
+    "law_id": "13/2023/NĐ-CP",
+    "law_name": "Luật Bảo vệ dữ liệu cá nhân (Nghị định 13/2023/NĐ-CP ngày 17/04/2023 về bảo vệ dữ liệu cá nhân)",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về thu thập dữ liệu cá nhân khách hàng cho quảng cáo, cơ chế lựa chọn sử dụng dữ liệu, trách nhiệm bảo mật thông tin khách hàng, cung cấp thông tin cho bên thứ ba vận chuyển"
+  },
+  {
+    "law_id": "65/2014/QH13",
+    "law_name": "Luật Nhà ở số 65/2014/QH13 (và Luật Nhà ở 27/2023/QH15 hiệu lực 01/01/2025)",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan câu hỏi về hạch toán tài sản tòa nhà hỗn hợp vừa văn phòng vừa cho thuê bán, phân loại tài sản cố định/hàng hóa bất động sản"
+  },
+  {
+    "law_id": "17/2017/QH14",
+    "law_name": "Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 ngày 21/06/2017",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về sử dụng ngân sách nhà nước trong hỗ trợ DNNVV, quản lý tài sản nhà nước tại quỹ hỗ trợ DNNVV"
+  },
+  {
+    "law_id": "61/2020/QH14",
+    "law_name": "Luật Đầu tư số 61/2020/QH14 ngày 17/06/2020",
+    "priority": "Medium",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Cơ sở câu hỏi về điều kiện đăng ký ngành nghề đầu tư khởi nghiệp sáng tạo, ngành nghề kinh doanh có điều kiện, ưu đãi đầu tư, xử lý thu hồi giấy phép ngành nghề có điều kiện"
+  },
+  {
+    "law_id": "61/2020/NĐ-CP",
+    "law_name": "Nghị định 31/2021/NĐ-CP ngày 26/03/2021 quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan câu hỏi về ngành nghề kinh doanh có điều kiện, ưu đãi đầu tư theo địa bàn cho doanh nghiệp mới thành lập tại địa bàn ưu tiên"
+  },
+  {
+    "law_id": "68/2020/QH14",
+    "law_name": "Luật Xây dựng số 50/2014/QH13 (và sửa đổi 62/2020/QH14)",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan câu hỏi về giấy phép xây dựng công trình quảng cáo ngoài trời, giấy phép xây dựng để di dời công trình, nghiệm thu công trình xây dựng, thuê đất xây dựng cụm công nghiệp"
+  },
+  {
+    "law_id": "89/2006/NĐ-CP",
+    "law_name": "Nghị định 89/2006/NĐ-CP ngày 30/08/2006 về nhãn hàng hóa (và Nghị định 43/2017/NĐ-CP ngày 14/04/2017)",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về nhãn hàng hóa lưu thông trong nước, bắt buộc ghi nhãn, nội dung nhãn hàng hóa, nhãn sinh thái Việt Nam"
+  },
+  {
+    "law_id": "28/2005/QH11",
+    "law_name": "Luật Hải quan số 54/2014/QH13 ngày 23/06/2014",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về kiểm soát hàng hóa xâm phạm SHTT tại hải quan, giấy chứng nhận xuất xứ bắt buộc, phân nhóm hàng hóa xuất nhập khẩu gửi chuyển phát nhanh, thủ tục thông quan khi nghi ngờ xâm phạm SHTT"
+  },
+  {
+    "law_id": "07/2022/QH15",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ số 07/2022/QH15 ngày 16/06/2022",
+    "priority": "High",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Bổ sung quy định về sáng chế bảo mật, quyền đối với giống cây trồng, điều kiện bảo hộ kiểu dáng công nghiệp (tính sáng tạo), tên thương mại, chỉ dẫn địa lý, hợp đồng chuyển nhượng quyền tác giả"
+  },
+  {
+    "law_id": "05/2023/TT-BKHCN",
+    "law_name": "Thông tư 23/2023/TT-BKHCN ngày 30/11/2023 quy định về đăng ký quyền sở hữu công nghiệp (thay thế TT 01/2007/TT-BKHCN và các sửa đổi)",
+    "priority": "High",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Chi phối thủ tục nộp đơn, thẩm định hình thức/nội dung, trả lời thông báo dự định từ chối, làm rõ thông tin đơn, phản đối cấp văn bằng, công bố đơn trên Công báo SHCN, yêu cầu giám định"
+  },
+  {
+    "law_id": "01/2023/TT-BKHCN",
+    "law_name": "Thông tư 16/2023/TT-BKHCN ngày 29/12/2023 quy định về chi phí, lệ phí sở hữu công nghiệp",
+    "priority": "Medium",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Liên quan câu hỏi về lệ phí duy trì hiệu lực bằng bảo hộ giống cây trồng, phí đăng ký nhãn hiệu, lệ phí gia hạn sáng chế"
+  },
+  {
+    "law_id": "22/2018/TT-BKHCN",
+    "law_name": "Thông tư 22/2009/TT-BKHCN ngày 30/09/2009 hướng dẫn thực hiện Nghị định 103/2006/NĐ-CP về quyền tác giả và quyền liên quan (tham chiếu Thông tư mới nhất về quyền tác giả)",
+    "priority": "Medium",
+    "domain": "Sở hữu trí tuệ",
+    "frequency_hint": "Liên quan câu hỏi về hồ sơ đăng ký quyền tác giả, quyền liên quan cho bản ghi âm, nghĩa vụ trả tiền bản quyền khi sử dụng bản ghi âm đã công bố"
+  },
+  {
+    "law_id": "17/2022/QH15",
+    "law_name": "Luật Phòng, chống rửa tiền số 14/2022/QH15 ngày 15/11/2022",
+    "priority": "Low",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Liên quan gián tiếp đến các câu hỏi về nghĩa vụ khai báo và tuân thủ của doanh nghiệp trong giao dịch tài chính lớn"
+  },
+  {
+    "law_id": "12/2017/QH14",
+    "law_name": "Luật Chứng khoán số 54/2019/QH14 ngày 26/11/2019",
+    "priority": "Low",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Liên quan câu hỏi về chào bán cổ phiếu lần đầu ra công chúng (IPO), điều kiện vốn điều lệ 30 tỷ, chào bán trái phiếu ra thị trường quốc tế, sổ đăng ký cổ đông điện tử"
+  },
+  {
+    "law_id": "153/2020/NĐ-CP",
+    "law_name": "Nghị định 153/2020/NĐ-CP ngày 31/12/2020 quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu ra thị trường quốc tế",
+    "priority": "Low",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Cơ sở câu hỏi về điều kiện chào bán trái phiếu quốc tế cho doanh nghiệp trong nước"
+  },
+  {
+    "law_id": "66/2011/TT-BTC",
+    "law_name": "Thông tư 200/2014/TT-BTC ngày 22/12/2014 hướng dẫn chế độ kế toán doanh nghiệp",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Áp dụng cho doanh nghiệp vừa và lớn; cơ sở câu hỏi về hạch toán tài sản cố định, phân loại tài sản ngắn hạn, tòa nhà hỗn hợp, tính giá xuất kho vật liệu"
+  },
+  {
+    "law_id": "03/2021/TT-BKHCN",
+    "law_name": "Nghị định 85/2019/NĐ-CP ngày 14/11/2019 quy định thực hiện thủ tục hành chính theo cơ chế một cửa quốc gia và ASEAN, kiểm tra chuyên ngành hàng hóa xuất nhập khẩu",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan câu hỏi về kiểm tra hải quan, giấy chứng nhận xuất xứ bắt buộc đối với hàng hóa xuất nhập khẩu"
+  },
+  {
+    "law_id": "68/2021/NĐ-CP",
+    "law_name": "Nghị định 68/2021/NĐ-CP ngày 15/07/2021 sửa đổi Nghị định 44/2016/NĐ-CP về an toàn vệ sinh lao động",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Chi tiết về quan trắc môi trường lao động, hồ sơ vệ sinh môi trường lao động, khai báo máy móc yêu cầu nghiêm ngặt về an toàn, tần suất khám sức khỏe nhân viên làm việc nặng nhọc độc hại"
+  },
+  {
+    "law_id": "95/2013/NĐ-CP",
+    "law_name": "Nghị định 95/2013/NĐ-CP (đã thay thế) và Nghị định 28/2020/NĐ-CP ngày 01/03/2020 quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội (đã thay bởi NĐ 12/2022/NĐ-CP)",
+    "priority": "Low",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Tài liệu lịch sử - các câu hỏi về xử phạt hiện hành áp dụng NĐ 12/2022/NĐ-CP"
+  },
+  {
+    "law_id": "40/2021/NĐ-CP",
+    "law_name": "Nghị định 40/2021/NĐ-CP ngày 30/03/2021 sửa đổi Nghị định 34/2018/NĐ-CP về Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa",
+    "priority": "High",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Cập nhật điều kiện bảo lãnh, mức bảo lãnh tối đa, xử lý rủi ro sau bảo lãnh, điều chỉnh kỳ hạn trả nợ, xóa nợ lãi"
+  },
+  {
+    "law_id": "119/2018/NĐ-CP",
+    "law_name": "Nghị định 119/2018/NĐ-CP ngày 12/09/2018 quy định về hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ (đã thay bởi NĐ 123/2020/NĐ-CP từ 01/07/2022)",
+    "priority": "Low",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Văn bản chuyển tiếp; một số DNNVV áp dụng trước 01/07/2022 cần tham chiếu"
+  },
+  {
+    "law_id": "72/2020/QH14",
+    "law_name": "Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17/11/2020",
+    "priority": "Medium",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Cơ sở câu hỏi về kiểm kê khí nhà kính bắt buộc cho cơ sở phát thải, báo cáo đánh giá tác động môi trường, xử lý vi phạm tiếng ồn máy phát điện, nhãn sinh thái Việt Nam"
+  },
+  {
+    "law_id": "17/2021/QH15",
+    "law_name": "Nghị định 06/2022/NĐ-CP ngày 07/01/2022 quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn",
+    "priority": "Low",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Liên quan câu hỏi về điều kiện và đối tượng bắt buộc thực hiện kiểm kê khí nhà kính"
+  },
+  {
+    "law_id": "36/2009/QH12",
+    "law_name": "Luật Bảo vệ môi trường (NĐ 08/2022/NĐ-CP ngày 10/01/2022 quy định chi tiết một số điều của Luật Bảo vệ môi trường)",
+    "priority": "Low",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Chi tiết thủ tục thẩm định báo cáo đánh giá tác động môi trường, ý kiến cơ quan quản lý công trình thủy lợi đối với dự án xả nước thải"
+  },
+  {
+    "law_id": "101/2020/QH14",
+    "law_name": "Luật Giáo dục nghề nghiệp số 74/2014/QH13 ngày 27/11/2014",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Cơ sở câu hỏi về hỗ trợ đào tạo kỹ năng nghề, chứng chỉ kỹ năng nghề quốc gia, phát triển kỹ năng nghề cho nhân viên, nội dung đăng ký lao động liên quan chứng chỉ nghề"
+  },
+  {
+    "law_id": "30/2021/QH15",
+    "law_name": "Nghị định 140/2018/NĐ-CP ngày 08/10/2018 sửa đổi các nghị định liên quan điều kiện đầu tư kinh doanh và thủ tục hành chính thuộc phạm vi quản lý của Bộ Lao động",
+    "priority": "Low",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Liên quan điều kiện thành lập doanh nghiệp cho thuê lại lao động, ký quỹ, cấp giấy phép hoạt động cho thuê lại lao động"
+  },
+  {
+    "law_id": "23/2021/NĐ-CP",
+    "law_name": "Nghị định 23/2021/NĐ-CP ngày 19/03/2021 quy định chi tiết khoản 3 Điều 37 và Điều 39 của Luật Việc làm về trung tâm dịch vụ việc làm, doanh nghiệp hoạt động dịch vụ việc làm",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Cơ sở câu hỏi về điều kiện thành lập doanh nghiệp cung ứng và giới thiệu lao động, giấy phép hoạt động dịch vụ việc làm, điều kiện vận hành"
+  },
+  {
+    "law_id": "38/2013/QH13",
+    "law_name": "Luật Việc làm số 38/2013/QH13 ngày 16/11/2013",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Cơ sở câu hỏi về bảo hiểm thất nghiệp, điều kiện hưởng trợ cấp thất nghiệp, thời gian đóng bảo hiểm thất nghiệp tính trợ cấp"
+  },
+  {
+    "law_id": "10/2020/QH14",
+    "law_name": "Nghị định 10/2020/NĐ-CP ngày 17/01/2020 quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan gián tiếp câu hỏi về vận chuyển hàng hóa bên thứ ba, cước phí vận chuyển, nghĩa vụ của bên thuê vận chuyển"
+  },
+  {
+    "law_id": "21/2017/QH14",
+    "law_name": "Luật Trách nhiệm bồi thường của Nhà nước số 10/2017/QH14 ngày 20/06/2017",
+    "priority": "Low",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Liên quan gián tiếp câu hỏi về hoàn trả tiền thuế thu không đúng, thời hạn hoàn trả sau có quyết định xử lý khiếu nại"
+  },
+  {
+    "law_id": "44/2016/NĐ-CP",
+    "law_name": "Luật Dân quân tự vệ (tham chiếu) - thực tế là Nghị định 44/2016/NĐ-CP ngày 15/05/2016 quy định chi tiết một số điều của Luật An toàn, vệ sinh lao động",
+    "priority": "Medium",
+    "domain": "Lao động - Bảo hiểm",
+    "frequency_hint": "Hướng dẫn chi tiết về kiểm định máy móc thiết bị có yêu cầu nghiêm ngặt về an toàn, khai báo với Sở LĐTBXH, trang bị phương tiện bảo vệ cá nhân, điều kiện trang cấp bảo hộ lao động"
+  },
+  {
+    "law_id": "110/2020/NĐ-CP",
+    "law_name": "Nghị định 110/2020/NĐ-CP ngày 15/09/2020 về cụm công nghiệp",
+    "priority": "Medium",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Chi phối câu hỏi về quy định thuê đất và cấp phép xây dựng trong cụm công nghiệp, hỗ trợ DNNVV thuê mặt bằng trong cụm công nghiệp, cụm liên kết ngành"
+  },
+  {
+    "law_id": "40/2014/QH13",
+    "law_name": "Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/06/2006 (và NĐ 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân)",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về nền tảng thương mại điện tử quốc tế, duy trì tài khoản sàn TMĐT, khấu trừ nộp thuế thay cho tổ chức kinh doanh xuyên biên giới qua nền tảng số"
+  },
+  {
+    "law_id": "52/2013/NĐ-CP",
+    "law_name": "Nghị định 52/2013/NĐ-CP ngày 16/05/2013 về thương mại điện tử (và Nghị định 85/2021/NĐ-CP sửa đổi)",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về nghĩa vụ chủ quản nền tảng TMĐT khấu trừ nộp thuế thay cho hộ kinh doanh, quy định bán hàng từ xa, duy trì tài khoản sàn TMĐT quốc tế"
+  },
+  {
+    "law_id": "06/2022/QH15",
+    "law_name": "Luật Kinh doanh bảo hiểm số 08/2022/QH15 ngày 17/06/2022",
+    "priority": "Low",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Liên quan câu hỏi về bảo hiểm tai nạn lao động, bảo hiểm y tế, các sản phẩm bảo hiểm doanh nghiệp mua cho nhân viên"
+  },
+  {
+    "law_id": "58/2015/TT-BTC",
+    "law_name": "Thông tư 19/2021/TT-BKHĐT ngày 16/03/2021 hướng dẫn đăng ký doanh nghiệp",
+    "priority": "Medium",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Hướng dẫn chi tiết quy trình nộp hồ sơ đăng ký doanh nghiệp điện tử, biểu mẫu hồ sơ, nội dung biên bản giao nhận tài sản góp vốn, thay đổi thông tin đăng ký"
+  },
+  {
+    "law_id": "02/2021/TT-BKHĐT",
+    "law_name": "Thông tư 01/2021/TT-BKHĐT ngày 16/03/2021 hướng dẫn về đăng ký doanh nghiệp",
+    "priority": "Medium",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Biểu mẫu đăng ký doanh nghiệp, danh sách giấy tờ cần lược bỏ khi kê khai số định danh cá nhân, hồ sơ thay đổi người đại diện, thay đổi vốn điều lệ"
+  },
+  {
+    "law_id": "18/2021/NĐ-CP",
+    "law_name": "Nghị định 18/2021/NĐ-CP ngày 11/03/2021 sửa đổi Nghị định 134/2016/NĐ-CP về miễn thuế, giảm thuế, hoàn thuế nhập khẩu",
+    "priority": "Low",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Liên quan câu hỏi về hồ sơ đề nghị miễn thuế nhập khẩu, điều kiện được miễn thuế đối với doanh nghiệp xuất khẩu, gia công"
+  },
+  {
+    "law_id": "09/2021/NĐ-CP",
+    "law_name": "Nghị định 09/2021/NĐ-CP ngày 09/02/2021 về quản lý vật liệu xây dựng",
+    "priority": "Low",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Liên quan gián tiếp câu hỏi về giấy phép xây dựng công trình quảng cáo ngoài trời, công trình trong cụm công nghiệp"
+  },
+  {
+    "law_id": "36/2021/QH15",
+    "law_name": "Bộ luật Hình sự số 100/2015/QH13 (và sửa đổi 12/2017/QH14)",
+    "priority": "Medium",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Cơ sở câu hỏi về xử lý hình sự pháp nhân thương mại, truy cứu hình sự khi làm giả hồ sơ BHXH, trốn thuế, vi phạm nghiêm trọng quyền SHTT; hình thức phạt đối với pháp nhân không có cảnh cáo"
+  },
+  {
+    "law_id": "35/2018/TT-BTC",
+    "law_name": "Nghị định 125/2020/NĐ-CP ngày 19/10/2020 quy định xử phạt vi phạm hành chính về thuế, hóa đơn",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối 50+ câu hỏi về mức phạt khai thiếu thuế, mức phạt nộp chậm tiền thuế, phạt làm mất hóa đơn, phạt vi phạm thủ tục thuế, xử lý khi tự phát hiện sai trước kiểm tra, phạt cho người lao động trong doanh nghiệp"
+  },
+  {
+    "law_id": "04/2021/TT-BTC",
+    "law_name": "Thông tư 40/2021/TT-BTC ngày 01/06/2021 hướng dẫn thuế GTGT, TNCN và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh",
+    "priority": "High",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi phối câu hỏi về xác định và nộp thuế GTGT, TNCN của hộ kinh doanh, trách nhiệm nộp thuế thay của chủ nền tảng TMĐT, hộ kinh doanh tự xác định số thuế, ngừng hoạt động quá 6 tháng không thông báo"
+  },
+  {
+    "law_id": "75/2019/QH14",
+    "law_name": "Luật Thi hành án dân sự số 26/2008/QH12 (và sửa đổi 64/2014/QH13)",
+    "priority": "Low",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Liên quan gián tiếp câu hỏi về kê biên tài sản trong cưỡng chế thuế, tài sản không bị kê biên, quyết định cưỡng chế thi hành quyết định hành chính"
+  },
+  {
+    "law_id": "02/2011/QH13",
+    "law_name": "Luật Tố tụng dân sự số 92/2015/QH13 ngày 25/11/2015",
+    "priority": "Low",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Liên quan câu hỏi về thời hiệu khởi kiện tranh chấp lao động cá nhân, thời hiệu khởi kiện đòi bồi thường thiệt hại, khởi kiện tranh chấp thương mại ra tòa án"
+  },
+  {
+    "law_id": "45/2019/NĐ-CP",
+    "law_name": "Nghị định 45/2019/NĐ-CP ngày 21/05/2019 quy định xử phạt vi phạm hành chính trong lĩnh vực du lịch",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan câu hỏi về giấy phép kinh doanh dịch vụ lữ hành quốc tế, thời hạn cấp phép lữ hành, điều kiện kinh doanh lưu trú du lịch hạng sao"
+  },
+  {
+    "law_id": "09/2017/QH14",
+    "law_name": "Luật Du lịch số 09/2017/QH14 ngày 19/06/2017",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan câu hỏi về giấy phép kinh doanh dịch vụ lữ hành quốc tế, chứng nhận hạng cơ sở lưu trú du lịch, điều kiện quảng cáo sao cho khách sạn"
+  },
+  {
+    "law_id": "14/2019/TT-BKHĐT",
+    "law_name": "Thông tư 14/2019/TT-BKHĐT ngày 20/09/2019 hướng dẫn lập Hồ sơ mời thầu, Hồ sơ yêu cầu dịch vụ tư vấn quy hoạch dưới hình thức đấu thầu rộng rãi",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan câu hỏi về nội dung hồ sơ mời thầu, thông báo mời thầu, đánh giá hồ sơ dự thầu"
+  },
+  {
+    "law_id": "99/2016/NĐ-CP",
+    "law_name": "Nghị định 99/2016/NĐ-CP ngày 01/07/2016 về quản lý và sử dụng con dấu",
+    "priority": "Low",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về đóng dấu trên hợp đồng, chứng từ, hóa đơn doanh nghiệp"
+  },
+  {
+    "law_id": "14/2023/QH15",
+    "law_name": "Luật Đấu thầu số 22/2023/QH15 - Thông tư về mua sắm theo Hiệp định CPTPP (Thông tư 09/2021/TT-BKHĐT ngày 16/11/2021)",
+    "priority": "Medium",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về tham vấn thị trường, phương thức một túi hồ sơ, làm rõ hồ sơ dự thầu, nguyên tắc thanh toán hợp đồng theo đơn giá cố định trong mua sắm theo CPTPP"
+  },
+  {
+    "law_id": "37/2011/TT-BTTTT",
+    "law_name": "Nghị định 46/2016/NĐ-CP ngày 26/05/2016 quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt",
+    "priority": "Low",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Liên quan câu hỏi về bồi thường thiệt hại khi thi công đường ống không đặt biển cảnh báo dẫn đến chết người"
+  },
+  {
+    "law_id": "54/2019/NĐ-CP",
+    "law_name": "Nghị định 54/2019/NĐ-CP ngày 19/06/2019 quy định về kinh doanh dịch vụ karaoke, vũ trường",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về hồ sơ xin cấp giấy phép kinh doanh dịch vụ karaoke"
+  },
+  {
+    "law_id": "10/2007/QH12",
+    "law_name": "Luật Chất lượng sản phẩm, hàng hóa số 05/2007/QH12 ngày 21/11/2007",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Liên quan câu hỏi về trách nhiệm nhà sản xuất khi sản phẩm có khuyết tật, nghĩa vụ thu hồi và công khai thông tin, điều kiện miễn trách nhiệm bồi thường"
+  },
+  {
+    "law_id": "97/2020/NĐ-CP",
+    "law_name": "Nghị định 97/2023/NĐ-CP ngày 28/12/2023 sửa đổi Nghị định 81/2021/NĐ-CP về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân",
+    "priority": "Low",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Liên quan câu hỏi về mức hỗ trợ chi phí đào tạo trực tiếp/trực tuyến về khởi sự kinh doanh, quản trị doanh nghiệp cho DNNVV từ ngân sách nhà nước"
+  },
+  {
+    "law_id": "27/2001/QH10",
+    "law_name": "Luật Phòng cháy và chữa cháy số 27/2001/QH10",
+    "priority": "Low",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Liên quan câu hỏi về gia hạn nộp hồ sơ khai thuế khi gặp hỏa hoạn, thiên tai"
+  },
+  {
+    "law_id": "02/2023/QH15",
+    "law_name": "Nghị định 02/2023/NĐ-CP ngày 01/02/2023 quy định chi tiết thi hành một số điều của Luật Đất đai về quản lý, sử dụng đất tại các đơn vị sự nghiệp công lập",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về hợp tác khai thác đất, điều kiện kết nạp thành viên mới vào hợp đồng hợp tác đất đai, tuân thủ quy định mới của Luật Đất đai 2024"
+  },
+  {
+    "law_id": "68/2019/QH14",
+    "law_name": "Luật Kiểm toán độc lập số 67/2011/QH12 ngày 29/03/2011",
+    "priority": "Low",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Liên quan câu hỏi về kiểm toán viên hành nghề ký báo cáo kiểm toán nhiều năm liên tục cho một công ty (quy định luân chuyển kiểm toán viên), thủ tục đăng ký hành nghề dịch vụ kế toán, kiểm toán"
+  },
+  {
+    "law_id": "68/2016/NĐ-CP",
+    "law_name": "Nghị định 174/2016/NĐ-CP ngày 30/12/2016 quy định chi tiết một số điều của Luật Kế toán",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Chi tiết về tiêu chuẩn kế toán trưởng, điều kiện hành nghề dịch vụ kế toán, lưu trữ tài liệu kế toán, xử lý vi phạm tẩy xóa chứng từ, vi phạm về tài khoản kế toán"
+  },
+  {
+    "law_id": "05/2019/TT-BTC",
+    "law_name": "Thông tư 05/2019/TT-BTC ngày 25/01/2019 hướng dẫn kế toán áp dụng cho doanh nghiệp siêu nhỏ",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Hướng dẫn chi tiết cho câu hỏi về doanh nghiệp siêu nhỏ lập báo cáo tình hình tài chính, trình bày thông tin chung, chế độ kế toán đơn giản"
+  },
+  {
+    "law_id": "47/2021/NĐ-CP",
+    "law_name": "Nghị định 47/2021/NĐ-CP ngày 01/04/2021 quy định chi tiết một số điều của Luật Doanh nghiệp",
+    "priority": "Medium",
+    "domain": "Doanh nghiệp",
+    "frequency_hint": "Chi tiết về doanh nghiệp xã hội, điều kiện thành viên độc lập HĐQT, tỷ lệ tối đa Chủ tịch HĐQT kiêm Giám đốc, trách nhiệm hoàn trả ưu đãi khi chấm dứt mục tiêu xã hội"
+  },
+  {
+    "law_id": "03/2021/TT-BKHĐT",
+    "law_name": "Thông tư 03/2021/TT-BKHĐT ngày 09/04/2021 quy định mẫu văn bản, báo cáo liên quan đến hoạt động đầu tư tại Việt Nam, đầu tư từ Việt Nam ra nước ngoài và xúc tiến đầu tư",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Hướng dẫn mẫu hồ sơ đăng ký đầu tư, điều chỉnh dự án đầu tư, chứng nhận đăng ký đầu tư liên quan doanh nghiệp khởi nghiệp sáng tạo"
+  },
+  {
+    "law_id": "31/2021/QH15",
+    "law_name": "Luật Kinh doanh bất động sản số 29/2023/QH15 ngày 28/11/2023",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan câu hỏi về điều kiện đặt cọc tối đa khi ký hợp đồng mua bán bất động sản, hạch toán tòa nhà hỗn hợp một phần bán một phần cho thuê"
+  },
+  {
+    "law_id": "17/2020/QH14",
+    "law_name": "Bộ luật Tố tụng hình sự số 101/2015/QH13 ngày 27/11/2015",
+    "priority": "Low",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Liên quan câu hỏi về thay thế người đại diện pháp luật khi bị tạm giam, quy trình tố tụng khi cơ quan thuế phát hiện dấu hiệu tội phạm"
+  },
+  {
+    "law_id": "66/2021/NĐ-CP",
+    "law_name": "Nghị định 66/2020/NĐ-CP ngày 11/06/2020 sửa đổi Nghị định 68/2017/NĐ-CP về quản lý, phát triển cụm công nghiệp",
+    "priority": "Medium",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Chi tiết về cụm công nghiệp, hỗ trợ DNNVV thuê mặt bằng trong cụm CN, ưu đãi thuế đất đai cho cơ sở ươm tạo trong cụm CN, cụm liên kết ngành"
+  },
+  {
+    "law_id": "25/2018/NĐ-CP",
+    "law_name": "Thông tư 25/2018/TT-BTC ngày 16/03/2018 hướng dẫn Nghị định 146/2017/NĐ-CP về sửa đổi thuế TNDN, GTGT",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Cập nhật quy định về ưu đãi thuế TNDN cho DNNVV, doanh nghiệp đầu tư tại địa bàn ưu tiên, miễn giảm thuế doanh nghiệp mới thành lập"
+  },
+  {
+    "law_id": "146/2017/NĐ-CP",
+    "law_name": "Nghị định 146/2017/NĐ-CP ngày 15/12/2017 sửa đổi Nghị định 100/2016/NĐ-CP và Nghị định 12/2015/NĐ-CP hướng dẫn Luật Thuế GTGT và Thuế TNDN",
+    "priority": "Medium",
+    "domain": "Thuế - Kế toán",
+    "frequency_hint": "Cơ sở câu hỏi về ưu đãi thuế TNDN cho DNNVV, miễn giảm thuế, quy định về hoàn thuế GTGT xuất khẩu"
+  },
+  {
+    "law_id": "07/2020/TT-NHNN",
+    "law_name": "Thông tư 06/2023/TT-NHNN ngày 28/06/2023 sửa đổi Thông tư 39/2016/TT-NHNN quy định về hoạt động cho vay của tổ chức tín dụng",
+    "priority": "Medium",
+    "domain": "Tài chính - Ngân hàng",
+    "frequency_hint": "Cơ sở câu hỏi về hợp đồng vay vốn ngân hàng qua Quỹ phát triển DNNVV, điều kiện vay, thế chấp tài sản, tài sản bảo đảm"
+  },
+  {
+    "law_id": "23/2020/NĐ-CP",
+    "law_name": "Nghị định 23/2020/NĐ-CP ngày 24/02/2020 quy định về quản lý cát, sỏi lòng sông và bảo vệ lòng, bờ, bãi sông",
+    "priority": "Low",
+    "domain": "Môi trường - An toàn",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về bồi thường thiệt hại trong hoạt động thi công gây tai nạn"
+  },
+  {
+    "law_id": "31/2024/QH15",
+    "law_name": "Luật Đất đai số 31/2024/QH15 ngày 18/01/2024 (hiệu lực 01/01/2025)",
+    "priority": "Medium",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Áp dụng cho câu hỏi về thuê đất cụm công nghiệp từ 2025, điều kiện hợp đồng hợp tác khai thác đất đai, thế chấp bất động sản, hỗ trợ DNNVV về mặt bằng sản xuất"
+  },
+  {
+    "law_id": "77/2019/QH14",
+    "law_name": "Luật Hòa giải, đối thoại tại Tòa án số 58/2020/QH14 ngày 16/06/2020",
+    "priority": "Low",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Liên quan câu hỏi về giải quyết tranh chấp người tiêu dùng, hòa giải tranh chấp thương mại, điều kiện khởi kiện ra Tòa khi hòa giải không thành"
+  },
+  {
+    "law_id": "82/2017/QH14",
+    "law_name": "Luật Trách nhiệm bồi thường thiệt hại ngoài hợp đồng (điều 584-608 Bộ luật Dân sự 91/2015/QH13)",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về bồi thường thiệt hại khi thi công gây tai nạn, trách nhiệm liên đới của KOL khi cung cấp thông tin sai lệch, thiệt hại cơ hội kinh doanh khi xâm phạm quyền tác giả"
+  },
+  {
+    "law_id": "51/2010/QH12",
+    "law_name": "Luật Bảo vệ người tiêu dùng (cũ 59/2010/QH12) và Luật Bảo vệ quyền lợi người tiêu dùng mới 19/2023/QH15 (hiệu lực 01/07/2024)",
+    "priority": "High",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Chi phối câu hỏi về nghĩa vụ cung cấp thông tin, hợp đồng theo mẫu và điều kiện giao dịch chung, bán hàng từ xa, bán hàng tận cửa, bán hàng đa cấp, thu hồi sản phẩm lỗi, giải quyết khiếu nại, tổ chức hòa giải"
+  },
+  {
+    "law_id": "57/2018/TT-BTC",
+    "law_name": "Thông tư 57/2018/TT-BTC ngày 05/07/2018 quy định chế độ, thủ tục tài chính đối với Quỹ bảo lãnh tín dụng cho DNNVV",
+    "priority": "Medium",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Chi tiết về phí bảo lãnh tín dụng, chế độ tài chính của Quỹ bảo lãnh, chứng thư bảo lãnh, xử lý rủi ro tài chính sau khi Quỹ thực hiện bảo lãnh"
+  },
+  {
+    "law_id": "28/2018/QH14",
+    "law_name": "Luật Phòng, chống tác hại của thuốc lá số 09/2012/QH13 ngày 18/06/2012",
+    "priority": "Low",
+    "domain": "Thương mại - Hợp đồng",
+    "frequency_hint": "Cơ sở câu hỏi về điểm bán lẻ thuốc lá trưng bày vượt mức cho phép, xử phạt vi phạm về thuốc lá"
+  },
+  {
+    "law_id": "55/2020/QH14",
+    "law_name": "Nghị định 55/2020/NĐ-CP ngày 22/05/2020 sửa đổi Nghị định 44/2014/NĐ-CP về giá đất",
+    "priority": "Low",
+    "domain": "Đầu tư - Đất đai",
+    "frequency_hint": "Liên quan câu hỏi về định giá tài sản là quyền sử dụng đất trong góp vốn, thế chấp bất động sản"
+  },
+  {
+    "law_id": "03/2014/TT-BNV",
+    "law_name": "Nghị định 30/2020/NĐ-CP ngày 05/03/2020 về công tác văn thư",
+    "priority": "Low",
+    "domain": "Thủ tục hành chính",
+    "frequency_hint": "Liên quan gián tiếp đến câu hỏi về lưu trữ tài liệu kế toán, chứng từ gốc, thời hạn lưu trữ hồ sơ thuế tại doanh nghiệp"
+  },
+  {
+    "law_id": "90/2021/NĐ-CP",
+    "law_name": "Nghị định 90/2021/NĐ-CP ngày 15/10/2021 sửa đổi Nghị định 81/2021/NĐ-CP về học phí cơ sở giáo dục thuộc hệ thống quốc dân",
+    "priority": "Low",
+    "domain": "Doanh nghiệp - SME",
+    "frequency_hint": "Liên quan câu hỏi về hỗ trợ chi phí đào tạo online/offline cho DNNVV (khởi sự kinh doanh, quản trị DN) từ ngân sách nhà nước, khóa đào tạo trực tuyến/trực tiếp"
+  }
+]

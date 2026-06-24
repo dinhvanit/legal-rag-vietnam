@@ -1,0 +1,1904 @@
+{
+  "91/2015/QH13": {
+    "doc_id": "91/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Bộ Luật dân sự",
+    "btc_standard_string": "91/2015/QH13|Luật 91/2015/QH13 Bộ Luật dân sự"
+  },
+  "95/2015/QH13": {
+    "doc_id": "95/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Bộ luật Hàng hải",
+    "btc_standard_string": "95/2015/QH13|Luật 95/2015/QH13 Bộ luật Hàng hải"
+  },
+  "100/2015/QH13": {
+    "doc_id": "100/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Bộ luật Hình sự",
+    "btc_standard_string": "100/2015/QH13|Luật 100/2015/QH13 Bộ luật Hình sự"
+  },
+  "92/2015/QH13": {
+    "doc_id": "92/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Bộ luật Tố tụng dân sự",
+    "btc_standard_string": "92/2015/QH13|Luật 92/2015/QH13 Bộ luật Tố tụng dân sự"
+  },
+  "101/2015/QH13": {
+    "doc_id": "101/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Bộ luật Tố tụng Hình sự",
+    "btc_standard_string": "101/2015/QH13|Luật 101/2015/QH13 Bộ luật Tố tụng Hình sự"
+  },
+  "16/1999/QH10": {
+    "doc_id": "16/1999/QH10",
+    "document_type": "Luật",
+    "law_name": "Luật Sĩ quan Quân đội nhân dân Việt Nam",
+    "btc_standard_string": "16/1999/QH10|Luật 16/1999/QH10 Luật Sĩ quan Quân đội nhân dân Việt Nam"
+  },
+  "24/2000/QH10": {
+    "doc_id": "24/2000/QH10",
+    "document_type": "Luật",
+    "law_name": "Luật Kinh doanh bảo hiểm",
+    "btc_standard_string": "24/2000/QH10|Luật 24/2000/QH10 Luật Kinh doanh bảo hiểm"
+  },
+  "45/2024/QH15": {
+    "doc_id": "45/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Di sản văn hóa",
+    "btc_standard_string": "45/2024/QH15|Luật 45/2024/QH15 Luật Di sản văn hóa"
+  },
+  "06/2003/QH11": {
+    "doc_id": "06/2003/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Biên giới quốc gia",
+    "btc_standard_string": "06/2003/QH11|Luật 06/2003/QH11 Luật Biên giới quốc gia"
+  },
+  "32/2004/QH11": {
+    "doc_id": "32/2004/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật An ninh quốc gia",
+    "btc_standard_string": "32/2004/QH11|Luật 32/2004/QH11 Luật An ninh quốc gia"
+  },
+  "49/2005/QH11": {
+    "doc_id": "49/2005/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Các công cụ chuyển nhượng",
+    "btc_standard_string": "49/2005/QH11|Luật 49/2005/QH11 Luật Các công cụ chuyển nhượng"
+  },
+  "50/2005/QH11": {
+    "doc_id": "50/2005/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Sở hữu trí tuệ (sửa đổi)",
+    "btc_standard_string": "50/2005/QH11|Luật 50/2005/QH11 Luật Sở hữu trí tuệ (sửa đổi)"
+  },
+  "36/2005/QH11": {
+    "doc_id": "36/2005/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Thương mại",
+    "btc_standard_string": "36/2005/QH11|Luật 36/2005/QH11 Luật Thương mại"
+  },
+  "73/2006/QH11": {
+    "doc_id": "73/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Bình đẳng giới (sửa đổi)",
+    "btc_standard_string": "73/2006/QH11|Luật 73/2006/QH11 Luật Bình đẳng giới (sửa đổi)"
+  },
+  "67/2006/QH11": {
+    "doc_id": "67/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Công nghệ thông tin",
+    "btc_standard_string": "67/2006/QH11|Luật 67/2006/QH11 Luật Công nghệ thông tin"
+  },
+  "79/2006/QH11": {
+    "doc_id": "79/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Đê điều (sửa đổi)",
+    "btc_standard_string": "79/2006/QH11|Luật 79/2006/QH11 Luật Đê điều (sửa đổi)"
+  },
+  "66/2006/QH11": {
+    "doc_id": "66/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Hàng không dân dụng Việt Nam",
+    "btc_standard_string": "66/2006/QH11|Luật 66/2006/QH11 Luật Hàng không dân dụng Việt Nam"
+  },
+  "75/2006/QH11": {
+    "doc_id": "75/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Hiến, lấy, ghép mô, bộ phận cơ thể người",
+    "btc_standard_string": "75/2006/QH11|Luật 75/2006/QH11 Luật Hiến, lấy, ghép mô, bộ phận cơ thể người"
+  },
+  "64/2006/QH11": {
+    "doc_id": "64/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống HIV/AIDS",
+    "btc_standard_string": "64/2006/QH11|Luật 64/2006/QH11 Luật Phòng, chống HIV/AIDS"
+  },
+  "77/2006/QH11": {
+    "doc_id": "77/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Thể dục, thể thao",
+    "btc_standard_string": "77/2006/QH11|Luật 77/2006/QH11 Luật Thể dục, thể thao"
+  },
+  "68/2006/QH11": {
+    "doc_id": "68/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Tiêu chuẩn và Quy chuẩn kỹ thuật Việt Nam (sửa đổi)",
+    "btc_standard_string": "68/2006/QH11|Luật 68/2006/QH11 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật Việt Nam (sửa đổi)"
+  },
+  "05/2007/QH12": {
+    "doc_id": "05/2007/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Chất lượng sản phẩm, hàng hóa",
+    "btc_standard_string": "05/2007/QH12|Luật 05/2007/QH12 Luật Chất lượng sản phẩm, hàng hóa"
+  },
+  "03/2007/QH12": {
+    "doc_id": "03/2007/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống bệnh truyền nhiễm",
+    "btc_standard_string": "03/2007/QH12|Luật 03/2007/QH12 Luật Phòng, chống bệnh truyền nhiễm"
+  },
+  "08/2007/QH12": {
+    "doc_id": "08/2007/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Tương trợ tư pháp",
+    "btc_standard_string": "08/2007/QH12|Luật 08/2007/QH12 Luật Tương trợ tư pháp"
+  },
+  "25/2008/QH12": {
+    "doc_id": "25/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo hiểm y tế",
+    "btc_standard_string": "25/2008/QH12|Luật 25/2008/QH12 Luật Bảo hiểm y tế"
+  },
+  "24/2008/QH12": {
+    "doc_id": "24/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Quốc tịch Việt Nam",
+    "btc_standard_string": "24/2008/QH12|Luật 24/2008/QH12 Luật Quốc tịch Việt Nam"
+  },
+  "26/2008/QH12": {
+    "doc_id": "26/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Thi hành án dân sự",
+    "btc_standard_string": "26/2008/QH12|Luật 26/2008/QH12 Luật Thi hành án dân sự"
+  },
+  "14/2008/QH12": {
+    "doc_id": "14/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế thu nhập doanh nghiệp",
+    "btc_standard_string": "14/2008/QH12|Luật 14/2008/QH12 Luật Thuế thu nhập doanh nghiệp"
+  },
+  "39/2009/QH12": {
+    "doc_id": "39/2009/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Người cao tuổi",
+    "btc_standard_string": "39/2009/QH12|Luật 39/2009/QH12 Luật Người cao tuổi"
+  },
+  "45/2009/QH12": {
+    "doc_id": "45/2009/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế tài nguyên",
+    "btc_standard_string": "45/2009/QH12|Luật 45/2009/QH12 Luật Thuế tài nguyên"
+  },
+  "55/2010/QH12": {
+    "doc_id": "55/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật An toàn thực phẩm",
+    "btc_standard_string": "55/2010/QH12|Luật 55/2010/QH12 Luật An toàn thực phẩm"
+  },
+  "46/2010/QH12": {
+    "doc_id": "46/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Ngân hàng nhà nước Việt Nam",
+    "btc_standard_string": "46/2010/QH12|Luật 46/2010/QH12 Luật Ngân hàng nhà nước Việt Nam"
+  },
+  "51/2010/QH12": {
+    "doc_id": "51/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Người khuyết tật (sửa đổi)",
+    "btc_standard_string": "51/2010/QH12|Luật 51/2010/QH12 Luật Người khuyết tật (sửa đổi)"
+  },
+  "57/2010/QH12": {
+    "doc_id": "57/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế bảo vệ môi trường",
+    "btc_standard_string": "57/2010/QH12|Luật 57/2010/QH12 Luật Thuế bảo vệ môi trường"
+  },
+  "48/2010/QH12": {
+    "doc_id": "48/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế sử dụng đất phi nông nghiệp",
+    "btc_standard_string": "48/2010/QH12|Luật 48/2010/QH12 Luật Thuế sử dụng đất phi nông nghiệp"
+  },
+  "54/2010/QH12": {
+    "doc_id": "54/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Trọng tài thương mại (sửa đổi)",
+    "btc_standard_string": "54/2010/QH12|Luật 54/2010/QH12 Luật Trọng tài thương mại (sửa đổi)"
+  },
+  "58/2010/QH12": {
+    "doc_id": "58/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Viên chức",
+    "btc_standard_string": "58/2010/QH12|Luật 58/2010/QH12 Luật Viên chức"
+  },
+  "04/2011/QH13": {
+    "doc_id": "04/2011/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Đo lường",
+    "btc_standard_string": "04/2011/QH13|Luật 04/2011/QH13 Luật Đo lường"
+  },
+  "02/2011/QH13": {
+    "doc_id": "02/2011/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Khiếu nại",
+    "btc_standard_string": "02/2011/QH13|Luật 02/2011/QH13 Luật Khiếu nại"
+  },
+  "67/2011/QH12": {
+    "doc_id": "67/2011/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Kiểm toán độc lập (sửa đổi)",
+    "btc_standard_string": "67/2011/QH12|Luật 67/2011/QH12 Luật Kiểm toán độc lập (sửa đổi)"
+  },
+  "18/2012/QH13": {
+    "doc_id": "18/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Biển Việt Nam",
+    "btc_standard_string": "18/2012/QH13|Luật 18/2012/QH13 Luật Biển Việt Nam"
+  },
+  "22/2012/QH13": {
+    "doc_id": "22/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Dự trữ quốc gia",
+    "btc_standard_string": "22/2012/QH13|Luật 22/2012/QH13 Luật Dự trữ quốc gia"
+  },
+  "13/2012/QH13": {
+    "doc_id": "13/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Giám định tư pháp",
+    "btc_standard_string": "13/2012/QH13|Luật 13/2012/QH13 Luật Giám định tư pháp"
+  },
+  "08/2012/QH13": {
+    "doc_id": "08/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Giáo dục đại học (sửa đổi)",
+    "btc_standard_string": "08/2012/QH13|Luật 08/2012/QH13 Luật Giáo dục đại học (sửa đổi)"
+  },
+  "20/2012/QH13": {
+    "doc_id": "20/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Luật sư",
+    "btc_standard_string": "20/2012/QH13|Luật 20/2012/QH13 Luật Luật sư"
+  },
+  "09/2012/QH13": {
+    "doc_id": "09/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống tác hại của thuốc lá",
+    "btc_standard_string": "09/2012/QH13|Luật 09/2012/QH13 Luật Phòng, chống tác hại của thuốc lá"
+  },
+  "16/2012/QH13": {
+    "doc_id": "16/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Quảng cáo",
+    "btc_standard_string": "16/2012/QH13|Luật 16/2012/QH13 Luật Quảng cáo"
+  },
+  "15/2012/QH13": {
+    "doc_id": "15/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Xử lý vi phạm hành chính (sửa đổi)",
+    "btc_standard_string": "15/2012/QH13|Luật 15/2012/QH13 Luật Xử lý vi phạm hành chính (sửa đổi)"
+  },
+  "19/2012/QH13": {
+    "doc_id": "19/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật xuất bản",
+    "btc_standard_string": "19/2012/QH13|Luật 19/2012/QH13 Luật xuất bản"
+  },
+  "35/2013/QH13": {
+    "doc_id": "35/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Hòa giải ở cơ sở",
+    "btc_standard_string": "35/2013/QH13|Luật 35/2013/QH13 Luật Hòa giải ở cơ sở"
+  },
+  "29/2013/QH13": {
+    "doc_id": "29/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Khoa học và Công nghệ",
+    "btc_standard_string": "29/2013/QH13|Luật 29/2013/QH13 Luật Khoa học và Công nghệ"
+  },
+  "28/2013/QH13": {
+    "doc_id": "28/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống khủng bố",
+    "btc_standard_string": "28/2013/QH13|Luật 28/2013/QH13 Luật Phòng, chống khủng bố"
+  },
+  "33/2013/QH13": {
+    "doc_id": "33/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống thiên tai (sửa đổi)",
+    "btc_standard_string": "33/2013/QH13|Luật 33/2013/QH13 Luật Phòng, chống thiên tai (sửa đổi)"
+  },
+  "44/2013/QH13": {
+    "doc_id": "44/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Thực hành tiết kiệm, chống lãng phí",
+    "btc_standard_string": "44/2013/QH13|Luật 44/2013/QH13 Luật Thực hành tiết kiệm, chống lãng phí"
+  },
+  "42/2013/QH13": {
+    "doc_id": "42/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tiếp công dân",
+    "btc_standard_string": "42/2013/QH13|Luật 42/2013/QH13 Luật Tiếp công dân"
+  },
+  "74/2014/QH13": {
+    "doc_id": "74/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Giáo dục nghề nghiệp (sửa đổi)",
+    "btc_standard_string": "74/2014/QH13|Luật 74/2014/QH13 Luật Giáo dục nghề nghiệp (sửa đổi)"
+  },
+  "54/2014/QH13": {
+    "doc_id": "54/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Hải quan",
+    "btc_standard_string": "54/2014/QH13|Luật 54/2014/QH13 Luật Hải quan"
+  },
+  "60/2014/QH13": {
+    "doc_id": "60/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Hộ tịch",
+    "btc_standard_string": "60/2014/QH13|Luật 60/2014/QH13 Luật Hộ tịch"
+  },
+  "52/2014/QH13": {
+    "doc_id": "52/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Hôn nhân và gia đình",
+    "btc_standard_string": "52/2014/QH13|Luật 52/2014/QH13 Luật Hôn nhân và gia đình"
+  },
+  "47/2014/QH13": {
+    "doc_id": "47/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Nhập cảnh, xuất cảnh của người nước ngoài tại Việt Nam",
+    "btc_standard_string": "47/2014/QH13|Luật 47/2014/QH13 Luật Nhập cảnh, xuất cảnh của người nước ngoài tại Việt Nam"
+  },
+  "57/2014/QH13": {
+    "doc_id": "57/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tổ chức Quốc hội (sửa đổi)",
+    "btc_standard_string": "57/2014/QH13|Luật 57/2014/QH13 Luật Tổ chức Quốc hội (sửa đổi)"
+  },
+  "62/2014/QH13": {
+    "doc_id": "62/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tổ chức Tòa án nhân dân",
+    "btc_standard_string": "62/2014/QH13|Luật 62/2014/QH13 Luật Tổ chức Tòa án nhân dân"
+  },
+  "63/2014/QH13": {
+    "doc_id": "63/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tổ chức Viện kiểm sát nhân dân",
+    "btc_standard_string": "63/2014/QH13|Luật 63/2014/QH13 Luật Tổ chức Viện kiểm sát nhân dân"
+  },
+  "50/2014/QH13": {
+    "doc_id": "50/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Xây dựng",
+    "btc_standard_string": "50/2014/QH13|Luật 50/2014/QH13 Luật Xây dựng"
+  },
+  "84/2015/QH13": {
+    "doc_id": "84/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật An toàn, vệ sinh lao động",
+    "btc_standard_string": "84/2015/QH13|Luật 84/2015/QH13 Luật An toàn, vệ sinh lao động"
+  },
+  "85/2015/QH13": {
+    "doc_id": "85/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Bầu cử đại biểu Quốc hội và đại biểu HĐND (sửa đổi)",
+    "btc_standard_string": "85/2015/QH13|Luật 85/2015/QH13 Luật Bầu cử đại biểu Quốc hội và đại biểu HĐND (sửa đổi)"
+  },
+  "87/2015/QH13": {
+    "doc_id": "87/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Hoạt động giám sát của Quốc hội và HĐND",
+    "btc_standard_string": "87/2015/QH13|Luật 87/2015/QH13 Luật Hoạt động giám sát của Quốc hội và HĐND"
+  },
+  "88/2015/QH13": {
+    "doc_id": "88/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Kế toán",
+    "btc_standard_string": "88/2015/QH13|Luật 88/2015/QH13 Luật Kế toán"
+  },
+  "09/2017/QH14": {
+    "doc_id": "09/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Du lịch",
+    "btc_standard_string": "09/2017/QH14|Luật 09/2017/QH14 Luật Du lịch"
+  },
+  "81/2015/QH13": {
+    "doc_id": "81/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Kiểm toán nhà nước",
+    "btc_standard_string": "81/2015/QH13|Luật 81/2015/QH13 Luật Kiểm toán nhà nước"
+  },
+  "75/2015/QH13": {
+    "doc_id": "75/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Mặt trận Tổ quốc Việt Nam",
+    "btc_standard_string": "75/2015/QH13|Luật 75/2015/QH13 Luật Mặt trận Tổ quốc Việt Nam"
+  },
+  "78/2015/QH13": {
+    "doc_id": "78/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Nghĩa vụ quân sự",
+    "btc_standard_string": "78/2015/QH13|Luật 78/2015/QH13 Luật Nghĩa vụ quân sự"
+  },
+  "89/2015/QH13": {
+    "doc_id": "89/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Thống kê",
+    "btc_standard_string": "89/2015/QH13|Luật 89/2015/QH13 Luật Thống kê"
+  },
+  "96/2015/QH13": {
+    "doc_id": "96/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Trưng cầu ý dân",
+    "btc_standard_string": "96/2015/QH13|Luật 96/2015/QH13 Luật Trưng cầu ý dân"
+  },
+  "103/2016/QH13": {
+    "doc_id": "103/2016/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Báo chí",
+    "btc_standard_string": "103/2016/QH13|Luật 103/2016/QH13 Luật Báo chí"
+  },
+  "108/2016/QH13": {
+    "doc_id": "108/2016/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Điều ước quốc tế",
+    "btc_standard_string": "108/2016/QH13|Luật 108/2016/QH13 Luật Điều ước quốc tế"
+  },
+  "105/2016/QH13": {
+    "doc_id": "105/2016/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Dược",
+    "btc_standard_string": "105/2016/QH13|Luật 105/2016/QH13 Luật Dược"
+  },
+  "107/2016/QH13": {
+    "doc_id": "107/2016/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế xuất khẩu, thuế nhập khẩu",
+    "btc_standard_string": "107/2016/QH13|Luật 107/2016/QH13 Luật Thuế xuất khẩu, thuế nhập khẩu"
+  },
+  "104/2016/QH13": {
+    "doc_id": "104/2016/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tiếp cận thông tin",
+    "btc_standard_string": "104/2016/QH13|Luật 104/2016/QH13 Luật Tiếp cận thông tin"
+  },
+  "02/2016/QH14": {
+    "doc_id": "02/2016/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Tín ngưỡng, tôn giáo",
+    "btc_standard_string": "02/2016/QH14|Luật 02/2016/QH14 Luật Tín ngưỡng, tôn giáo"
+  },
+  "102/2016/QH13": {
+    "doc_id": "102/2016/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Trẻ em",
+    "btc_standard_string": "102/2016/QH13|Luật 102/2016/QH13 Luật Trẻ em"
+  },
+  "13/2017/QH14": {
+    "doc_id": "13/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Cảnh vệ",
+    "btc_standard_string": "13/2017/QH14|Luật 13/2017/QH14 Luật Cảnh vệ"
+  },
+  "07/2017/QH14": {
+    "doc_id": "07/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Chuyển giao công nghệ",
+    "btc_standard_string": "07/2017/QH14|Luật 07/2017/QH14 Luật Chuyển giao công nghệ"
+  },
+  "04/2017/QH14": {
+    "doc_id": "04/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+    "btc_standard_string": "04/2017/QH14|Luật 04/2017/QH14 Luật Hỗ trợ doanh nghiệp nhỏ và vừa"
+  },
+  "16/2017/QH14": {
+    "doc_id": "16/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Lâm nghiệp (sửa đổi)",
+    "btc_standard_string": "16/2017/QH14|Luật 16/2017/QH14 Luật Lâm nghiệp (sửa đổi)"
+  },
+  "05/2017/QH14": {
+    "doc_id": "05/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý ngoại thương (sửa đổi)",
+    "btc_standard_string": "05/2017/QH14|Luật 05/2017/QH14 Luật Quản lý ngoại thương (sửa đổi)"
+  },
+  "20/2017/QH14": {
+    "doc_id": "20/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý nợ công",
+    "btc_standard_string": "20/2017/QH14|Luật 20/2017/QH14 Luật Quản lý nợ công"
+  },
+  "15/2017/QH14": {
+    "doc_id": "15/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý, sử dụng tài sản công",
+    "btc_standard_string": "15/2017/QH14|Luật 15/2017/QH14 Luật Quản lý, sử dụng tài sản công"
+  },
+  "21/2017/QH14": {
+    "doc_id": "21/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Quy hoạch",
+    "btc_standard_string": "21/2017/QH14|Luật 21/2017/QH14 Luật Quy hoạch"
+  },
+  "08/2017/QH14": {
+    "doc_id": "08/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thủy lợi (sửa đổi)",
+    "btc_standard_string": "08/2017/QH14|Luật 08/2017/QH14 Luật Thủy lợi (sửa đổi)"
+  },
+  "18/2017/QH14": {
+    "doc_id": "18/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thủy sản",
+    "btc_standard_string": "18/2017/QH14|Luật 18/2017/QH14 Luật Thủy sản"
+  },
+  "10/2017/QH14": {
+    "doc_id": "10/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Trách nhiệm bồi thường của Nhà nước",
+    "btc_standard_string": "10/2017/QH14|Luật 10/2017/QH14 Luật Trách nhiệm bồi thường của Nhà nước"
+  },
+  "11/2017/QH14": {
+    "doc_id": "11/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Trợ giúp pháp lý",
+    "btc_standard_string": "11/2017/QH14|Luật 11/2017/QH14 Luật Trợ giúp pháp lý"
+  },
+  "24/2018/QH14": {
+    "doc_id": "24/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật An ninh mạng",
+    "btc_standard_string": "24/2018/QH14|Luật 24/2018/QH14 Luật An ninh mạng"
+  },
+  "29/2018/QH14": {
+    "doc_id": "29/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo vệ bí mật nhà nước",
+    "btc_standard_string": "29/2018/QH14|Luật 29/2018/QH14 Luật Bảo vệ bí mật nhà nước"
+  },
+  "33/2018/QH14": {
+    "doc_id": "33/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Cảnh sát biển Việt Nam",
+    "btc_standard_string": "33/2018/QH14|Luật 33/2018/QH14 Luật Cảnh sát biển Việt Nam"
+  },
+  "23/2018/QH14": {
+    "doc_id": "23/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Cạnh tranh",
+    "btc_standard_string": "23/2018/QH14|Luật 23/2018/QH14 Luật Cạnh tranh"
+  },
+  "32/2018/QH14": {
+    "doc_id": "32/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Chăn nuôi (sửa đổi)",
+    "btc_standard_string": "32/2018/QH14|Luật 32/2018/QH14 Luật Chăn nuôi (sửa đổi)"
+  },
+  "37/2018/QH14": {
+    "doc_id": "37/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Công an nhân dân",
+    "btc_standard_string": "37/2018/QH14|Luật 37/2018/QH14 Luật Công an nhân dân"
+  },
+  "30/2018/QH14": {
+    "doc_id": "30/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đặc xá",
+    "btc_standard_string": "30/2018/QH14|Luật 30/2018/QH14 Luật Đặc xá"
+  },
+  "27/2018/QH14": {
+    "doc_id": "27/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đo đạc và bản đồ",
+    "btc_standard_string": "27/2018/QH14|Luật 27/2018/QH14 Luật Đo đạc và bản đồ"
+  },
+  "35/2018/QH14": {
+    "doc_id": "35/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đơn vị hành chính - kinh tế đặc biệt",
+    "btc_standard_string": "35/2018/QH14|Luật 35/2018/QH14 Luật Đơn vị hành chính - kinh tế đặc biệt"
+  },
+  "36/2018/QH14": {
+    "doc_id": "36/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống tham nhũng",
+    "btc_standard_string": "36/2018/QH14|Luật 36/2018/QH14 Luật Phòng, chống tham nhũng"
+  },
+  "22/2018/QH14": {
+    "doc_id": "22/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Quốc phòng",
+    "btc_standard_string": "22/2018/QH14|Luật 22/2018/QH14 Luật Quốc phòng"
+  },
+  "25/2018/QH14": {
+    "doc_id": "25/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Tố cáo",
+    "btc_standard_string": "25/2018/QH14|Luật 25/2018/QH14 Luật Tố cáo"
+  },
+  "31/2018/QH14": {
+    "doc_id": "31/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Trồng trọt",
+    "btc_standard_string": "31/2018/QH14|Luật 31/2018/QH14 Luật Trồng trọt"
+  },
+  "54/2019/QH14": {
+    "doc_id": "54/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Chứng khoán",
+    "btc_standard_string": "54/2019/QH14|Luật 54/2019/QH14 Luật Chứng khoán"
+  },
+  "48/2019/QH14": {
+    "doc_id": "48/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Dân quân tự vệ",
+    "btc_standard_string": "48/2019/QH14|Luật 48/2019/QH14 Luật Dân quân tự vệ"
+  },
+  "39/2019/QH14": {
+    "doc_id": "39/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đầu tư công",
+    "btc_standard_string": "39/2019/QH14|Luật 39/2019/QH14 Luật Đầu tư công"
+  },
+  "43/2019/QH14": {
+    "doc_id": "43/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Giáo dục",
+    "btc_standard_string": "43/2019/QH14|Luật 43/2019/QH14 Luật Giáo dục"
+  },
+  "53/2019/QH14": {
+    "doc_id": "53/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Lực lượng dự bị động viên",
+    "btc_standard_string": "53/2019/QH14|Luật 53/2019/QH14 Luật Lực lượng dự bị động viên"
+  },
+  "44/2019/QH14": {
+    "doc_id": "44/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống tác hại của rượu, bia",
+    "btc_standard_string": "44/2019/QH14|Luật 44/2019/QH14 Luật Phòng, chống tác hại của rượu, bia"
+  },
+  "38/2019/QH14": {
+    "doc_id": "38/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý thuế",
+    "btc_standard_string": "38/2019/QH14|Luật 38/2019/QH14 Luật Quản lý thuế"
+  },
+  "41/2019/QH14": {
+    "doc_id": "41/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thi hành án hình sự",
+    "btc_standard_string": "41/2019/QH14|Luật 41/2019/QH14 Luật Thi hành án hình sự"
+  },
+  "46/2019/QH14": {
+    "doc_id": "46/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thư viện",
+    "btc_standard_string": "46/2019/QH14|Luật 46/2019/QH14 Luật Thư viện"
+  },
+  "49/2019/QH14": {
+    "doc_id": "49/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Xuất cảnh, nhập cảnh của công dân Việt Nam",
+    "btc_standard_string": "49/2019/QH14|Luật 49/2019/QH14 Luật Xuất cảnh, nhập cảnh của công dân Việt Nam"
+  },
+  "72/2020/QH14": {
+    "doc_id": "72/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo vệ môi trường",
+    "btc_standard_string": "72/2020/QH14|Luật 72/2020/QH14 Luật Bảo vệ môi trường"
+  },
+  "66/2020/QH14": {
+    "doc_id": "66/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Biên phòng Việt Nam",
+    "btc_standard_string": "66/2020/QH14|Luật 66/2020/QH14 Luật Biên phòng Việt Nam"
+  },
+  "68/2020/QH14": {
+    "doc_id": "68/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Cư trú",
+    "btc_standard_string": "68/2020/QH14|Luật 68/2020/QH14 Luật Cư trú"
+  },
+  "64/2020/QH14": {
+    "doc_id": "64/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đầu tư theo phương thức đối tác công tư",
+    "btc_standard_string": "64/2020/QH14|Luật 64/2020/QH14 Luật Đầu tư theo phương thức đối tác công tư"
+  },
+  "59/2020/QH14": {
+    "doc_id": "59/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Doanh nghiệp",
+    "btc_standard_string": "59/2020/QH14|Luật 59/2020/QH14 Luật Doanh nghiệp"
+  },
+  "58/2020/QH14": {
+    "doc_id": "58/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Hòa giải, đối thoại tại Tòa án (sửa đổi)",
+    "btc_standard_string": "58/2020/QH14|Luật 58/2020/QH14 Luật Hòa giải, đối thoại tại Tòa án (sửa đổi)"
+  },
+  "69/2020/QH14": {
+    "doc_id": "69/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+    "btc_standard_string": "69/2020/QH14|Luật 69/2020/QH14 Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng"
+  },
+  "57/2020/QH14": {
+    "doc_id": "57/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thanh niên",
+    "btc_standard_string": "57/2020/QH14|Luật 57/2020/QH14 Luật Thanh niên"
+  },
+  "67/2020/QH14": {
+    "doc_id": "67/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thừa phát lại",
+    "btc_standard_string": "67/2020/QH14|Luật 67/2020/QH14 Luật Thừa phát lại"
+  },
+  "73/2021/QH14": {
+    "doc_id": "73/2021/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống ma túy",
+    "btc_standard_string": "73/2021/QH14|Luật 73/2021/QH14 Luật Phòng, chống ma túy"
+  },
+  "04/2022/QH15": {
+    "doc_id": "04/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Cảnh sát cơ động",
+    "btc_standard_string": "04/2022/QH15|Luật 04/2022/QH15 Luật Cảnh sát cơ động"
+  },
+  "12/2022/QH15": {
+    "doc_id": "12/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Dầu khí",
+    "btc_standard_string": "12/2022/QH15|Luật 12/2022/QH15 Luật Dầu khí"
+  },
+  "05/2022/QH15": {
+    "doc_id": "05/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Điện ảnh",
+    "btc_standard_string": "05/2022/QH15|Luật 05/2022/QH15 Luật Điện ảnh"
+  },
+  "08/2022/QH15": {
+    "doc_id": "08/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Kinh doanh bảo hiểm",
+    "btc_standard_string": "08/2022/QH15|Luật 08/2022/QH15 Luật Kinh doanh bảo hiểm"
+  },
+  "13/2022/QH15": {
+    "doc_id": "13/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống bạo lực gia đình",
+    "btc_standard_string": "13/2022/QH15|Luật 13/2022/QH15 Luật Phòng, chống bạo lực gia đình"
+  },
+  "14/2022/QH15": {
+    "doc_id": "14/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống rửa tiền",
+    "btc_standard_string": "14/2022/QH15|Luật 14/2022/QH15 Luật Phòng, chống rửa tiền"
+  },
+  "06/2022/QH15": {
+    "doc_id": "06/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thi đua, khen thưởng",
+    "btc_standard_string": "06/2022/QH15|Luật 06/2022/QH15 Luật Thi đua, khen thưởng"
+  },
+  "10/2022/QH15": {
+    "doc_id": "10/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thực hiện dân chủ ở cơ sở",
+    "btc_standard_string": "10/2022/QH15|Luật 10/2022/QH15 Luật Thực hiện dân chủ ở cơ sở"
+  },
+  "19/2023/QH15": {
+    "doc_id": "19/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo vệ quyền lợi người tiêu dùng",
+    "btc_standard_string": "19/2023/QH15|Luật 19/2023/QH15 Luật Bảo vệ quyền lợi người tiêu dùng"
+  },
+  "22/2023/QH15": {
+    "doc_id": "22/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Đấu thầu",
+    "btc_standard_string": "22/2023/QH15|Luật 22/2023/QH15 Luật Đấu thầu"
+  },
+  "16/2023/QH15": {
+    "doc_id": "16/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Giá",
+    "btc_standard_string": "16/2023/QH15|Luật 16/2023/QH15 Luật Giá"
+  },
+  "20/2023/QH15": {
+    "doc_id": "20/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Giao dịch điện tử",
+    "btc_standard_string": "20/2023/QH15|Luật 20/2023/QH15 Luật Giao dịch điện tử"
+  },
+  "17/2023/QH15": {
+    "doc_id": "17/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Hợp tác xã",
+    "btc_standard_string": "17/2023/QH15|Luật 17/2023/QH15 Luật Hợp tác xã"
+  },
+  "29/2023/QH15": {
+    "doc_id": "29/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Kinh doanh bất động sản",
+    "btc_standard_string": "29/2023/QH15|Luật 29/2023/QH15 Luật Kinh doanh bất động sản"
+  },
+  "27/2023/QH15": {
+    "doc_id": "27/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Nhà ở",
+    "btc_standard_string": "27/2023/QH15|Luật 27/2023/QH15 Luật Nhà ở"
+  },
+  "21/2023/QH15": {
+    "doc_id": "21/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng bệnh",
+    "btc_standard_string": "21/2023/QH15|Luật 21/2023/QH15 Luật Phòng bệnh"
+  },
+  "18/2023/QH15": {
+    "doc_id": "18/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng thủ dân sự",
+    "btc_standard_string": "18/2023/QH15|Luật 18/2023/QH15 Luật Phòng thủ dân sự"
+  },
+  "28/2023/QH15": {
+    "doc_id": "28/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Tài nguyên nước",
+    "btc_standard_string": "28/2023/QH15|Luật 28/2023/QH15 Luật Tài nguyên nước"
+  },
+  "24/2023/QH15": {
+    "doc_id": "24/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Viễn thông",
+    "btc_standard_string": "24/2023/QH15|Luật 24/2023/QH15 Luật Viễn thông"
+  },
+  "61/2024/QH15": {
+    "doc_id": "61/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Điện lực",
+    "btc_standard_string": "61/2024/QH15|Luật 61/2024/QH15 Luật Điện lực"
+  },
+  "32/2024/QH15": {
+    "doc_id": "32/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Các tổ chức tín dụng",
+    "btc_standard_string": "32/2024/QH15|Luật 32/2024/QH15 Luật Các tổ chức tín dụng"
+  },
+  "46/2024/QH15": {
+    "doc_id": "46/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Công chứng",
+    "btc_standard_string": "46/2024/QH15|Luật 46/2024/QH15 Luật Công chứng"
+  },
+  "50/2024/QH15": {
+    "doc_id": "50/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Công đoàn",
+    "btc_standard_string": "50/2024/QH15|Luật 50/2024/QH15 Luật Công đoàn"
+  },
+  "38/2024/QH15": {
+    "doc_id": "38/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp",
+    "btc_standard_string": "38/2024/QH15|Luật 38/2024/QH15 Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp"
+  },
+  "31/2024/QH15": {
+    "doc_id": "31/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Đất đai",
+    "btc_standard_string": "31/2024/QH15|Luật 31/2024/QH15 Luật Đất đai"
+  },
+  "58/2024/QH15": {
+    "doc_id": "58/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Đầu tư công",
+    "btc_standard_string": "58/2024/QH15|Luật 58/2024/QH15 Luật Đầu tư công"
+  },
+  "54/2024/QH15": {
+    "doc_id": "54/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Địa chất và Khoáng sản",
+    "btc_standard_string": "54/2024/QH15|Luật 54/2024/QH15 Luật Địa chất và Khoáng sản"
+  },
+  "60/2024/QH15": {
+    "doc_id": "60/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Dữ liệu",
+    "btc_standard_string": "60/2024/QH15|Luật 60/2024/QH15 Luật Dữ liệu"
+  },
+  "49/2024/QH15": {
+    "doc_id": "49/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng không nhân dân",
+    "btc_standard_string": "49/2024/QH15|Luật 49/2024/QH15 Luật Phòng không nhân dân"
+  },
+  "35/2024/QH15": {
+    "doc_id": "35/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Đường bộ",
+    "btc_standard_string": "35/2024/QH15|Luật 35/2024/QH15 Luật Đường bộ"
+  },
+  "33/2024/QH15": {
+    "doc_id": "33/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Lưu trữ",
+    "btc_standard_string": "33/2024/QH15|Luật 33/2024/QH15 Luật Lưu trữ"
+  },
+  "52/2024/QH15": {
+    "doc_id": "52/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Nhà ở xã hội",
+    "btc_standard_string": "52/2024/QH15|Luật 52/2024/QH15 Luật Nhà ở xã hội"
+  },
+  "55/2024/QH15": {
+    "doc_id": "55/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+    "btc_standard_string": "55/2024/QH15|Luật 55/2024/QH15 Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ"
+  },
+  "42/2024/QH15": {
+    "doc_id": "42/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (sửa đổi)",
+    "btc_standard_string": "42/2024/QH15|Luật 42/2024/QH15 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (sửa đổi)"
+  },
+  "47/2024/QH15": {
+    "doc_id": "47/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Quy hoạch đô thị và nông thôn",
+    "btc_standard_string": "47/2024/QH15|Luật 47/2024/QH15 Luật Quy hoạch đô thị và nông thôn"
+  },
+  "46/2014/QH13": {
+    "doc_id": "46/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi Luật Bảo hiểm y tế",
+    "btc_standard_string": "46/2014/QH13|Luật 46/2014/QH13 Luật sửa đổi Luật Bảo hiểm y tế"
+  },
+  "39/2024/QH15": {
+    "doc_id": "39/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thủ đô (sửa đổi)",
+    "btc_standard_string": "39/2024/QH15|Luật 39/2024/QH15 Luật Thủ đô (sửa đổi)"
+  },
+  "57/2024/QH15": {
+    "doc_id": "57/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế thu nhập doanh nghiệp (sửa đổi)",
+    "btc_standard_string": "57/2024/QH15|Luật 57/2024/QH15 Luật Thuế thu nhập doanh nghiệp (sửa đổi)"
+  },
+  "34/2024/QH15": {
+    "doc_id": "34/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Tổ chức Tòa án nhân dân (sửa đổi)",
+    "btc_standard_string": "34/2024/QH15|Luật 34/2024/QH15 Luật Tổ chức Tòa án nhân dân (sửa đổi)"
+  },
+  "36/2024/QH15": {
+    "doc_id": "36/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Trật tự an toàn giao thông đường bộ",
+    "btc_standard_string": "36/2024/QH15|Luật 36/2024/QH15 Luật Trật tự an toàn giao thông đường bộ"
+  },
+  "59/2024/QH15": {
+    "doc_id": "59/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Tư pháp người chưa thành niên",
+    "btc_standard_string": "59/2024/QH15|Luật 59/2024/QH15 Luật Tư pháp người chưa thành niên"
+  },
+  "80/2025/QH15": {
+    "doc_id": "80/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Cán bộ, công chức (sửa đổi)",
+    "btc_standard_string": "80/2025/QH15|Luật 80/2025/QH15 Luật Cán bộ, công chức (sửa đổi)"
+  },
+  "71/2025/QH15": {
+    "doc_id": "71/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Công nghiệp công nghệ số",
+    "btc_standard_string": "71/2025/QH15|Luật 71/2025/QH15 Luật Công nghiệp công nghệ số"
+  },
+  "95/2025/QH15": {
+    "doc_id": "95/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Đường sắt (sửa đổi)",
+    "btc_standard_string": "95/2025/QH15|Luật 95/2025/QH15 Luật Đường sắt (sửa đổi)"
+  },
+  "64/2025/QH15": {
+    "doc_id": "64/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Hàng hải (sửa đổi)",
+    "btc_standard_string": "64/2025/QH15|Luật 64/2025/QH15 Luật Hàng hải (sửa đổi)"
+  },
+  "69/2025/QH15": {
+    "doc_id": "69/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Hóa chất",
+    "btc_standard_string": "69/2025/QH15|Luật 69/2025/QH15 Luật Hóa chất"
+  },
+  "93/2025/QH15": {
+    "doc_id": "93/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Khoa học, Công nghệ và Đổi mới sáng tạo",
+    "btc_standard_string": "93/2025/QH15|Luật 93/2025/QH15 Luật Khoa học, Công nghệ và Đổi mới sáng tạo"
+  },
+  "66/2025/QH15": {
+    "doc_id": "66/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Kiểm toán nhà nước (sửa đổi)",
+    "btc_standard_string": "66/2025/QH15|Luật 66/2025/QH15 Luật Kiểm toán nhà nước (sửa đổi)"
+  },
+  "77/2025/QH15": {
+    "doc_id": "77/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Luật sư (sửa đổi)",
+    "btc_standard_string": "77/2025/QH15|Luật 77/2025/QH15 Luật Luật sư (sửa đổi)"
+  },
+  "72/2025/QH15": {
+    "doc_id": "72/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Lưu trữ (sửa đổi)",
+    "btc_standard_string": "72/2025/QH15|Luật 72/2025/QH15 Luật Lưu trữ (sửa đổi)"
+  },
+  "94/2025/QH15": {
+    "doc_id": "94/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Năng lượng nguyên tử (sửa đổi)",
+    "btc_standard_string": "94/2025/QH15|Luật 94/2025/QH15 Luật Năng lượng nguyên tử (sửa đổi)"
+  },
+  "83/2025/QH15": {
+    "doc_id": "83/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Người cao tuổi (sửa đổi)",
+    "btc_standard_string": "83/2025/QH15|Luật 83/2025/QH15 Luật Người cao tuổi (sửa đổi)"
+  },
+  "73/2025/QH15": {
+    "doc_id": "73/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Nhập cảnh, xuất cảnh, quá cảnh của người nước ngoài (sửa đổi)",
+    "btc_standard_string": "73/2025/QH15|Luật 73/2025/QH15 Luật Nhập cảnh, xuất cảnh, quá cảnh của người nước ngoài (sửa đổi)"
+  },
+  "85/2025/QH15": {
+    "doc_id": "85/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống bạo lực gia đình (sửa đổi)",
+    "btc_standard_string": "85/2025/QH15|Luật 85/2025/QH15 Luật Phòng, chống bạo lực gia đình (sửa đổi)"
+  },
+  "98/2025/QH15": {
+    "doc_id": "98/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi 11 Luật về quân sự, quốc phòng",
+    "btc_standard_string": "98/2025/QH15|Luật 98/2025/QH15 Luật sửa đổi 11 Luật về quân sự, quốc phòng"
+  },
+  "92/2025/QH15": {
+    "doc_id": "92/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc",
+    "btc_standard_string": "92/2025/QH15|Luật 92/2025/QH15 Luật Tham gia lực lượng gìn giữ hòa bình Liên hợp quốc"
+  },
+  "68/2025/QH15": {
+    "doc_id": "68/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thể dục, thể thao (sửa đổi)",
+    "btc_standard_string": "68/2025/QH15|Luật 68/2025/QH15 Luật Thể dục, thể thao (sửa đổi)"
+  },
+  "67/2025/QH15": {
+    "doc_id": "67/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thống kê (sửa đổi)",
+    "btc_standard_string": "67/2025/QH15|Luật 67/2025/QH15 Luật Thống kê (sửa đổi)"
+  },
+  "81/2025/QH15": {
+    "doc_id": "81/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Trẻ em (sửa đổi)",
+    "btc_standard_string": "81/2025/QH15|Luật 81/2025/QH15 Luật Trẻ em (sửa đổi)"
+  },
+  "76/2025/QH15": {
+    "doc_id": "76/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Trợ giúp pháp lý (sửa đổi)",
+    "btc_standard_string": "76/2025/QH15|Luật 76/2025/QH15 Luật Trợ giúp pháp lý (sửa đổi)"
+  },
+  "74/2025/QH15": {
+    "doc_id": "74/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Việc làm",
+    "btc_standard_string": "74/2025/QH15|Luật 74/2025/QH15 Luật Việc làm"
+  },
+  "01/2007/QH12": {
+    "doc_id": "01/2007/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật phòng,chống tham nhũng",
+    "btc_standard_string": "01/2007/QH12|Luật 01/2007/QH12 Luật Sửa đổi, bổ sung một số điều của Luật phòng,chống tham nhũng"
+  },
+  "01/2016/QH14": {
+    "doc_id": "01/2016/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đấu giá tài sản",
+    "btc_standard_string": "01/2016/QH14|Luật 01/2016/QH14 Luật Đấu giá tài sản"
+  },
+  "01/2021/QH15": {
+    "doc_id": "01/2021/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê",
+    "btc_standard_string": "01/2021/QH15|Luật 01/2021/QH15 Luật Sửa đổi, bổ sung một số điều và Phụ lục Danh mục chỉ tiêu thống kê quốc gia của Luật Thống kê"
+  },
+  "02/2021/QH15": {
+    "doc_id": "02/2021/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự",
+    "btc_standard_string": "02/2021/QH15|Luật 02/2021/QH15 Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự"
+  },
+  "03/2022/QH15": {
+    "doc_id": "03/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Đầu tư công, Luật Đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và Luật Thi hành án dân sự.",
+    "btc_standard_string": "03/2022/QH15|Luật 03/2022/QH15 Luật sửa đổi, bổ sung một số điều của Luật Đầu tư công, Luật Đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và Luật Thi hành án dân sự."
+  },
+  "05/2011/QH13": {
+    "doc_id": "05/2011/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Cơ yếu",
+    "btc_standard_string": "05/2011/QH13|Luật 05/2011/QH13 Luật Cơ yếu"
+  },
+  "06/2012/QH13": {
+    "doc_id": "06/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo hiểm tiền gửi",
+    "btc_standard_string": "06/2012/QH13|Luật 06/2012/QH13 Luật Bảo hiểm tiền gửi"
+  },
+  "07/2022/QH15": {
+    "doc_id": "07/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ",
+    "btc_standard_string": "07/2022/QH15|Luật 07/2022/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ"
+  },
+  "07/2026/QH16": {
+    "doc_id": "07/2026/QH16",
+    "document_type": "Luật",
+    "law_name": "Luật TÍN NGƯỠNG, TÔN GIÁO",
+    "btc_standard_string": "07/2026/QH16|Luật 07/2026/QH16 Luật TÍN NGƯỠNG, TÔN GIÁO"
+  },
+  "09/2022/QH15": {
+    "doc_id": "09/2022/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện",
+    "btc_standard_string": "09/2022/QH15|Luật 09/2022/QH15 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện"
+  },
+  "11/2008/QH12": {
+    "doc_id": "11/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Hoạt động chữ thập đỏ",
+    "btc_standard_string": "11/2008/QH12|Luật 11/2008/QH12 Luật Hoạt động chữ thập đỏ"
+  },
+  "111/2025/QH15": {
+    "doc_id": "111/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo hiểm tiền gửi",
+    "btc_standard_string": "111/2025/QH15|Luật 111/2025/QH15 Luật Bảo hiểm tiền gửi"
+  },
+  "112/2025/QH15": {
+    "doc_id": "112/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật QUY HOẠCH",
+    "btc_standard_string": "112/2025/QH15|Luật 112/2025/QH15 Luật QUY HOẠCH"
+  },
+  "117/2025/QH15": {
+    "doc_id": "117/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "LUẬT BẢO VỆ BÍ MẬT NHÀ NƯỚC",
+    "btc_standard_string": "117/2025/QH15|Luật 117/2025/QH15 LUẬT BẢO VỆ BÍ MẬT NHÀ NƯỚC"
+  },
+  "119/2025/QH15": {
+    "doc_id": "119/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "LUẬT\nSỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT CÔNG NGHIỆP \nQUỐC PHÒNG, AN NINH VÀ ĐỘNG VIÊN CÔNG NGHIỆP",
+    "btc_standard_string": "119/2025/QH15|Luật 119/2025/QH15 LUẬT\nSỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT CÔNG NGHIỆP \nQUỐC PHÒNG, AN NINH VÀ ĐỘNG VIÊN CÔNG NGHIỆP"
+  },
+  "12/2017/QH14": {
+    "doc_id": "12/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 100/2015/QH13",
+    "btc_standard_string": "12/2017/QH14|Luật 12/2017/QH14 Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 100/2015/QH13"
+  },
+  "121/2025/QH15": {
+    "doc_id": "121/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân",
+    "btc_standard_string": "121/2025/QH15|Luật 121/2025/QH15 Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân"
+  },
+  "123/2025/QH15": {
+    "doc_id": "123/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 43/2019/QH14.",
+    "btc_standard_string": "123/2025/QH15|Luật 123/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục số 43/2019/QH14."
+  },
+  "124/2025/QH15": {
+    "doc_id": "124/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Giáo dục nghề nghiệp",
+    "btc_standard_string": "124/2025/QH15|Luật 124/2025/QH15 Luật Giáo dục nghề nghiệp"
+  },
+  "127/2025/QH15": {
+    "doc_id": "127/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "LUẬT THI HÀNH ÁN HÌNH SỰ",
+    "btc_standard_string": "127/2025/QH15|Luật 127/2025/QH15 LUẬT THI HÀNH ÁN HÌNH SỰ"
+  },
+  "131/2025/QH15": {
+    "doc_id": "131/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ",
+    "btc_standard_string": "131/2025/QH15|Luật 131/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ"
+  },
+  "137/2025/QH15": {
+    "doc_id": "137/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Điều ước quốc tế",
+    "btc_standard_string": "137/2025/QH15|Luật 137/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Điều ước quốc tế"
+  },
+  "139/2025/QH15": {
+    "doc_id": "139/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm",
+    "btc_standard_string": "139/2025/QH15|Luật 139/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm"
+  },
+  "14/2012/QH13": {
+    "doc_id": "14/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Phổ biến, giáo dục pháp luật",
+    "btc_standard_string": "14/2012/QH13|Luật 14/2012/QH13 Luật Phổ biến, giáo dục pháp luật"
+  },
+  "140/2025/QH15": {
+    "doc_id": "140/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Giá",
+    "btc_standard_string": "140/2025/QH15|Luật 140/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Giá"
+  },
+  "142/2025/QH15": {
+    "doc_id": "142/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Phục hồi, phá sản",
+    "btc_standard_string": "142/2025/QH15|Luật 142/2025/QH15 Luật Phục hồi, phá sản"
+  },
+  "143/2025/QH15": {
+    "doc_id": "143/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Đầu tư",
+    "btc_standard_string": "143/2025/QH15|Luật 143/2025/QH15 Luật Đầu tư"
+  },
+  "144/2025/QH15": {
+    "doc_id": "144/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch đô thị và nông thôn",
+    "btc_standard_string": "144/2025/QH15|Luật 144/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch đô thị và nông thôn"
+  },
+  "146/2025/QH15": {
+    "doc_id": "146/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường",
+    "btc_standard_string": "146/2025/QH15|Luật 146/2025/QH15 Luật Sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường"
+  },
+  "147/2025/QH15": {
+    "doc_id": "147/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Địa chất và khoáng sản",
+    "btc_standard_string": "147/2025/QH15|Luật 147/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Địa chất và khoáng sản"
+  },
+  "15/2008/QH12": {
+    "doc_id": "15/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Trưng mua, trưng dụng tài sản",
+    "btc_standard_string": "15/2008/QH12|Luật 15/2008/QH12 Luật Trưng mua, trưng dụng tài sản"
+  },
+  "15/2023/QH15": {
+    "doc_id": "15/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật khám bệnh, chữa bệnh 2023",
+    "btc_standard_string": "15/2023/QH15|Luật 15/2023/QH15 Luật khám bệnh, chữa bệnh 2023"
+  },
+  "16/2008/QH12": {
+    "doc_id": "16/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống ma túy",
+    "btc_standard_string": "16/2008/QH12|Luật 16/2008/QH12 Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống ma túy"
+  },
+  "17/1999/QH10": {
+    "doc_id": "17/1999/QH10",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật thuế chuyển quyền sử dụng đất",
+    "btc_standard_string": "17/1999/QH10|Luật 17/1999/QH10 Luật Sửa đổi, bổ sung một số điều của Luật thuế chuyển quyền sử dụng đất"
+  },
+  "19/2008/QH12": {
+    "doc_id": "19/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam",
+    "btc_standard_string": "19/2008/QH12|Luật 19/2008/QH12 Luật Sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam"
+  },
+  "19/2017/QH14": {
+    "doc_id": "19/2017/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài.",
+    "btc_standard_string": "19/2017/QH14|Luật 19/2017/QH14 Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài."
+  },
+  "20/2008/QH12": {
+    "doc_id": "20/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Đa dạng sinh học",
+    "btc_standard_string": "20/2008/QH12|Luật 20/2008/QH12 Luật Đa dạng sinh học"
+  },
+  "21/2008/QH12": {
+    "doc_id": "21/2008/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Công nghệ cao",
+    "btc_standard_string": "21/2008/QH12|Luật 21/2008/QH12 Luật Công nghệ cao"
+  },
+  "21/2012/QH13": {
+    "doc_id": "21/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế",
+    "btc_standard_string": "21/2012/QH13|Luật 21/2012/QH13 Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế"
+  },
+  "23/2023/QH15": {
+    "doc_id": "23/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam",
+    "btc_standard_string": "23/2023/QH15|Luật 23/2023/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam"
+  },
+  "25/2023/QH15": {
+    "doc_id": "25/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự",
+    "btc_standard_string": "25/2023/QH15|Luật 25/2023/QH15 Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự"
+  },
+  "26/2012/QH13": {
+    "doc_id": "26/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số Điều của Luật Thuế thu nhập cá nhân",
+    "btc_standard_string": "26/2012/QH13|Luật 26/2012/QH13 Luật Sửa đổi, bổ sung một số Điều của Luật Thuế thu nhập cá nhân"
+  },
+  "26/2018/QH14": {
+    "doc_id": "26/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Thể dục, thể thao",
+    "btc_standard_string": "26/2018/QH14|Luật 26/2018/QH14 Luật Sửa đổi, bổ sung một số điều của Luật Thể dục, thể thao"
+  },
+  "27/2012/QH13": {
+    "doc_id": "27/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống tham nhũng",
+    "btc_standard_string": "27/2012/QH13|Luật 27/2012/QH13 Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống tham nhũng"
+  },
+  "28/2009/QH12": {
+    "doc_id": "28/2009/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Lý lịch tư pháp",
+    "btc_standard_string": "28/2009/QH12|Luật 28/2009/QH12 Luật Lý lịch tư pháp"
+  },
+  "28/2018/QH14": {
+    "doc_id": "28/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của 11 luật có liên quan đến quy hoạch",
+    "btc_standard_string": "28/2018/QH14|Luật 28/2018/QH14 Luật sửa đổi, bổ sung một số điều của 11 luật có liên quan đến quy hoạch"
+  },
+  "30/2013/QH13": {
+    "doc_id": "30/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Giáo dục quốc phòng và an ninh",
+    "btc_standard_string": "30/2013/QH13|Luật 30/2013/QH13 Luật Giáo dục quốc phòng và an ninh"
+  },
+  "30/2023/QH15": {
+    "doc_id": "30/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở",
+    "btc_standard_string": "30/2023/QH15|Luật 30/2023/QH15 Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở"
+  },
+  "32/2009/QH12": {
+    "doc_id": "32/2009/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Di sản văn hóa",
+    "btc_standard_string": "32/2009/QH12|Luật 32/2009/QH12 Luật Sửa đổi, bổ sung một số điều của Luật Di sản văn hóa"
+  },
+  "34/2018/QH14": {
+    "doc_id": "34/2018/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học",
+    "btc_standard_string": "34/2018/QH14|Luật 34/2018/QH14 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học"
+  },
+  "36/2009/QH12": {
+    "doc_id": "36/2009/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ",
+    "btc_standard_string": "36/2009/QH12|Luật 36/2009/QH12 Luật Sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ"
+  },
+  "37/2024/QH15": {
+    "doc_id": "37/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Đấu giá tài sản",
+    "btc_standard_string": "37/2024/QH15|Luật 37/2024/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Đấu giá tài sản"
+  },
+  "40/2019/QH14": {
+    "doc_id": "40/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Kiến trúc",
+    "btc_standard_string": "40/2019/QH14|Luật 40/2019/QH14 Luật Kiến trúc"
+  },
+  "40/2024/QH15": {
+    "doc_id": "40/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Cảnh vệ",
+    "btc_standard_string": "40/2024/QH15|Luật 40/2024/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Cảnh vệ"
+  },
+  "41/2013/QH13": {
+    "doc_id": "41/2013/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo vệ và kiểm dịch thực vật",
+    "btc_standard_string": "41/2013/QH13|Luật 41/2013/QH13 Luật Bảo vệ và kiểm dịch thực vật"
+  },
+  "42/2009/QH12": {
+    "doc_id": "42/2009/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Tần số vô tuyến điện",
+    "btc_standard_string": "42/2009/QH12|Luật 42/2009/QH12 Luật Tần số vô tuyến điện"
+  },
+  "42/2019/QH14": {
+    "doc_id": "42/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm, Luật sở hữu trí tuệ",
+    "btc_standard_string": "42/2019/QH14|Luật 42/2019/QH14 Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm, Luật sở hữu trí tuệ"
+  },
+  "43/2024/QH15": {
+    "doc_id": "43/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15",
+    "btc_standard_string": "43/2024/QH15|Luật 43/2024/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15"
+  },
+  "44/2024/QH15": {
+    "doc_id": "44/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Dược sửa đổi 2024",
+    "btc_standard_string": "44/2024/QH15|Luật 44/2024/QH15 Luật Dược sửa đổi 2024"
+  },
+  "48/2024/QH15": {
+    "doc_id": "48/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thuế giá trị gia tăng",
+    "btc_standard_string": "48/2024/QH15|Luật 48/2024/QH15 Luật Thuế giá trị gia tăng"
+  },
+  "49/2010/QH12": {
+    "doc_id": "49/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Bưu chính",
+    "btc_standard_string": "49/2010/QH12|Luật 49/2010/QH12 Luật Bưu chính"
+  },
+  "50/2010/QH12": {
+    "doc_id": "50/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sử dụng năng lượng tiết kiệm và hiệu quả",
+    "btc_standard_string": "50/2010/QH12|Luật 50/2010/QH12 Luật Sử dụng năng lượng tiết kiệm và hiệu quả"
+  },
+  "51/2019/QH14": {
+    "doc_id": "51/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam",
+    "btc_standard_string": "51/2019/QH14|Luật 51/2019/QH14 Luật sửa đổi, bổ sung một số điều của Luật nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam"
+  },
+  "52/2010/QH12": {
+    "doc_id": "52/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Nuôi con nuôi",
+    "btc_standard_string": "52/2010/QH12|Luật 52/2010/QH12 Luật Nuôi con nuôi"
+  },
+  "53/2010/QH12": {
+    "doc_id": "53/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Thi hành án hình sự",
+    "btc_standard_string": "53/2010/QH12|Luật 53/2010/QH12 Luật Thi hành án hình sự"
+  },
+  "53/2024/QH15": {
+    "doc_id": "53/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "LUẬT PHÒNG, CHỐNG MUA BÁN NGƯỜI",
+    "btc_standard_string": "53/2024/QH15|Luật 53/2024/QH15 LUẬT PHÒNG, CHỐNG MUA BÁN NGƯỜI"
+  },
+  "55/2019/QH14": {
+    "doc_id": "55/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật kiểm toán nhà nước",
+    "btc_standard_string": "55/2019/QH14|Luật 55/2019/QH14 Luật sửa đổi, bổ sung một số điều của Luật kiểm toán nhà nước"
+  },
+  "56/2020/QH14": {
+    "doc_id": "56/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp",
+    "btc_standard_string": "56/2020/QH14|Luật 56/2020/QH14 Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp"
+  },
+  "57/2005/QH11": {
+    "doc_id": "57/2005/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt và Luật Thuế giá trị gia tăng",
+    "btc_standard_string": "57/2005/QH11|Luật 57/2005/QH11 Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt và Luật Thuế giá trị gia tăng"
+  },
+  "60/2020/QH14": {
+    "doc_id": "60/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật phòng, chống thiên tai và Luật đê điều",
+    "btc_standard_string": "60/2020/QH14|Luật 60/2020/QH14 Luật Sửa đổi, bổ sung một số điều của Luật phòng, chống thiên tai và Luật đê điều"
+  },
+  "61/2010/QH12": {
+    "doc_id": "61/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm",
+    "btc_standard_string": "61/2010/QH12|Luật 61/2010/QH12 Luật Sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm"
+  },
+  "62/2010/QH12": {
+    "doc_id": "62/2010/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Chứng khoán",
+    "btc_standard_string": "62/2010/QH12|Luật 62/2010/QH12 Luật Sửa đổi, bổ sung một số điều của Luật Chứng khoán"
+  },
+  "62/2020/QH14": {
+    "doc_id": "62/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Xây dựng",
+    "btc_standard_string": "62/2020/QH14|Luật 62/2020/QH14 Luật sửa đổi, bổ sung một số điều của Luật Xây dựng"
+  },
+  "62/2025/QH15": {
+    "doc_id": "62/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội",
+    "btc_standard_string": "62/2025/QH15|Luật 62/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội"
+  },
+  "63/2025/QH15": {
+    "doc_id": "63/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Tổ chức chính phủ",
+    "btc_standard_string": "63/2025/QH15|Luật 63/2025/QH15 Luật Tổ chức chính phủ"
+  },
+  "65/2006/QH11": {
+    "doc_id": "65/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật sư",
+    "btc_standard_string": "65/2006/QH11|Luật 65/2006/QH11 Luật sư"
+  },
+  "65/2020/QH14": {
+    "doc_id": "65/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội",
+    "btc_standard_string": "65/2020/QH14|Luật 65/2020/QH14 Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Quốc hội"
+  },
+  "66/2011/QH12": {
+    "doc_id": "66/2011/QH12",
+    "document_type": "Luật",
+    "law_name": "Luật Phòng, chống mua bán người",
+    "btc_standard_string": "66/2011/QH12|Luật 66/2011/QH12 Luật Phòng, chống mua bán người"
+  },
+  "69/2014/QH13": {
+    "doc_id": "69/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp",
+    "btc_standard_string": "69/2014/QH13|Luật 69/2014/QH13 Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp"
+  },
+  "70/2006/QH11": {
+    "doc_id": "70/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Chứng khoán",
+    "btc_standard_string": "70/2006/QH11|Luật 70/2006/QH11 Luật Chứng khoán"
+  },
+  "70/2020/QH14": {
+    "doc_id": "70/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Thỏa thuận quốc tế",
+    "btc_standard_string": "70/2020/QH14|Luật 70/2020/QH14 Luật Thỏa thuận quốc tế"
+  },
+  "70/2025/QH15": {
+    "doc_id": "70/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật",
+    "btc_standard_string": "70/2025/QH15|Luật 70/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật"
+  },
+  "71/2020/QH14": {
+    "doc_id": "71/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)",
+    "btc_standard_string": "71/2020/QH14|Luật 71/2020/QH14 Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+  },
+  "75/2025/QH15": {
+    "doc_id": "75/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Quảng cáo",
+    "btc_standard_string": "75/2025/QH15|Luật 75/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Quảng cáo"
+  },
+  "78/2006/QH11": {
+    "doc_id": "78/2006/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Quản lý thuế",
+    "btc_standard_string": "78/2006/QH11|Luật 78/2006/QH11 Luật Quản lý thuế"
+  },
+  "78/2025/QH15": {
+    "doc_id": "78/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Chất lượng sản phẩm, hàng hóa",
+    "btc_standard_string": "78/2025/QH15|Luật 78/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Chất lượng sản phẩm, hàng hóa"
+  },
+  "79/2015/QH13": {
+    "doc_id": "79/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Thú y",
+    "btc_standard_string": "79/2015/QH13|Luật 79/2015/QH13 Luật Thú y"
+  },
+  "79/2025/QH15": {
+    "doc_id": "79/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam",
+    "btc_standard_string": "79/2025/QH15|Luật 79/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam"
+  },
+  "82/2015/QH13": {
+    "doc_id": "82/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tài nguyên, môi trường biển và hải đảo",
+    "btc_standard_string": "82/2015/QH13|Luật 82/2015/QH13 Luật Tài nguyên, môi trường biển và hải đảo"
+  },
+  "82/2025/QH15": {
+    "doc_id": "82/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "LUẬT\nSỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU\nCỦA LUẬT TỔ CHỨC VIỆN KIỂM SÁT NHÂN DÂN",
+    "btc_standard_string": "82/2025/QH15|Luật 82/2025/QH15 LUẬT\nSỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU\nCỦA LUẬT TỔ CHỨC VIỆN KIỂM SÁT NHÂN DÂN"
+  },
+  "83/2007/QH11": {
+    "doc_id": "83/2007/QH11",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội",
+    "btc_standard_string": "83/2007/QH11|Luật 83/2007/QH11 Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội"
+  },
+  "84/2025/QH15": {
+    "doc_id": "84/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Thanh tra",
+    "btc_standard_string": "84/2025/QH15|Luật 84/2025/QH15 Luật Thanh tra"
+  },
+  "86/2015/QH13": {
+    "doc_id": "86/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật An toàn thông tin mạng",
+    "btc_standard_string": "86/2015/QH13|Luật 86/2015/QH13 Luật An toàn thông tin mạng"
+  },
+  "86/2025/QH15": {
+    "doc_id": "86/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Bộ Luật hình sự",
+    "btc_standard_string": "86/2025/QH15|Luật 86/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Bộ Luật hình sự"
+  },
+  "87/2025/QH15": {
+    "doc_id": "87/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của luật ban hành văn bản quy phạm pháp luật",
+    "btc_standard_string": "87/2025/QH15|Luật 87/2025/QH15 Luật Sửa đổi, bổ sung một số điều của luật ban hành văn bản quy phạm pháp luật"
+  },
+  "88/2025/QH15": {
+    "doc_id": "88/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính",
+    "btc_standard_string": "88/2025/QH15|Luật 88/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính"
+  },
+  "89/2025/QH15": {
+    "doc_id": "89/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Ngân sách nhà nước",
+    "btc_standard_string": "89/2025/QH15|Luật 89/2025/QH15 Luật Ngân sách nhà nước"
+  },
+  "90/2015/QH13": {
+    "doc_id": "90/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Khí tượng thủy văn",
+    "btc_standard_string": "90/2015/QH13|Luật 90/2015/QH13 Luật Khí tượng thủy văn"
+  },
+  "90/2025/QH15": {
+    "doc_id": "90/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế giá trị gia tăng, Luật Thuế xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công",
+    "btc_standard_string": "90/2025/QH15|Luật 90/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế giá trị gia tăng, Luật Thuế xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công"
+  },
+  "91/2025/QH15": {
+    "doc_id": "91/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo vệ dữ liệu cá nhân",
+    "btc_standard_string": "91/2025/QH15|Luật 91/2025/QH15 Luật Bảo vệ dữ liệu cá nhân"
+  },
+  "93/2015/QH13": {
+    "doc_id": "93/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tố tụng hành chính",
+    "btc_standard_string": "93/2015/QH13|Luật 93/2015/QH13 Luật Tố tụng hành chính"
+  },
+  "94/2015/QH13": {
+    "doc_id": "94/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Thi hành tạm giữ, tạm giam",
+    "btc_standard_string": "94/2015/QH13|Luật 94/2015/QH13 Luật Thi hành tạm giữ, tạm giam"
+  },
+  "96/2025/QH15": {
+    "doc_id": "96/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng",
+    "btc_standard_string": "96/2025/QH15|Luật 96/2025/QH15 Luật Sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng"
+  },
+  "97/2015/QH13": {
+    "doc_id": "97/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Phí và lệ phí",
+    "btc_standard_string": "97/2015/QH13|Luật 97/2015/QH13 Luật Phí và lệ phí"
+  },
+  "97/2025/QH15": {
+    "doc_id": "97/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Mặt trận Tổ quốc Việt Nam, Luật Công đoàn, Luật Thanh niên  và Luật Thực hiện dân chủ ở cơ sở",
+    "btc_standard_string": "97/2025/QH15|Luật 97/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Mặt trận Tổ quốc Việt Nam, Luật Công đoàn, Luật Thanh niên  và Luật Thực hiện dân chủ ở cơ sở"
+  },
+  "98/2015/QH13": {
+    "doc_id": "98/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+    "btc_standard_string": "98/2015/QH13|Luật 98/2015/QH13 Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng"
+  },
+  "99/2015/QH13": {
+    "doc_id": "99/2015/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Tổ chức cơ quan điều tra hình sự",
+    "btc_standard_string": "99/2015/QH13|Luật 99/2015/QH13 Luật Tổ chức cơ quan điều tra hình sự"
+  },
+  "51/2024/QH15": {
+    "doc_id": "51/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo hiểm y tế sửa đổi 2024 số Luật",
+    "btc_standard_string": "51/2024/QH15|Luật 51/2024/QH15 Luật Bảo hiểm y tế sửa đổi 2024 số Luật"
+  },
+  "99/2025/QH15": {
+    "doc_id": "99/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số",
+    "btc_standard_string": "99/2025/QH15|Luật 99/2025/QH15 Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số"
+  },
+  "26/2023/QH15": {
+    "doc_id": "26/2023/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Căn cước",
+    "btc_standard_string": "26/2023/QH15|Luật 26/2023/QH15 Luật Căn cước"
+  },
+  "149/2025/QH15": {
+    "doc_id": "149/2025/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật sửa đổi, bổ sung một số điều của Luật Thuê giá trị gia tăng",
+    "btc_standard_string": "149/2025/QH15|Luật 149/2025/QH15 Luật sửa đổi, bổ sung một số điều của Luật Thuê giá trị gia tăng"
+  },
+  "21/2021/NĐ-CP": {
+    "doc_id": "21/2021/NĐ-CP",
+    "document_type": "Luật",
+    "law_name": "Nghị định 21/2021/NĐ-CP hướng dẫn Bộ luật Dân sự bảo đảm thực hiện nghĩa vụ",
+    "btc_standard_string": "21/2021/NĐ-CP|Luật 21/2021/NĐ-CP Nghị định 21/2021/NĐ-CP hướng dẫn Bộ luật Dân sự bảo đảm thực hiện nghĩa vụ"
+  },
+  "28/2021/NĐ-CP": {
+    "doc_id": "28/2021/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 28/2021/NĐ-CP quản lý tài chính dự án đầu tư theo phương thức đối tác công tư",
+    "btc_standard_string": "28/2021/NĐ-CP|Nghị định 28/2021/NĐ-CP Nghị định 28/2021/NĐ-CP quản lý tài chính dự án đầu tư theo phương thức đối tác công tư"
+  },
+  "31/2021/NĐ-CP": {
+    "doc_id": "31/2021/NĐ-CP",
+    "document_type": "Luật",
+    "law_name": "Nghị định 31/2021/NĐ-CP hướng dẫn Luật Đầu tư",
+    "btc_standard_string": "31/2021/NĐ-CP|Luật 31/2021/NĐ-CP Nghị định 31/2021/NĐ-CP hướng dẫn Luật Đầu tư"
+  },
+  "41/2024/QH15": {
+    "doc_id": "41/2024/QH15",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo hiểm xã hội 2024 số 41/2024/QH15 áp dụng năm 2025",
+    "btc_standard_string": "41/2024/QH15|Luật 41/2024/QH15 Luật Bảo hiểm xã hội 2024 số 41/2024/QH15 áp dụng năm 2025"
+  },
+  "44/2025/NĐ-CP": {
+    "doc_id": "44/2025/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 44/2025/NĐ-CP về quản lý lao động, tiền lương trong doanh nghiệp nhà nước",
+    "btc_standard_string": "44/2025/NĐ-CP|Nghị định 44/2025/NĐ-CP Nghị định 44/2025/NĐ-CP về quản lý lao động, tiền lương trong doanh nghiệp nhà nước"
+  },
+  "45/2019/QH14": {
+    "doc_id": "45/2019/QH14",
+    "document_type": "Luật",
+    "law_name": "Bộ luật lao động 2019 số 45/2019/QH14 áp dụng 2025",
+    "btc_standard_string": "45/2019/QH14|Luật 45/2019/QH14 Bộ luật lao động 2019 số 45/2019/QH14 áp dụng 2025"
+  },
+  "14/2020/TT-BKHĐT": {
+    "doc_id": "14/2020/TT-BKHĐT",
+    "document_type": "Thông tư",
+    "law_name": "Thông tư 14/2020/TT-BKHĐT rủi ro hoạt động cho vay trực tiếp của Quỹ phát triển doanh nghiệp",
+    "btc_standard_string": "14/2020/TT-BKHĐT|Thông tư 14/2020/TT-BKHĐT Thông tư 14/2020/TT-BKHĐT rủi ro hoạt động cho vay trực tiếp của Quỹ phát triển doanh nghiệp"
+  },
+  "61/2020/QH14": {
+    "doc_id": "61/2020/QH14",
+    "document_type": "Luật",
+    "law_name": "Luật Đầu tư 2020 số 61/2020/QH14 áp dụng năm 2025",
+    "btc_standard_string": "61/2020/QH14|Luật 61/2020/QH14 Luật Đầu tư 2020 số 61/2020/QH14 áp dụng năm 2025"
+  },
+  "58/2014/QH13": {
+    "doc_id": "58/2014/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Bảo hiểm xã hội 2014 số 58/2014/QH13 áp dụng 2024",
+    "btc_standard_string": "58/2014/QH13|Luật 58/2014/QH13 Luật Bảo hiểm xã hội 2014 số 58/2014/QH13 áp dụng 2024"
+  },
+  "200/2014/TT-BTC": {
+    "doc_id": "200/2014/TT-BTC",
+    "document_type": "Thông tư",
+    "law_name": "Thông tư 200/2014/TT-BTC hướng dẫn Chế độ kế toán Doanh nghiệp",
+    "btc_standard_string": "200/2014/TT-BTC|Thông tư 200/2014/TT-BTC Thông tư 200/2014/TT-BTC hướng dẫn Chế độ kế toán Doanh nghiệp"
+  },
+  "80/2021/NĐ-CP": {
+    "doc_id": "80/2021/NĐ-CP",
+    "document_type": "Luật",
+    "law_name": "Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+    "btc_standard_string": "80/2021/NĐ-CP|Luật 80/2021/NĐ-CP Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa"
+  },
+  "12/2022/NĐ-CP": {
+    "doc_id": "12/2022/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 12/2022/NĐ-CP xử phạt vi phạm hành chính lao động bảo hiểm người làm việc nước ngoài",
+    "btc_standard_string": "12/2022/NĐ-CP|Nghị định 12/2022/NĐ-CP Nghị định 12/2022/NĐ-CP xử phạt vi phạm hành chính lao động bảo hiểm người làm việc nước ngoài"
+  },
+  "39/2019/NĐ-CP": {
+    "doc_id": "39/2019/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 39/2019/NĐ-CP tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa",
+    "btc_standard_string": "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP Nghị định 39/2019/NĐ-CP tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa"
+  },
+  "13/2023/NĐ-CP": {
+    "doc_id": "13/2023/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 13/2023/NĐ-CP bảo vệ dữ liệu cá nhân",
+    "btc_standard_string": "13/2023/NĐ-CP|Nghị định 13/2023/NĐ-CP Nghị định 13/2023/NĐ-CP bảo vệ dữ liệu cá nhân"
+  },
+  "12/2012/QH13": {
+    "doc_id": "12/2012/QH13",
+    "document_type": "Luật",
+    "law_name": "Luật Công đoàn 2012 số 12/2012/QH13 áp dụng 2024",
+    "btc_standard_string": "12/2012/QH13|Luật 12/2012/QH13 Luật Công đoàn 2012 số 12/2012/QH13 áp dụng 2024"
+  },
+  "01/2021/NĐ-CP": {
+    "doc_id": "01/2021/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 01/2021/NĐ-CP đăng ký doanh nghiệp",
+    "btc_standard_string": "01/2021/NĐ-CP|Nghị định 01/2021/NĐ-CP Nghị định 01/2021/NĐ-CP đăng ký doanh nghiệp"
+  },
+  "132/2018/TT-BTC": {
+    "doc_id": "132/2018/TT-BTC",
+    "document_type": "Thông tư",
+    "law_name": "Thông tư 132/2018/TT-BTC hướng dẫn Chế độ kế toán cho doanh nghiệp siêu nhỏ",
+    "btc_standard_string": "132/2018/TT-BTC|Thông tư 132/2018/TT-BTC Thông tư 132/2018/TT-BTC hướng dẫn Chế độ kế toán cho doanh nghiệp siêu nhỏ"
+  },
+  "31/2025/NĐ-CP": {
+    "doc_id": "31/2025/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 31/2025/NĐ-CP sửa đổi Nghị định 32/2012/NĐ-CP",
+    "btc_standard_string": "31/2025/NĐ-CP|Nghị định 31/2025/NĐ-CP Nghị định 31/2025/NĐ-CP sửa đổi Nghị định 32/2012/NĐ-CP"
+  },
+  "70/2025/NĐ-CP": {
+    "doc_id": "70/2025/NĐ-CP",
+    "document_type": "Nghị định",
+    "law_name": "Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP hóa đơn chứng từ",
+    "btc_standard_string": "70/2025/NĐ-CP|Nghị định 70/2025/NĐ-CP Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP hóa đơn chứng từ"
+  }
+}
