@@ -164,7 +164,7 @@ class SelfVerifier:
         for doc in context_docs:
             meta = doc.get("metadata", {})
             dn = meta.get("doc_number", "")
-            dname = meta.get("doc_name", "")
+            dname = meta.get("title", "")
             if dn:
                 context_doc_numbers.add(dn)
                 context_doc_names[dn] = dname
@@ -178,7 +178,7 @@ class SelfVerifier:
                 # Lấy tên chuẩn từ manifest
                 manifest_entry = self.law_manifest.get(doc_num, {})
                 if isinstance(manifest_entry, dict):
-                    canonical_name = manifest_entry.get("ten_van_ban", "")
+                    canonical_name = manifest_entry.get("law_name", "")
                 else:
                     canonical_name = str(manifest_entry)
 

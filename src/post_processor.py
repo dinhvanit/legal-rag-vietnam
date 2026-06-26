@@ -34,8 +34,11 @@ ARTICLE_FULL_PATTERN = re.compile(
 )
 
 # Số hiệu văn bản pháp luật Việt Nam
+# Lưu ý: KHÔNG dùng alternation kiểu (?:QH|NĐ|TT|...|[A-ZĐ0-9/-]+) vì regex sẽ khớp
+# với alternative đầu tiên (ví dụ "QH") rồi dừng, làm mất phần hậu tố số hiệu (ví dụ "13"
+# trong "QH13"). Chỉ cần một charset gộp vì nó đã bao trùm mọi tiền tố loại văn bản.
 DOC_NUMBER_PATTERN = re.compile(
-    r'(\d{1,3}/\d{4}/(?:QH|NĐ|TT|QĐ|NQ|CT|TW|UBND|BTC|BGDĐT|BYT|BCA|[A-ZĐ0-9/-]+))',
+    r'(\d{1,3}/\d{4}/[A-ZĐ0-9/-]+)',
     re.IGNORECASE
 )
 
@@ -88,40 +91,60 @@ class PostProcessor:
     # =========================================================
     # BƯỚC 1: REGEX EXTRACTION
     # =========================================================
-    def extract_legal_references(self, answer: str) -> Tuple[List[str], List[str]]:
+    def extract_legal_references(
+        self, answer: str
+    ) -> Tuple[List[str], List[Tuple[Optional[str], str]]]:
         """
-        Bóc tách toàn bộ tham chiếu pháp lý từ câu trả lời.
+        Bóc tách toàn bộ tham chiếu pháp lý từ câu trả lời, đồng thời ghép mỗi
+        "Điều X" với số hiệu văn bản gần nó nhất về khoảng cách ký tự (xét cả phía
+        trước và phía sau, không chỉ phía trước). Lý do: prompt yêu cầu LLM trích dẫn
+        theo dạng "Theo quy định tại Điều X Luật/Nghị định Y..." — tức số hiệu văn bản
+        thường nằm SAU "Điều X" trong câu, nên chỉ xét "gần nhất phía trước" sẽ gán sai
+        văn bản khi câu trả lời nhắc tới nhiều văn bản.
 
         Returns:
-            Tuple(doc_numbers, article_refs)
-            - doc_numbers: ["80/2021/NĐ-CP", ...]
-            - article_refs: ["Điều 5", "Điều 5, Khoản 2", ...]
+            Tuple(doc_numbers, doc_article_pairs)
+            - doc_numbers: ["80/2021/NĐ-CP", ...] theo thứ tự xuất hiện
+            - doc_article_pairs: [(doc_number_hoặc_None, "Điều 5, Khoản 2"), ...]
         """
-        # Trích số hiệu văn bản
-        doc_numbers = list(dict.fromkeys(DOC_NUMBER_PATTERN.findall(answer)))
+        doc_events = [(m.start(), m.group(1)) for m in DOC_NUMBER_PATTERN.finditer(answer)]
+        doc_numbers: List[str] = []
+        for _, val in doc_events:
+            if val not in doc_numbers:
+                doc_numbers.append(val)
 
-        # Trích điều/khoản/điểm
-        raw_articles = ARTICLE_FULL_PATTERN.findall(answer)
-        article_refs = []
-        for match in raw_articles:
-            dieu, khoan, diem = match
+        article_events = []
+        for m in ARTICLE_FULL_PATTERN.finditer(answer):
+            dieu, khoan, diem = m.groups()
+            if not dieu:
+                continue
             ref = dieu.strip()
             if khoan:
                 ref += f", Khoản {khoan}"
             if diem:
                 ref += f", Điểm {diem.lower()}"
-            if ref and ref not in article_refs:
-                article_refs.append(ref)
+            article_events.append((m.start(), ref))
 
-        return doc_numbers, article_refs
+        doc_article_pairs: List[Tuple[Optional[str], str]] = []
+        for pos, ref in article_events:
+            nearest_doc = None
+            if doc_events:
+                nearest_doc = min(doc_events, key=lambda e: abs(e[0] - pos))[1]
+            pair = (nearest_doc, ref)
+            if pair not in doc_article_pairs:
+                doc_article_pairs.append(pair)
+
+        return doc_numbers, doc_article_pairs
 
     # =========================================================
     # BƯỚC 2: HARD-MAPPING → relevant_docs & relevant_articles
     # =========================================================
-    def _build_canonical_doc_string(self, doc_number: str) -> Optional[str]:
+    def _build_canonical_doc_string(self, doc_number: str) -> str:
         """
-        Tra manifest để lấy chuỗi chuẩn theo format BTC:
-        "[Loại văn bản] [Số hiệu] [Trích yếu]"
+        Tra law_manifest.json để lấy chuỗi chuẩn theo format BTC: "<Số hiệu>|<Tên văn bản>".
+        manifest thực tế có cấu trúc {"doc_id", "document_type", "law_name", "btc_standard_string"},
+        trong đó "btc_standard_string" đã đúng định dạng "<số hiệu>|<loại văn bản> <số hiệu> <tên>"
+        nên chỉ cần dùng trực tiếp, không cần tự dựng lại chuỗi.
         """
         entry = self.law_manifest.get(doc_number)
 
@@ -132,45 +155,37 @@ class PostProcessor:
                     entry = val
                     break
 
-        if entry is None:
-            # Fallback: Sinh tên từ số hiệu
-            return self._infer_doc_type_from_number(doc_number)
-
-        if isinstance(entry, dict):
-            loai = entry.get("loai_van_ban", "")
-            so_hieu = entry.get("so_hieu", doc_number)
-            trich_yeu = entry.get("trich_yeu", "")
-            if loai and trich_yeu:
-                return f"{loai} {so_hieu} {trich_yeu}"
-            elif entry.get("ten_day_du"):
-                return entry["ten_day_du"]
-        elif isinstance(entry, str):
+        if isinstance(entry, dict) and entry.get("btc_standard_string"):
+            return entry["btc_standard_string"]
+        if isinstance(entry, str) and "|" in entry:
             return entry
 
-        return None
+        # Fallback: Không có trong manifest -> tự sinh chuỗi "<số hiệu>|<loại văn bản suy luận>"
+        return self._infer_doc_type_from_number(doc_number)
 
     def _infer_doc_type_from_number(self, doc_number: str) -> str:
-        """Suy luận loại văn bản từ ký hiệu số hiệu."""
+        """Suy luận loại văn bản từ ký hiệu số hiệu, trả về đúng format '<số hiệu>|<tên suy luận>'."""
         upper = doc_number.upper()
         if "QH" in upper:
-            return f"Luật số {doc_number}"
+            guess = f"Luật {doc_number}"
         elif "NĐ-CP" in upper or "ND-CP" in upper:
-            return f"Nghị định {doc_number}"
+            guess = f"Nghị định {doc_number}"
         elif "TT-BTC" in upper or "TT-" in upper:
-            return f"Thông tư {doc_number}"
+            guess = f"Thông tư {doc_number}"
         elif "QĐ" in upper:
-            return f"Quyết định {doc_number}"
+            guess = f"Quyết định {doc_number}"
         else:
-            return f"Văn bản {doc_number}"
+            guess = f"Văn bản {doc_number}"
+        return f"{doc_number}|{guess}"
 
     def build_relevant_docs(self, doc_numbers: List[str]) -> List[str]:
-        """Xây dựng trường relevant_docs theo chuẩn BTC."""
+        """Xây dựng trường relevant_docs theo chuẩn BTC: '<Số hiệu>|<Tên văn bản>'."""
         relevant_docs = []
         seen: Set[str] = set()
 
         for doc_num in doc_numbers:
             canonical = self._build_canonical_doc_string(doc_num)
-            if canonical and canonical not in seen:
+            if canonical not in seen:
                 relevant_docs.append(canonical)
                 seen.add(canonical)
 
@@ -178,24 +193,21 @@ class PostProcessor:
 
     def build_relevant_articles(
         self,
-        article_refs: List[str],
-        doc_numbers: List[str]
+        doc_article_pairs: List[Tuple[Optional[str], str]],
     ) -> List[str]:
         """
         Xây dựng trường relevant_articles theo chuẩn BTC.
-        Format: "[Điều X, Khoản Y] [Tên văn bản số hiệu]"
+        Format: "<Số hiệu>|<Tên văn bản>|<Điều X, Khoản Y>".
+        Mỗi Điều được ghép với đúng số hiệu văn bản đứng gần nó nhất trong câu trả lời
+        (xem extract_legal_references), tránh gán nhầm khi có nhiều văn bản được trích dẫn.
         """
         relevant_articles = []
         seen: Set[str] = set()
 
-        # Lấy tên văn bản đầu tiên làm ngữ cảnh
-        primary_doc = ""
-        if doc_numbers:
-            primary_doc = self._build_canonical_doc_string(doc_numbers[0]) or doc_numbers[0]
-
-        for art_ref in article_refs:
-            if primary_doc:
-                full_ref = f"{art_ref} {primary_doc}"
+        for doc_number, art_ref in doc_article_pairs:
+            if doc_number:
+                canonical_doc = self._build_canonical_doc_string(doc_number)
+                full_ref = f"{canonical_doc}|{art_ref}"
             else:
                 full_ref = art_ref
 
@@ -228,7 +240,7 @@ class PostProcessor:
                 "relevant_articles": [...]
             }
         """
-        doc_numbers, article_refs = self.extract_legal_references(answer)
+        doc_numbers, doc_article_pairs = self.extract_legal_references(answer)
 
         # Bổ sung doc_numbers từ context metadata (nếu LLM quên trích dẫn số hiệu)
         if context_docs:
@@ -241,7 +253,7 @@ class PostProcessor:
                         doc_numbers.append(dn)
 
         relevant_docs = self.build_relevant_docs(doc_numbers)
-        relevant_articles = self.build_relevant_articles(article_refs, doc_numbers)
+        relevant_articles = self.build_relevant_articles(doc_article_pairs)
 
         return {
             "id": item_id,

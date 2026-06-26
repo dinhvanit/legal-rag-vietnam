@@ -62,8 +62,28 @@ class HybridRetriever:
         match = DOC_NUMBER_PATTERN.search(query)
         if match:
             doc_number = match.group(0)
-            return Filter(must=[FieldCondition(key="metadata.doc_number", match=MatchValue(value=doc_number))])
+            # Payload thực tế trên Qdrant Cloud là field phẳng "doc_id" (không có wrapper "metadata")
+            return Filter(must=[FieldCondition(key="doc_id", match=MatchValue(value=doc_number))])
         return None
+
+    @staticmethod
+    def _normalize_payload(payload: Dict) -> Dict:
+        """
+        Chuẩn hóa payload Qdrant về cùng cấu trúc metadata với corpus BM25 (corpus_clean.json):
+        {"doc_number", "title", "article_id", "unique_article_id", "clause_num", "context"}.
+        Payload thực tế trên Qdrant Cloud là field phẳng (doc_id, title, article_id, ...),
+        không có wrapper "metadata" lồng bên trong.
+        """
+        if isinstance(payload.get("metadata"), dict):
+            return payload["metadata"]
+        return {
+            "doc_number": payload.get("doc_id", ""),
+            "title": payload.get("title", ""),
+            "article_id": payload.get("article_id", ""),
+            "unique_article_id": payload.get("unique_article_id", payload.get("chunk_id", "")),
+            "clause_num": payload.get("clause_num"),
+            "context": payload.get("context", {}),
+        }
 
     def _dense_search(self, query: str, query_vector: List[float], limit: int = Settings.TOP_K_RAW) -> List[Dict]:
         """
@@ -126,7 +146,7 @@ class HybridRetriever:
                     "id": str(p.id),
                     "text": p.payload.get("text", ""),
                     "dense_score": float(p.score if p.score else 0.0),
-                    "metadata": p.payload.get("metadata", {})
+                    "metadata": self._normalize_payload(p.payload)
                 }
                 for p in response.points
             ]

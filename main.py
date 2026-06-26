@@ -132,6 +132,17 @@ def save_checkpoint(results: List[Dict], checkpoint_path: str):
         json.dump(results, f, ensure_ascii=False, indent=2)
 
 
+def merge_unique_preserve_order(primary: List[str], secondary: List[str]) -> List[str]:
+    """Hợp nhất 2 danh sách, giữ nguyên thứ tự, loại trùng lặp. `primary` luôn đứng trước."""
+    merged = list(primary)
+    seen = set(primary)
+    for item in secondary:
+        if item not in seen:
+            merged.append(item)
+            seen.add(item)
+    return merged
+
+
 # =========================================================
 # PROCESS SINGLE QUESTION
 # =========================================================
@@ -204,9 +215,16 @@ def process_question(
     )
 
     # ĐẢM BẢO CHUẨN ĐỊNH DẠNG BÀI THI:
-    # Ghi đè hoặc bổ sung trực tiếp 2 trường tham chiếu chuẩn hóa bằng ký tự gạch đứng `|` từ LLM Output
-    result["relevant_docs"] = llm_output.get("relevant_docs", [])
-    result["relevant_articles"] = llm_output.get("relevant_articles", [])
+    # Ưu tiên các Điều/Văn bản trích xuất chính xác từ metadata của chunk (generator,
+    # bám theo context Reranker giữ lại ở TOP_K_FINAL), sau đó MERGE thêm các tham chiếu
+    # mà PostProcessor quét được bằng Regex trực tiếp trên answer (bổ sung, không ghi đè)
+    # để không bỏ sót Điều nào LLM có nhắc tới mà không khớp 1:1 với context.
+    result["relevant_docs"] = merge_unique_preserve_order(
+        llm_output.get("relevant_docs", []), result.get("relevant_docs", [])
+    )
+    result["relevant_articles"] = merge_unique_preserve_order(
+        llm_output.get("relevant_articles", []), result.get("relevant_articles", [])
+    )
 
     # Log metrics hệ thống
     evaluator.log_item(

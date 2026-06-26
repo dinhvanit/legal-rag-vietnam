@@ -14,3 +14,4 @@ output/
 
 # Các file index lưu local (nếu có)
 *.pkl
+CLAUDE.md
