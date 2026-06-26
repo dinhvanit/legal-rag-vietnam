@@ -1,0 +1,864 @@
+[
+    {
+        "id": 1,
+        "question": "Các cơ sở ươm tạo và khu làm việc chung được hưởng những chính sách hỗ trợ nào về thuế và đất đai?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "98/2023/QH15|Nghị quyết 98/2023/QH15 về thí điểm cơ chế, chính sách đặc thù phát triển Thành phố Hồ Chí Minh do Quốc hội ban hành",
+            "394/QĐ-TTg|Quyết định 394/QĐ-TTg năm 2006 về việc khuyến khích đầu tư xây dựng mới, mở rộng cơ sở giết mổ, bảo quản chế biến gia súc, gia cầm và cơ sở chăn nuôi gia cầm tập trung, công nghiệp do Thủ tướng Chính phủ ban hành",
+            "1193/QĐ-TTg|Quyết định 1193/QĐ-TTg năm 2015 về thí điểm cơ chế, chính sách đặc thù phát triển Vườn ươm Công nghệ công nghiệp Việt Nam - Hàn Quốc tại thành phố Cần Thơ do Thủ tướng Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 12",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 22",
+            "98/2023/QH15|Nghị quyết 98/2023/QH15 về thí điểm cơ chế, chính sách đặc thù phát triển Thành phố Hồ Chí Minh do Quốc hội ban hành|Điều 8",
+            "394/QĐ-TTg|Quyết định 394/QĐ-TTg năm 2006 về việc khuyến khích đầu tư xây dựng mới, mở rộng cơ sở giết mổ, bảo quản chế biến gia súc, gia cầm và cơ sở chăn nuôi gia cầm tập trung, công nghiệp do Thủ tướng Chính phủ ban hành|Điều 1",
+            "1193/QĐ-TTg|Quyết định 1193/QĐ-TTg năm 2015 về thí điểm cơ chế, chính sách đặc thù phát triển Vườn ươm Công nghệ công nghiệp Việt Nam - Hàn Quốc tại thành phố Cần Thơ do Thủ tướng Chính phủ ban hành|Điều 5"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Doanh nghiệp nhỏ và vừa được hưởng ưu đãi gì khi tham gia đấu thầu?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành",
+            "22/2023/QH15|Luật Đấu thầu 2023",
+            "214/2025/NĐ-CP|Nghị định 214/2025/NĐ-CP hướng dẫn Luật Đấu thầu về lựa chọn nhà thầu"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 13",
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành|Điều 11",
+            "22/2023/QH15|Luật Đấu thầu 2023|Điều 10",
+            "214/2025/NĐ-CP|Nghị định 214/2025/NĐ-CP hướng dẫn Luật Đấu thầu về lựa chọn nhà thầu|Điều 8",
+            "214/2025/NĐ-CP|Nghị định 214/2025/NĐ-CP hướng dẫn Luật Đấu thầu về lựa chọn nhà thầu|Điều 9"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Nếu công ty giữ bản chính bằng cấp của nhân viên khi ký hợp đồng thì sẽ bị xử lý như thế nào và phải khắc phục ra sao?",
+        "answer": "",
+        "relevant_docs": [
+            "12/2022/NĐ-CP|Nghị định 12/2022/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+            "23/2015/NĐ-CP|Nghị định 23/2015/NĐ-CP về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch",
+            "173/2025/NĐ-CP|Nghị định 173/2025/NĐ-CP về hợp đồng thực hiện nhiệm vụ của công chức",
+            "111/2022/NĐ-CP|Nghị định 111/2022/NĐ-CP về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập",
+            "115/2020/NĐ-CP|Nghị định 115/2020/NĐ-CP quy định về tuyển dụng, sử dụng và quản lý viên chức"
+        ],
+        "relevant_articles": [
+            "12/2022/NĐ-CP|Nghị định 12/2022/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng|Điều 4",
+            "23/2015/NĐ-CP|Nghị định 23/2015/NĐ-CP về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch|Điều 44",
+            "173/2025/NĐ-CP|Nghị định 173/2025/NĐ-CP về hợp đồng thực hiện nhiệm vụ của công chức|Điều 10",
+            "111/2022/NĐ-CP|Nghị định 111/2022/NĐ-CP về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập|Điều 8",
+            "115/2020/NĐ-CP|Nghị định 115/2020/NĐ-CP quy định về tuyển dụng, sử dụng và quản lý viên chức|Điều 5"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Hộ kinh doanh cần đáp ứng điều kiện gì để được hưởng hỗ trợ khi chuyển đổi thành doanh nghiệp nhỏ và vừa?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "148/2025/QH15|Luật Chuyển đổi số 2025"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 16",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 17",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 15",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 4",
+            "148/2025/QH15|Luật Chuyển đổi số 2025|Điều 37"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Công ty nhỏ và vừa được hỗ trợ giá thuê mặt bằng sản xuất trong thời gian tối đa là bao lâu?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành",
+            "55/2019/NĐ-CP|Nghị định 55/2019/NĐ-CP về hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 11",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 22",
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành|Điều 7",
+            "55/2019/NĐ-CP|Nghị định 55/2019/NĐ-CP về hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa|Điều 11",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 25"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Khi lập Báo cáo tài chính năm, công ty phải trình bày những thông tin chung nào về doanh nghiệp?",
+        "answer": "",
+        "relevant_docs": [
+            "59/2020/QH14|Luật Doanh nghiệp 2020",
+            "54/2019/QH14|Luật Chứng khoán 2019"
+        ],
+        "relevant_articles": [
+            "59/2020/QH14|Luật Doanh nghiệp 2020|Điều 109",
+            "59/2020/QH14|Luật Doanh nghiệp 2020|Điều 197",
+            "54/2019/QH14|Luật Chứng khoán 2019|Điều 120",
+            "59/2020/QH14|Luật Doanh nghiệp 2020|Điều 176",
+            "59/2020/QH14|Luật Doanh nghiệp 2020|Điều 175"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Nếu công ty chậm đóng bảo hiểm xã hội bắt buộc cho nhân viên thì sẽ bị xử phạt như thế nào?",
+        "answer": "",
+        "relevant_docs": [
+            "41/2024/QH15|Luật Bảo hiểm xã hội 2024",
+            "12/2022/NĐ-CP|Nghị định 12/2022/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+            "274/2025/NĐ-CP|Nghị định 274/2025/NĐ-CP hướng dẫn Luật Bảo hiểm xã hội về chậm đóng, trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp; khiếu nại, tố cáo về bảo hiểm xã hội"
+        ],
+        "relevant_articles": [
+            "41/2024/QH15|Luật Bảo hiểm xã hội 2024|Điều 40",
+            "12/2022/NĐ-CP|Nghị định 12/2022/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng|Điều 39",
+            "274/2025/NĐ-CP|Nghị định 274/2025/NĐ-CP hướng dẫn Luật Bảo hiểm xã hội về chậm đóng, trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp; khiếu nại, tố cáo về bảo hiểm xã hội|Điều 6",
+            "274/2025/NĐ-CP|Nghị định 274/2025/NĐ-CP hướng dẫn Luật Bảo hiểm xã hội về chậm đóng, trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp; khiếu nại, tố cáo về bảo hiểm xã hội|Điều 3",
+            "274/2025/NĐ-CP|Nghị định 274/2025/NĐ-CP hướng dẫn Luật Bảo hiểm xã hội về chậm đóng, trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp; khiếu nại, tố cáo về bảo hiểm xã hội|Điều 5"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo cần đáp ứng điều kiện nào để được hỗ trợ?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 17",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa|Điều 16",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 21",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 20",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 22"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Công ty sản xuất nhỏ và vừa tham gia chuỗi giá trị sẽ được hỗ trợ những nội dung gì?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "644/QĐ-TTg|Quyết định 644/QĐ-TTg năm 2014 phê duyệt Đề án \"Hỗ trợ doanh nghiệp nhỏ và vừa để phát triển cụm liên kết ngành trong chuỗi giá trị khu vực nông nghiệp nông thôn\" do Thủ tướng Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 25",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 19",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 24",
+            "644/QĐ-TTg|Quyết định 644/QĐ-TTg năm 2014 phê duyệt Đề án \"Hỗ trợ doanh nghiệp nhỏ và vừa để phát triển cụm liên kết ngành trong chuỗi giá trị khu vực nông nghiệp nông thôn\" do Thủ tướng Chính phủ ban hành|Điều 1",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 27"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Quỹ phát triển doanh nghiệp nhỏ và vừa thực hiện những chức năng hỗ trợ gì cho doanh nghiệp?",
+        "answer": "",
+        "relevant_docs": [
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "601/QĐ-TTg|Quyết định 601/QĐ-TTg năm 2013 thành lập Quỹ Phát triển doanh nghiệp nhỏ và vừa do Thủ tướng Chính phủ ban hành",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành|Điều 9",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 20",
+            "601/QĐ-TTg|Quyết định 601/QĐ-TTg năm 2013 thành lập Quỹ Phát triển doanh nghiệp nhỏ và vừa do Thủ tướng Chính phủ ban hành|Điều 4",
+            "601/QĐ-TTg|Quyết định 601/QĐ-TTg năm 2013 thành lập Quỹ Phát triển doanh nghiệp nhỏ và vừa do Thủ tướng Chính phủ ban hành|Điều 1",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa|Điều 5"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Để được xác định là doanh nghiệp nhỏ và vừa thì số lao động tham gia bảo hiểm xã hội bình quân năm tối đa là bao nhiêu người?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "90/2025/NĐ-CP|Nghị định 90/2025/NĐ-CP sửa đổi Nghị định 17/2012/NĐ-CP hướng dẫn Luật kiểm toán độc lập",
+            "38/QĐ-TTg|Quyết định 38/QĐ-TTg năm 2024 phê duyệt Chiến lược phát triển ngành Bảo hiểm xã hội Việt Nam đến năm 2030 do Thủ tướng Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 4",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 5",
+            "90/2025/NĐ-CP|Nghị định 90/2025/NĐ-CP sửa đổi Nghị định 17/2012/NĐ-CP hướng dẫn Luật kiểm toán độc lập|Điều 1",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 7",
+            "38/QĐ-TTg|Quyết định 38/QĐ-TTg năm 2024 phê duyệt Chiến lược phát triển ngành Bảo hiểm xã hội Việt Nam đến năm 2030 do Thủ tướng Chính phủ ban hành|Điều 1"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Doanh nghiệp nhỏ và vừa có thể được hỗ trợ những gì để nâng cao khả năng tiếp cận tín dụng?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "1726/QĐ-TTg|Quyết định 1726/QĐ-TTg năm 2016 phê duyệt “Đề án nâng cao khả năng tiếp cận dịch vụ ngân hàng cho nền kinh tế” do Thủ tướng Chính phủ ban hành",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 8",
+            "1726/QĐ-TTg|Quyết định 1726/QĐ-TTg năm 2016 phê duyệt “Đề án nâng cao khả năng tiếp cận dịch vụ ngân hàng cho nền kinh tế” do Thủ tướng Chính phủ ban hành|Điều 1",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 9",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 32",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 3"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Quỹ bảo lãnh tín dụng doanh nghiệp nhỏ và vừa căn cứ vào những điều kiện nào để cấp bảo lãnh cho công ty?",
+        "answer": "",
+        "relevant_docs": [
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành|Điều 16",
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành|Điều 17",
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành|Điều 25",
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành|Điều 5",
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành|Điều 22"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Khi nhận hỗ trợ từ Nhà nước, công ty nhỏ và vừa có trách nhiệm gì về nguồn lực đối ứng?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 28",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 21",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 24",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa|Điều 60",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 25"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Công ty nhỏ và vừa có thể nhận nguồn vốn hỗ trợ từ những nguồn nào?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 6",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 29",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 8",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 20",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 5"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Khóa đào tạo trực tiếp về quản trị doanh nghiệp cho doanh nghiệp nhỏ và vừa bao gồm những loại khóa đào tạo nào?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 14",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân|Điều 11",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 15",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 3",
+            "198/2025/QH15|Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân do Quốc hội ban hành|Điều 13"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Bộ Tài chính có trách nhiệm hướng dẫn những nội dung gì về thuế và kế toán cho doanh nghiệp siêu nhỏ?",
+        "answer": "",
+        "relevant_docs": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân",
+            "38/2018/NĐ-CP|Nghị định 38/2018/NĐ-CP quy định chi tiết về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 23",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân|Điều 10",
+            "38/2018/NĐ-CP|Nghị định 38/2018/NĐ-CP quy định chi tiết về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo|Điều 29",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa|Điều 58",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân|Điều 12"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "Để được lựa chọn là doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, công ty cần cung cấp những loại giấy chứng nhận giải thưởng nào?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "210/2025/NĐ-CP|Nghị định 210/2025/NĐ-CP sửa đổi Nghị định 38/2018/NĐ-CP hướng dẫn về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo",
+            "268/2025/NĐ-CP|Nghị định 268/2025/NĐ-CP hướng dẫn Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 21",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 20",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 17",
+            "210/2025/NĐ-CP|Nghị định 210/2025/NĐ-CP sửa đổi Nghị định 38/2018/NĐ-CP hướng dẫn về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo|Điều 1",
+            "268/2025/NĐ-CP|Nghị định 268/2025/NĐ-CP hướng dẫn Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo|Điều 49"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Doanh nghiệp nhỏ và vừa được hỗ trợ tư vấn theo nội dung và mức hỗ trợ nào?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 13",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 32",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 22",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 14",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 5"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Những hình thức doanh nghiệp nhỏ và vừa nào được lựa chọn để tham gia chuỗi giá trị sản xuất, chế biến?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "644/QĐ-TTg|Quyết định 644/QĐ-TTg năm 2014 phê duyệt Đề án \"Hỗ trợ doanh nghiệp nhỏ và vừa để phát triển cụm liên kết ngành trong chuỗi giá trị khu vực nông nghiệp nông thôn\" do Thủ tướng Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 24",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 19",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 25",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 23",
+            "644/QĐ-TTg|Quyết định 644/QĐ-TTg năm 2014 phê duyệt Đề án \"Hỗ trợ doanh nghiệp nhỏ và vừa để phát triển cụm liên kết ngành trong chuỗi giá trị khu vực nông nghiệp nông thôn\" do Thủ tướng Chính phủ ban hành|Điều 4"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "Đối tượng nào được tham gia khóa đào tạo trực tiếp về khởi sự kinh doanh dành cho doanh nghiệp nhỏ và vừa?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "236/2006/QĐ-TTg|Quyết định 236/2006/QĐ-TTg phê duyệt Kế hoạch phát triển doanh nghiệp nhỏ và vừa 5 năm (2006 - 2010) do Thủ tướng Chính phủ ban hành",
+            "15/2019/NĐ-CP|Nghị định 15/2019/NĐ-CP hướng dẫn Luật giáo dục nghề nghiệp"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 14",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 15",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 3",
+            "236/2006/QĐ-TTg|Quyết định 236/2006/QĐ-TTg phê duyệt Kế hoạch phát triển doanh nghiệp nhỏ và vừa 5 năm (2006 - 2010) do Thủ tướng Chính phủ ban hành|Điều 1",
+            "15/2019/NĐ-CP|Nghị định 15/2019/NĐ-CP hướng dẫn Luật giáo dục nghề nghiệp|Điều 42"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "Khi công ty nhận hỗ trợ tư vấn từ ngân sách nhà nước thì những chi phí nào của tư vấn viên được chi trả?",
+        "answer": "",
+        "relevant_docs": [
+            "76/2023/NĐ-CP|Nghị định 76/2023/NĐ-CP hướng dẫn Luật Phòng, chống bạo lực gia đình",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã",
+            "87/2002/NĐ-CP|Nghị định 87/2002/NĐ-CP về hoạt động cung ứng và sử dụng dịch vụ tư vấn"
+        ],
+        "relevant_articles": [
+            "76/2023/NĐ-CP|Nghị định 76/2023/NĐ-CP hướng dẫn Luật Phòng, chống bạo lực gia đình|Điều 36",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã|Điều 9",
+            "87/2002/NĐ-CP|Nghị định 87/2002/NĐ-CP về hoạt động cung ứng và sử dụng dịch vụ tư vấn|Điều 13",
+            "87/2002/NĐ-CP|Nghị định 87/2002/NĐ-CP về hoạt động cung ứng và sử dụng dịch vụ tư vấn|Điều 5",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã|Điều 15"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Khi doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo được hỗ trợ duy trì tài khoản trên sàn thương mại điện tử quốc tế thì bao gồm những chi phí nào?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "210/2025/NĐ-CP|Nghị định 210/2025/NĐ-CP sửa đổi Nghị định 38/2018/NĐ-CP hướng dẫn về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 25",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 22",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 32",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 21",
+            "210/2025/NĐ-CP|Nghị định 210/2025/NĐ-CP sửa đổi Nghị định 38/2018/NĐ-CP hướng dẫn về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo|Điều 1"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "Hồ sơ đề xuất hỗ trợ doanh nghiệp nhỏ và vừa cần bao gồm những thành phần nào?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa",
+            "55/2019/NĐ-CP|Nghị định 55/2019/NĐ-CP về hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa",
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 32",
+            "39/2019/NĐ-CP|Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa|Điều 30",
+            "55/2019/NĐ-CP|Nghị định 55/2019/NĐ-CP về hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa|Điều 9",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 15",
+            "34/2018/NĐ-CP|Nghị định 34/2018/NĐ-CP về thành lập, tổ chức và hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Chính phủ ban hành|Điều 21"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "Khi cho học viên tham gia các khóa đào tạo trong và ngoài nước để tham gia chuỗi giá trị, công ty được hỗ trợ những chi phí cụ thể nào?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "29/2021/QĐ-TTg|Quyết định 29/2021/QĐ-TTg quy định về ưu đãi đầu tư đặc biệt do Thủ tướng Chính phủ ban hành",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 25",
+            "29/2021/QĐ-TTg|Quyết định 29/2021/QĐ-TTg quy định về ưu đãi đầu tư đặc biệt do Thủ tướng Chính phủ ban hành|Điều 3",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 15",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã|Điều 7",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 14"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "Công ty muốn thuê hoặc mua các giải pháp chuyển đổi số được hỗ trợ chi phí thì cần tìm ở đâu?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân",
+            "749/QĐ-TTg|Quyết định 749/QĐ-TTg năm 2020 về phê duyệt \"Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030\" do Thủ tướng Chính phủ ban hành",
+            "193/2025/QH15|Nghị quyết 193/2025/QH15 về thí điểm cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia do Quốc hội ban hành"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 11",
+            "113/2024/NĐ-CP|Nghị định 113/2024/NĐ-CP hướng dẫn Luật Hợp tác xã|Điều 11",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân|Điều 10",
+            "749/QĐ-TTg|Quyết định 749/QĐ-TTg năm 2020 về phê duyệt \"Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030\" do Thủ tướng Chính phủ ban hành|Điều 2",
+            "193/2025/QH15|Nghị quyết 193/2025/QH15 về thí điểm cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia do Quốc hội ban hành|Điều 10"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Phạm vi đăng ký thuế bao gồm những nội dung cụ thể nào?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "125/2020/NĐ-CP|Nghị định 125/2020/NĐ-CP quy định về xử phạt vi phạm hành chính về thuế, hóa đơn",
+            "59/2020/QH14|Luật Doanh nghiệp 2020",
+            "53/2011/NĐ-CP|Nghị định 53/2011/NĐ-CP hướng dẫn Luật Thuế sử dụng đất phi nông nghiệp"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 10",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 5",
+            "125/2020/NĐ-CP|Nghị định 125/2020/NĐ-CP quy định về xử phạt vi phạm hành chính về thuế, hóa đơn|Điều 11",
+            "59/2020/QH14|Luật Doanh nghiệp 2020|Điều 23",
+            "53/2011/NĐ-CP|Nghị định 53/2011/NĐ-CP hướng dẫn Luật Thuế sử dụng đất phi nông nghiệp|Điều 7"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Công ty sản xuất nhỏ và vừa có những hình thức liên kết nào trong cụm liên kết ngành để được xem xét hỗ trợ?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "644/QĐ-TTg|Quyết định 644/QĐ-TTg năm 2014 phê duyệt Đề án \"Hỗ trợ doanh nghiệp nhỏ và vừa để phát triển cụm liên kết ngành trong chuỗi giá trị khu vực nông nghiệp nông thôn\" do Thủ tướng Chính phủ ban hành"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 23",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 19",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 3",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 25",
+            "644/QĐ-TTg|Quyết định 644/QĐ-TTg năm 2014 phê duyệt Đề án \"Hỗ trợ doanh nghiệp nhỏ và vừa để phát triển cụm liên kết ngành trong chuỗi giá trị khu vực nông nghiệp nông thôn\" do Thủ tướng Chính phủ ban hành|Điều 4"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "Để thành lập khu làm việc chung hỗ trợ doanh nghiệp khởi nghiệp sáng tạo, cơ cấu tổ chức bộ máy cần đáp ứng những yêu cầu gì?",
+        "answer": "",
+        "relevant_docs": [
+            "136/2024/QH15|Nghị quyết 136/2024/QH15 tổ chức chính quyền đô thị và thí điểm cơ chế, chính sách đặc thù phát triển thành phố Đà Nẵng do Quốc hội ban hành",
+            "268/2025/NĐ-CP|Nghị định 268/2025/NĐ-CP hướng dẫn Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo",
+            "844/QĐ-TTg|Quyết định 844/QĐ-TTg năm 2016 phê duyệt Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025\" do Thủ tướng Chính phủ ban hành",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa"
+        ],
+        "relevant_articles": [
+            "136/2024/QH15|Nghị quyết 136/2024/QH15 tổ chức chính quyền đô thị và thí điểm cơ chế, chính sách đặc thù phát triển thành phố Đà Nẵng do Quốc hội ban hành|Điều 3",
+            "268/2025/NĐ-CP|Nghị định 268/2025/NĐ-CP hướng dẫn Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo|Điều 32",
+            "268/2025/NĐ-CP|Nghị định 268/2025/NĐ-CP hướng dẫn Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng, mạng lưới và hệ sinh thái khởi nghiệp sáng tạo|Điều 29",
+            "844/QĐ-TTg|Quyết định 844/QĐ-TTg năm 2016 phê duyệt Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025\" do Thủ tướng Chính phủ ban hành|Điều 1",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 22"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "Mã số thuế của doanh nghiệp được quy định là mã số nào?",
+        "answer": "",
+        "relevant_docs": [
+            "168/2025/NĐ-CP|Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp",
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế",
+            "236/2025/NĐ-CP|Nghị định 236/2025/NĐ-CP hướng dẫn Nghị quyết 107/2023/QH15 về áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu"
+        ],
+        "relevant_articles": [
+            "168/2025/NĐ-CP|Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp|Điều 8",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 11",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 6",
+            "236/2025/NĐ-CP|Nghị định 236/2025/NĐ-CP hướng dẫn Nghị quyết 107/2023/QH15 về áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu|Điều 15",
+            "168/2025/NĐ-CP|Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp|Điều 91"
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Trong trường hợp bất khả kháng, công ty được gia hạn nộp hồ sơ khai thuế theo tháng hoặc quý tối đa là bao nhiêu ngày?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "12/2010/QĐ-TTg|Quyết định 12/2010/QĐ-TTg về gia hạn nộp thuế thu nhập doanh nghiệp nhằm tiếp tục tháo gỡ khó khăn cho doanh nghiệp, góp phần thúc đẩy phát triển kinh tế năm 2010 do Thủ tướng Chính phủ ban hành",
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 12",
+            "12/2010/QĐ-TTg|Quyết định 12/2010/QĐ-TTg về gia hạn nộp thuế thu nhập doanh nghiệp nhằm tiếp tục tháo gỡ khó khăn cho doanh nghiệp, góp phần thúc đẩy phát triển kinh tế năm 2010 do Thủ tướng Chính phủ ban hành|Điều 3",
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh|Điều 8",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 10",
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh|Điều 18"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "Khi công ty nộp thừa tiền thuế và tiền phạt thì được xử lý bằng những cách nào?",
+        "answer": "",
+        "relevant_docs": [
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh",
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "74-CP|Nghị định 74-CP năm 1993 Hướng dẫn Luật Thuế sử dụng đất nông nghiệp",
+            "128/2020/NĐ-CP|Nghị định 128/2020/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực hải quan"
+        ],
+        "relevant_articles": [
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh|Điều 12",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 15",
+            "74-CP|Nghị định 74-CP năm 1993 Hướng dẫn Luật Thuế sử dụng đất nông nghiệp|Điều 20",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 18",
+            "128/2020/NĐ-CP|Nghị định 128/2020/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực hải quan|Điều 9"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "Trong trường hợp nào thì chủ quản nền tảng thương mại điện tử có trách nhiệm khấu trừ và nộp thuế thay cho hộ kinh doanh?",
+        "answer": "",
+        "relevant_docs": [
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh",
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "56/2024/QH15|Luật sửa đổi Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách Nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính 2024",
+            "117/2025/NĐ-CP|Nghị định 117/2025/NĐ-CP quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số của hộ, cá nhân"
+        ],
+        "relevant_articles": [
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh|Điều 11",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 13",
+            "68/2026/NĐ-CP|Nghị định 68/2026/NĐ-CP quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh|Điều 1",
+            "56/2024/QH15|Luật sửa đổi Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách Nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính 2024|Điều 6",
+            "117/2025/NĐ-CP|Nghị định 117/2025/NĐ-CP quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số của hộ, cá nhân|Điều 1"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "Khi công ty thuộc trường hợp được miễn thuế hoặc giảm thuế thì phải làm gì để được hưởng?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "67/2025/QH15|Luật Thuế thu nhập doanh nghiệp 2025",
+            "109/2025/QH15|Luật Thuế thu nhập cá nhân 2025",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân",
+            "48/2010/QH12|Luật thuế sử dụng đất phi nông nghiệp 2010"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 19",
+            "67/2025/QH15|Luật Thuế thu nhập doanh nghiệp 2025|Điều 15",
+            "109/2025/QH15|Luật Thuế thu nhập cá nhân 2025|Điều 5",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân|Điều 7",
+            "48/2010/QH12|Luật thuế sử dụng đất phi nông nghiệp 2010|Điều 11"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "Chứng từ điện tử trong quản lý thuế được định nghĩa là gì?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "70/2025/NĐ-CP|Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ",
+            "88/2015/QH13|Luật kế toán 2015",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 27",
+            "70/2025/NĐ-CP|Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 1",
+            "88/2015/QH13|Luật kế toán 2015|Điều 17",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 57",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 3"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "Trong trường hợp nào thì doanh nghiệp bị Tòa án tuyên bố phá sản được xóa tiền thuế nợ?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế",
+            "97/2018/NĐ-CP|Nghị định 97/2018/NĐ-CP về cho vay lại vốn vay ODA, vốn vay ưu đãi nước ngoài của Chính phủ",
+            "142/2025/QH15|Luật Phục hồi, phá sản 2025"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 21",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 20",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 23",
+            "97/2018/NĐ-CP|Nghị định 97/2018/NĐ-CP về cho vay lại vốn vay ODA, vốn vay ưu đãi nước ngoài của Chính phủ|Điều 39",
+            "142/2025/QH15|Luật Phục hồi, phá sản 2025|Điều 65"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "Hiện nay có những loại hóa đơn điện tử nào mà công ty có thể sử dụng?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ",
+            "70/2025/NĐ-CP|Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 26",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 13",
+            "70/2025/NĐ-CP|Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 1",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 15",
+            "123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ|Điều 16"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Trong những trường hợp nào thì cơ quan thuế sẽ thực hiện ấn định thuế đối với công ty?",
+        "answer": "",
+        "relevant_docs": [
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế",
+            "108/2025/QH15|Luật Quản lý thuế 2025"
+        ],
+        "relevant_articles": [
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 14",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 24",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 15",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 17",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 16"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Công ty tôi có được đề xuất nhiều nội dung hỗ trợ khác nhau trong cùng một hồ sơ đề xuất không?",
+        "answer": "",
+        "relevant_docs": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+            "115/2024/NĐ-CP|Nghị định 115/2024/NĐ-CP hướng dẫn Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất",
+            "19/2026/NĐ-CP|Nghị định 19/2026/NĐ-CP quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư"
+        ],
+        "relevant_articles": [
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 32",
+            "80/2021/NĐ-CP|Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa|Điều 4",
+            "04/2017/QH14|Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017|Điều 5",
+            "115/2024/NĐ-CP|Nghị định 115/2024/NĐ-CP hướng dẫn Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất|Điều 27",
+            "19/2026/NĐ-CP|Nghị định 19/2026/NĐ-CP quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư|Điều 18"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "Khi có quyết định xử lý khiếu nại, cơ quan thuế phải hoàn trả tiền thuế thu không đúng cho công ty trong thời hạn bao lâu?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "23-L/CTN|Luật thuế Sử dụng Đất Nông nghiệp 1993",
+            "74-CP|Nghị định 74-CP năm 1993 Hướng dẫn Luật Thuế sử dụng đất nông nghiệp",
+            "125/2020/NĐ-CP|Nghị định 125/2020/NĐ-CP quy định về xử phạt vi phạm hành chính về thuế, hóa đơn"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 42",
+            "23-L/CTN|Luật thuế Sử dụng Đất Nông nghiệp 1993|Điều 30",
+            "74-CP|Nghị định 74-CP năm 1993 Hướng dẫn Luật Thuế sử dụng đất nông nghiệp|Điều 22",
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 12",
+            "125/2020/NĐ-CP|Nghị định 125/2020/NĐ-CP quy định về xử phạt vi phạm hành chính về thuế, hóa đơn|Điều 3"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "Khi công ty nợ thuế, cơ quan thuế có thể áp dụng những biện pháp cưỡng chế nào?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 49",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 36",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 37",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 32",
+            "126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế|Điều 33"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Thời hạn để người thứ ba gửi ý kiến phản đối việc cấp văn bằng bảo hộ sở hữu công nghiệp là khi nào?",
+        "answer": "",
+        "relevant_docs": [
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "42/2019/QH14|Luật Kinh doanh bảo hiểm, Luật Sở hữu trí tuệ sửa đổi 2019"
+        ],
+        "relevant_articles": [
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 32",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 112",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 30",
+            "42/2019/QH14|Luật Kinh doanh bảo hiểm, Luật Sở hữu trí tuệ sửa đổi 2019|Điều 2",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 29"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "Để cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ, tổ chức kinh doanh dịch vụ làm thủ tục về thuế cần điều kiện gì?",
+        "answer": "",
+        "relevant_docs": [
+            "108/2025/QH15|Luật Quản lý thuế 2025",
+            "88/2015/QH13|Luật kế toán 2015",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân"
+        ],
+        "relevant_articles": [
+            "108/2025/QH15|Luật Quản lý thuế 2025|Điều 51",
+            "88/2015/QH13|Luật kế toán 2015|Điều 65",
+            "20/2026/NĐ-CP|Nghị định 20/2026/NĐ-CP hướng dẫn Nghị quyết 198/2025/QH15 về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân|Điều 10",
+            "88/2015/QH13|Luật kế toán 2015|Điều 68",
+            "88/2015/QH13|Luật kế toán 2015|Điều 61"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Sau khi có thông báo kết quả thẩm định nội dung, công ty cần làm gì để được cấp văn bằng bảo hộ sở hữu công nghiệp?",
+        "answer": "",
+        "relevant_docs": [
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005"
+        ],
+        "relevant_articles": [
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 29",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 114",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 117",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 17",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 46"
+        ]
+    },
+    {
+        "id": 45,
+        "question": "Trường hợp nào việc sử dụng dấu hiệu trùng với nhãn hiệu được bảo hộ bị coi là xâm phạm quyền đối với nhãn hiệu?",
+        "answer": "",
+        "relevant_docs": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ"
+        ],
+        "relevant_articles": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 129",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 77",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 73",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 74",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 79"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Khi lập hợp đồng chuyển nhượng quyền sở hữu công nghiệp, công ty cần phải có những nội dung chính nào?",
+        "answer": "",
+        "relevant_docs": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ"
+        ],
+        "relevant_articles": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 140",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 144",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 149",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 58",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 59"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "Nếu công ty phát hiện người khác đang dùng sáng chế mình đã nộp đơn đăng ký để kinh doanh thì công ty có quyền làm gì?",
+        "answer": "",
+        "relevant_docs": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ"
+        ],
+        "relevant_articles": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 131",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 134",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 44",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 14",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 125"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "Khi soạn thảo hợp đồng sử dụng đối tượng sở hữu công nghiệp, công ty cần phải có những nội dung chủ yếu nào?",
+        "answer": "",
+        "relevant_docs": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ"
+        ],
+        "relevant_articles": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 144",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 140",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 149",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 143",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 58"
+        ]
+    },
+    {
+        "id": 49,
+        "question": "Công ty sử dụng kiểu dáng công nghiệp đã được bảo hộ mà không xin phép chủ sở hữu thì có bị coi là xâm phạm quyền không?",
+        "answer": "",
+        "relevant_docs": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ"
+        ],
+        "relevant_articles": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 134",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 126",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 76",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 129",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 72"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Hợp đồng chuyển nhượng quyền sở hữu công nghiệp cần điều kiện gì để có hiệu lực pháp luật?",
+        "answer": "",
+        "relevant_docs": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ"
+        ],
+        "relevant_articles": [
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 148",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 59",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 149",
+            "50/2005/QH11|Luật Sở hữu trí tuệ 2005|Điều 140",
+            "65/2023/NĐ-CP|Nghị định 65/2023/NĐ-CP hướng dẫn Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý Nhà nước về sở hữu trí tuệ|Điều 58"
+        ]
+    }
+]

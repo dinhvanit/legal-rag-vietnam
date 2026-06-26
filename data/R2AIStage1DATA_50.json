@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "question": "Các cơ sở ươm tạo và khu làm việc chung được hưởng những chính sách hỗ trợ nào về thuế và đất đai?"
+  },
+  {
+    "id": 2,
+    "question": "Doanh nghiệp nhỏ và vừa được hưởng ưu đãi gì khi tham gia đấu thầu?"
+  },
+  {
+    "id": 3,
+    "question": "Nếu công ty giữ bản chính bằng cấp của nhân viên khi ký hợp đồng thì sẽ bị xử lý như thế nào và phải khắc phục ra sao?"
+  },
+  {
+    "id": 4,
+    "question": "Hộ kinh doanh cần đáp ứng điều kiện gì để được hưởng hỗ trợ khi chuyển đổi thành doanh nghiệp nhỏ và vừa?"
+  },
+  {
+    "id": 5,
+    "question": "Công ty nhỏ và vừa được hỗ trợ giá thuê mặt bằng sản xuất trong thời gian tối đa là bao lâu?"
+  },
+  {
+    "id": 6,
+    "question": "Khi lập Báo cáo tài chính năm, công ty phải trình bày những thông tin chung nào về doanh nghiệp?"
+  },
+  {
+    "id": 7,
+    "question": "Nếu công ty chậm đóng bảo hiểm xã hội bắt buộc cho nhân viên thì sẽ bị xử phạt như thế nào?"
+  },
+  {
+    "id": 8,
+    "question": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo cần đáp ứng điều kiện nào để được hỗ trợ?"
+  },
+  {
+    "id": 9,
+    "question": "Công ty sản xuất nhỏ và vừa tham gia chuỗi giá trị sẽ được hỗ trợ những nội dung gì?"
+  },
+  {
+    "id": 10,
+    "question": "Quỹ phát triển doanh nghiệp nhỏ và vừa thực hiện những chức năng hỗ trợ gì cho doanh nghiệp?"
+  },
+  {
+    "id": 11,
+    "question": "Để được xác định là doanh nghiệp nhỏ và vừa thì số lao động tham gia bảo hiểm xã hội bình quân năm tối đa là bao nhiêu người?"
+  },
+  {
+    "id": 12,
+    "question": "Doanh nghiệp nhỏ và vừa có thể được hỗ trợ những gì để nâng cao khả năng tiếp cận tín dụng?"
+  },
+  {
+    "id": 13,
+    "question": "Quỹ bảo lãnh tín dụng doanh nghiệp nhỏ và vừa căn cứ vào những điều kiện nào để cấp bảo lãnh cho công ty?"
+  },
+  {
+    "id": 14,
+    "question": "Khi nhận hỗ trợ từ Nhà nước, công ty nhỏ và vừa có trách nhiệm gì về nguồn lực đối ứng?"
+  },
+  {
+    "id": 15,
+    "question": "Công ty nhỏ và vừa có thể nhận nguồn vốn hỗ trợ từ những nguồn nào?"
+  },
+  {
+    "id": 16,
+    "question": "Khóa đào tạo trực tiếp về quản trị doanh nghiệp cho doanh nghiệp nhỏ và vừa bao gồm những loại khóa đào tạo nào?"
+  },
+  {
+    "id": 17,
+    "question": "Bộ Tài chính có trách nhiệm hướng dẫn những nội dung gì về thuế và kế toán cho doanh nghiệp siêu nhỏ?"
+  },
+  {
+    "id": 18,
+    "question": "Để được lựa chọn là doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, công ty cần cung cấp những loại giấy chứng nhận giải thưởng nào?"
+  },
+  {
+    "id": 19,
+    "question": "Doanh nghiệp nhỏ và vừa được hỗ trợ tư vấn theo nội dung và mức hỗ trợ nào?"
+  },
+  {
+    "id": 20,
+    "question": "Những hình thức doanh nghiệp nhỏ và vừa nào được lựa chọn để tham gia chuỗi giá trị sản xuất, chế biến?"
+  },
+  {
+    "id": 21,
+    "question": "Đối tượng nào được tham gia khóa đào tạo trực tiếp về khởi sự kinh doanh dành cho doanh nghiệp nhỏ và vừa?"
+  },
+  {
+    "id": 22,
+    "question": "Khi công ty nhận hỗ trợ tư vấn từ ngân sách nhà nước thì những chi phí nào của tư vấn viên được chi trả?"
+  },
+  {
+    "id": 23,
+    "question": "Khi doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo được hỗ trợ duy trì tài khoản trên sàn thương mại điện tử quốc tế thì bao gồm những chi phí nào?"
+  },
+  {
+    "id": 24,
+    "question": "Hồ sơ đề xuất hỗ trợ doanh nghiệp nhỏ và vừa cần bao gồm những thành phần nào?"
+  },
+  {
+    "id": 25,
+    "question": "Khi cho học viên tham gia các khóa đào tạo trong và ngoài nước để tham gia chuỗi giá trị, công ty được hỗ trợ những chi phí cụ thể nào?"
+  },
+  {
+    "id": 26,
+    "question": "Công ty muốn thuê hoặc mua các giải pháp chuyển đổi số được hỗ trợ chi phí thì cần tìm ở đâu?"
+  },
+  {
+    "id": 27,
+    "question": "Phạm vi đăng ký thuế bao gồm những nội dung cụ thể nào?"
+  },
+  {
+    "id": 28,
+    "question": "Công ty sản xuất nhỏ và vừa có những hình thức liên kết nào trong cụm liên kết ngành để được xem xét hỗ trợ?"
+  },
+  {
+    "id": 29,
+    "question": "Để thành lập khu làm việc chung hỗ trợ doanh nghiệp khởi nghiệp sáng tạo, cơ cấu tổ chức bộ máy cần đáp ứng những yêu cầu gì?"
+  },
+  {
+    "id": 30,
+    "question": "Mã số thuế của doanh nghiệp được quy định là mã số nào?"
+  },
+  {
+    "id": 31,
+    "question": "Trong trường hợp bất khả kháng, công ty được gia hạn nộp hồ sơ khai thuế theo tháng hoặc quý tối đa là bao nhiêu ngày?"
+  },
+  {
+    "id": 32,
+    "question": "Khi công ty nộp thừa tiền thuế và tiền phạt thì được xử lý bằng những cách nào?"
+  },
+  {
+    "id": 33,
+    "question": "Trong trường hợp nào thì chủ quản nền tảng thương mại điện tử có trách nhiệm khấu trừ và nộp thuế thay cho hộ kinh doanh?"
+  },
+  {
+    "id": 34,
+    "question": "Khi công ty thuộc trường hợp được miễn thuế hoặc giảm thuế thì phải làm gì để được hưởng?"
+  },
+  {
+    "id": 35,
+    "question": "Chứng từ điện tử trong quản lý thuế được định nghĩa là gì?"
+  },
+  {
+    "id": 36,
+    "question": "Trong trường hợp nào thì doanh nghiệp bị Tòa án tuyên bố phá sản được xóa tiền thuế nợ?"
+  },
+  {
+    "id": 37,
+    "question": "Hiện nay có những loại hóa đơn điện tử nào mà công ty có thể sử dụng?"
+  },
+  {
+    "id": 38,
+    "question": "Trong những trường hợp nào thì cơ quan thuế sẽ thực hiện ấn định thuế đối với công ty?"
+  },
+  {
+    "id": 39,
+    "question": "Công ty tôi có được đề xuất nhiều nội dung hỗ trợ khác nhau trong cùng một hồ sơ đề xuất không?"
+  },
+  {
+    "id": 40,
+    "question": "Khi có quyết định xử lý khiếu nại, cơ quan thuế phải hoàn trả tiền thuế thu không đúng cho công ty trong thời hạn bao lâu?"
+  },
+  {
+    "id": 41,
+    "question": "Khi công ty nợ thuế, cơ quan thuế có thể áp dụng những biện pháp cưỡng chế nào?"
+  },
+  {
+    "id": 42,
+    "question": "Thời hạn để người thứ ba gửi ý kiến phản đối việc cấp văn bằng bảo hộ sở hữu công nghiệp là khi nào?"
+  },
+  {
+    "id": 43,
+    "question": "Để cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ, tổ chức kinh doanh dịch vụ làm thủ tục về thuế cần điều kiện gì?"
+  },
+  {
+    "id": 44,
+    "question": "Sau khi có thông báo kết quả thẩm định nội dung, công ty cần làm gì để được cấp văn bằng bảo hộ sở hữu công nghiệp?"
+  },
+  {
+    "id": 45,
+    "question": "Trường hợp nào việc sử dụng dấu hiệu trùng với nhãn hiệu được bảo hộ bị coi là xâm phạm quyền đối với nhãn hiệu?"
+  },
+  {
+    "id": 46,
+    "question": "Khi lập hợp đồng chuyển nhượng quyền sở hữu công nghiệp, công ty cần phải có những nội dung chính nào?"
+  },
+  {
+    "id": 47,
+    "question": "Nếu công ty phát hiện người khác đang dùng sáng chế mình đã nộp đơn đăng ký để kinh doanh thì công ty có quyền làm gì?"
+  },
+  {
+    "id": 48,
+    "question": "Khi soạn thảo hợp đồng sử dụng đối tượng sở hữu công nghiệp, công ty cần phải có những nội dung chủ yếu nào?"
+  },
+  {
+    "id": 49,
+    "question": "Công ty sử dụng kiểu dáng công nghiệp đã được bảo hộ mà không xin phép chủ sở hữu thì có bị coi là xâm phạm quyền không?"
+  },
+  {
+    "id": 50,
+    "question": "Hợp đồng chuyển nhượng quyền sở hữu công nghiệp cần điều kiện gì để có hiệu lực pháp luật?"
+  }
+]

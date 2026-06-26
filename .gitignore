@@ -11,6 +11,7 @@ __pycache__/
 .env
 logs/
 output/
+debug_output/
 
 # Các file index lưu local (nếu có)
 *.pkl
