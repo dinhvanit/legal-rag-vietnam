@@ -48,9 +48,10 @@ class Settings:
     # F2 phạt precision nặng khi ground-truth mỗi câu chỉ 1-3 điều
     # → KHÔNG dump cả TOP_K_FINAL chunk ra field nộp bài.
     # =========================================================
-    RELEVANT_ARTICLES_MAX = 4   # Số Điều tối đa emit ra relevant_articles mỗi câu
-    RELEVANT_DOCS_MAX = 3       # Số văn bản tối đa emit ra relevant_docs mỗi câu
-    RELEVANT_FALLBACK_K = 2     # Khi LLM không dẫn được Điều nào khớp context → giữ top-K chunk rerank
+    # top-2 rerank cho F2 cao nhất (mô phỏng trên 50 câu GT: article F2≈0.521, doc F2≈0.612).
+    RELEVANT_ARTICLES_MAX = 2   # Số Điều emit ra relevant_articles mỗi câu (top-N theo rerank)
+    RELEVANT_DOCS_MAX = 2       # Số văn bản emit ra relevant_docs mỗi câu (top-N theo rerank)
+    RELEVANT_FALLBACK_K = 2     # (DEPRECATED — không còn dùng sau khi bỏ logic giao citation LLM)
 
     # =========================================================
     # LLM - DeepSeek-R1-Distill-Qwen-14B trên Kaggle
