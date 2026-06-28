@@ -415,6 +415,19 @@ def build_summary(records: List[Dict]) -> str:
     verify_failed_all = sum(1 for r in records if not r["verification"]["passed"])
     final_doc_f1s = [r["final"]["doc_f1"] for r in records]
     final_art_f1s = [r["final"]["article_f1"] for r in records]
+    final_doc_precisions = [r["final"]["doc_precision"] for r in records]
+    final_doc_recalls = [r["final"]["doc_recall"] for r in records]
+    final_art_precisions = [r["final"]["article_precision"] for r in records]
+    final_art_recalls = [r["final"]["article_recall"] for r in records]
+
+    def f2(p: Optional[float], r: Optional[float]) -> Optional[float]:
+        # F2 chính thức của BTC: tính từ macro Precision & macro Recall
+        if p is None or r is None or (4 * p + r) == 0:
+            return None
+        return 5 * p * r / (4 * p + r)
+
+    macro_art_p, macro_art_r = avg(final_art_precisions), avg(final_art_recalls)
+    macro_doc_p, macro_doc_r = avg(final_doc_precisions), avg(final_doc_recalls)
 
     # Chẩn đoán: câu nào retrieval tốt nhưng rerank tệ -> nghi ngờ threshold/reranker
     rerank_drop = sorted(
@@ -462,9 +475,16 @@ def build_summary(records: List[Dict]) -> str:
     lines.append(f"- Phải regenerate (lần 2): {verify_regenerated}/{n}")
     lines.append(f"- Fail cả 2 lần (giữ kết quả tốt nhất): {verify_failed_all}/{n}\n")
 
-    lines.append("## 4. Final Result vs Ground Truth")
-    lines.append(f"- Doc F1 trung bình: {fmt(avg(final_doc_f1s))}")
-    lines.append(f"- Article F1 trung bình: {fmt(avg(final_art_f1s))}\n")
+    lines.append("## 4. Final Result vs Ground Truth (macro-average — đúng cách chấm BTC)")
+    lines.append(
+        f"- ARTICLES: precision={fmt(macro_art_p)} | recall={fmt(macro_art_r)} "
+        f"| **F2={fmt(f2(macro_art_p, macro_art_r))}**"
+    )
+    lines.append(
+        f"- DOCS:     precision={fmt(macro_doc_p)} | recall={fmt(macro_doc_r)} "
+        f"| **F2={fmt(f2(macro_doc_p, macro_doc_r))}**"
+    )
+    lines.append(f"- Doc F1 trung bình: {fmt(avg(final_doc_f1s))} | Article F1 trung bình: {fmt(avg(final_art_f1s))}\n")
 
     lines.append("## 5. Chẩn đoán đứt gãy độ chính xác")
     lines.append(
