@@ -35,9 +35,16 @@ from config.settings import Settings
 from src.index_bm25 import BM25IndexBuilder
 from src.hybrid_retriever import HybridRetriever
 from src.reranker import LegalReranker
-from src.reference_extractor import load_manifest, extract_references_topn, extract_references_all
+from src.reference_extractor import (
+    load_manifest,
+    extract_references_topn,
+    extract_references_all,
+    extract_references_all_v2,
+    validate_manifest_consistency,
+)
 from src.llm_selector import select_candidates
 from src.answer_intersect import intersect_select
+from src.answer_intersect_v2 import intersect_select_v2, build_corpus_lookup
 
 
 # =========================================================
@@ -108,7 +115,14 @@ def main():
     ap.add_argument("--max-select", type=int, default=5,
                     help="Số điều TỐI ĐA LLM được chọn (số lượng thực tế biến thiên 1..max-select)")
     ap.add_argument("--llm-answer", action="store_true",
-                    help="Sinh answer THẬT rồi lấy GIAO citation∩pool rerank (answer≠'', còn ăn điểm QA)")
+                    help="Sinh answer THẬT rồi lấy GIAO citation∩pool rerank (answer≠'', còn ăn điểm QA). "
+                         "Mặc định dùng logic GỐC (answer_intersect.py) — thêm --intersect-v2 để dùng bản sửa lỗi.")
+    ap.add_argument("--intersect-v2", action="store_true",
+                    help="CHỈ có hiệu lực cùng --llm-answer. Dùng answer_intersect_v2.py (bản sửa lỗi): "
+                         "(1) pairing Điều-văn bản theo vị trí trong câu thay vì 2 set rời rạc, "
+                         "(2) bỏ fallback 'mù lấy top-N rerank' khi giao rỗng — thay bằng tra trực tiếp "
+                         "corpus theo đúng cặp đã cite (cứu được căn cứ đúng nhưng bị rerank xếp ngoài pool), "
+                         "chỉ fallback top-1 khi answer không cite được gì hợp lệ (tránh chèn văn bản nhiễu).")
     args = ap.parse_args()
 
     if args.llm_answer:
@@ -133,6 +147,18 @@ def main():
     retriever = HybridRetriever(bm25_builder=bm25, embedding_fn=embed_fn, llm_pipeline=None)
     reranker = LegalReranker()
     manifest = load_manifest()
+
+    # AUDIT SỚM: quét manifest 1 lần để phát hiện lỗi mapping mang tính hệ thống
+    # (vd entry "btc_standard_string" không khớp key của nó — nghi vấn gốc rễ lỗi
+    # "trích dẫn thừa văn bản không liên quan" như case Nghị quyết 98/2023/QH15).
+    # Chạy TRƯỚC khi vào vòng lặp 2000 câu để biết sớm nếu cần sửa manifest trước.
+    validate_manifest_consistency(manifest)
+
+    # Build corpus_lookup CHỈ khi cần (--llm-answer --intersect-v2): dùng để tra
+    # trực tiếp (Điều, văn bản) LLM đã cite đúng nhưng rerank xếp hạng ngoài pool.
+    corpus_lookup = None
+    if args.llm_answer and args.intersect_v2:
+        corpus_lookup = build_corpus_lookup(corpus)
 
     # Chỉ nạp LLM khi cần (tái dùng AnswerGenerator để khỏi sửa code cũ)
     llm_pipe = llm_tokenizer = None
@@ -165,8 +191,16 @@ def main():
                 ranked = reranker.rerank(question, raw_candidates, top_k=max(args.pool_k, Settings.TOP_K_FINAL))
                 out = generator.generate(question, ranked)
                 answer_text = out.get("answer", "")
-                kept = intersect_select(answer_text, ranked, pool_k=args.pool_k, max_out=args.max_select)
-                rel_docs, rel_articles = extract_references_all(kept, manifest)
+                if args.intersect_v2:
+                    kept = intersect_select_v2(
+                        answer_text, ranked,
+                        corpus_lookup=corpus_lookup,
+                        pool_k=args.pool_k, max_out=args.max_select,
+                    )
+                    rel_docs, rel_articles = extract_references_all_v2(kept, manifest)
+                else:
+                    kept = intersect_select(answer_text, ranked, pool_k=args.pool_k, max_out=args.max_select)
+                    rel_docs, rel_articles = extract_references_all(kept, manifest)
             elif args.llm_select:
                 # rerank lấy pool lớn hơn rồi để LLM chọn lọc (số lượng biến thiên)
                 ranked = reranker.rerank(question, raw_candidates, top_k=max(args.pool_k, Settings.TOP_K_FINAL))

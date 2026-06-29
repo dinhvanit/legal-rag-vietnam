@@ -31,13 +31,56 @@ def canonical_doc_string(doc_number: str, fallback_title: str, manifest: Dict) -
     """
     Tra law_manifest.json để lấy chuỗi chuẩn "<Số hiệu>|<Tên văn bản>" theo format BTC.
     Ưu tiên field "btc_standard_string"; fallback sang title của chunk khi không có trong manifest.
+
+    AUDIT: nếu "btc_standard_string" trong manifest không CHỨA đúng doc_number đang tra
+    (tức entry bị gán/chuẩn hoá lệch số hiệu - nghi vấn gốc rễ lỗi "trích dẫn thừa văn
+    bản không liên quan" như case Nghị quyết 98/2023/QH15 bị lẫn vào câu hỏi về
+    04/2017/QH14), log WARNING ngay tại đây để phát hiện sớm trước khi chạy full 2000 câu.
     """
     entry = manifest.get(doc_number)
     if isinstance(entry, dict) and entry.get("btc_standard_string"):
-        return entry["btc_standard_string"]
+        canonical = entry["btc_standard_string"]
+        if doc_number not in canonical:
+            logger.warning(
+                f"[reference_extractor] NGHI VẤN LỖI MANIFEST: tra doc_number='{doc_number}' "
+                f"nhưng btc_standard_string trả về không chứa số hiệu này -> '{canonical}'. "
+                f"Kiểm tra lại law_manifest.json (có thể bị gán/copy lệch entry)."
+            )
+        return canonical
     if fallback_title:
         return f"{doc_number}|{fallback_title}"
     return f"{doc_number}|Văn bản {doc_number}"
+
+
+def validate_manifest_consistency(manifest: Dict) -> List[str]:
+    """
+    Quét TOÀN BỘ law_manifest.json MỘT LẦN để phát hiện entry có "btc_standard_string"
+    không chứa đúng key (doc_number) của nó — dấu hiệu manifest bị build lệch (vd 2 văn
+    bản trùng key, hoặc copy-paste nhầm string chuẩn giữa các entry).
+
+    Khuyến nghị: chạy hàm này NGAY SAU KHI load manifest, TRƯỚC khi chạy full 2000 câu,
+    để phát hiện lỗi mapping mang tính HỆ THỐNG (ảnh hưởng nhiều câu, không chỉ 1 case).
+
+    Trả về list message lỗi (rỗng nếu manifest sạch).
+    """
+    issues: List[str] = []
+    for key, entry in manifest.items():
+        if not isinstance(entry, dict):
+            continue
+        canonical = entry.get("btc_standard_string", "")
+        if canonical and key not in canonical:
+            issues.append(
+                f"Key='{key}' nhưng btc_standard_string='{canonical}' KHÔNG chứa key này."
+            )
+    if issues:
+        logger.warning(
+            f"[validate_manifest_consistency] Phát hiện {len(issues)} entry nghi vấn lệch mapping:\n"
+            + "\n".join(f"  - {m}" for m in issues[:30])
+            + (f"\n  ... và {len(issues) - 30} lỗi khác" if len(issues) > 30 else "")
+        )
+    else:
+        logger.info("[validate_manifest_consistency] Manifest sạch, không phát hiện lệch mapping.")
+    return issues
 
 
 def extract_references_topn(contexts: List[Dict], manifest: Dict) -> Tuple[List[str], List[str]]:
@@ -111,3 +154,13 @@ def extract_references_all(contexts: List[Dict], manifest: Dict) -> Tuple[List[s
                 relevant_articles.append(astr)
 
     return relevant_docs, relevant_articles
+
+
+def extract_references_all_v2(contexts: List[Dict], manifest: Dict) -> Tuple[List[str], List[str]]:
+    """
+    Alias rõ nghĩa của extract_references_all(), dùng riêng cho luồng
+    answer_intersect_v2.intersect_select_v2() — logic HOÀN TOÀN GIỐNG
+    extract_references_all (không cap, giữ thứ tự, loại trùng), chỉ tách
+    tên hàm để dễ trace trong notebook/log khi so sánh A/B với bản gốc.
+    """
+    return extract_references_all(contexts, manifest)
