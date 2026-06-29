@@ -35,8 +35,9 @@ from config.settings import Settings
 from src.index_bm25 import BM25IndexBuilder
 from src.hybrid_retriever import HybridRetriever
 from src.reranker import LegalReranker
-from src.reference_extractor import load_manifest, extract_references_topn
+from src.reference_extractor import load_manifest, extract_references_topn, extract_references_all
 from src.llm_selector import select_candidates
+from src.answer_intersect import intersect_select
 
 
 # =========================================================
@@ -101,12 +102,21 @@ def main():
     ap.add_argument("--num-questions", type=int, default=0, help="0 = tất cả")
     ap.add_argument("--flush-every", type=int, default=200, help="Ghi tạm results.json sau mỗi N câu")
     ap.add_argument("--llm-select", action="store_true",
-                    help="Bật LLM chọn lọc từ pool rerank (chậm hơn, kỳ vọng precision cao hơn top-2 mù)")
-    ap.add_argument("--pool-k", type=int, default=6,
+                    help="Bật LLM chọn lọc từ pool rerank (số lượng biến thiên, làm nguồn trích dẫn chính)")
+    ap.add_argument("--pool-k", type=int, default=8,
                     help="Số ứng viên rerank đưa cho LLM chọn (chỉ dùng khi --llm-select)")
+    ap.add_argument("--max-select", type=int, default=5,
+                    help="Số điều TỐI ĐA LLM được chọn (số lượng thực tế biến thiên 1..max-select)")
+    ap.add_argument("--llm-answer", action="store_true",
+                    help="Sinh answer THẬT rồi lấy GIAO citation∩pool rerank (answer≠'', còn ăn điểm QA)")
     args = ap.parse_args()
 
-    mode = "RETRIEVAL + RERANK + LLM-SELECT" if args.llm_select else "RETRIEVAL + RERANK (KHÔNG LLM)"
+    if args.llm_answer:
+        mode = "RETRIEVAL + RERANK + LLM-ANSWER (giao citation∩pool)"
+    elif args.llm_select:
+        mode = "RETRIEVAL + RERANK + LLM-SELECT"
+    else:
+        mode = "RETRIEVAL + RERANK (KHÔNG LLM)"
     logger.info(f"[INIT] Khởi tạo {mode}...")
     corpus = load_corpus()
     bm25 = BM25IndexBuilder()
@@ -124,9 +134,14 @@ def main():
     reranker = LegalReranker()
     manifest = load_manifest()
 
-    # Chỉ nạp LLM khi bật --llm-select (tái dùng AnswerGenerator để khỏi sửa code cũ)
+    # Chỉ nạp LLM khi cần (tái dùng AnswerGenerator để khỏi sửa code cũ)
     llm_pipe = llm_tokenizer = None
-    if args.llm_select:
+    generator = None
+    if args.llm_answer:
+        logger.info("[INIT] --llm-answer: đang nạp LLM để sinh answer...")
+        from src.answer_generator import AnswerGenerator
+        generator = AnswerGenerator()
+    elif args.llm_select:
         logger.info("[INIT] --llm-select: đang nạp LLM làm bộ chọn...")
         from src.answer_generator import AnswerGenerator
         _gen = AnswerGenerator()
@@ -142,16 +157,25 @@ def main():
     for i, q in enumerate(questions):
         qid = q.get("id", q.get("question_id", ""))
         question = q.get("question", "")
+        answer_text = ""   # mặc định rỗng (chỉ mode --llm-answer mới điền)
         try:
             raw_candidates = retriever.retrieve(question)
-            if args.llm_select:
-                # rerank lấy pool lớn hơn rồi để LLM chọn lọc
+            if args.llm_answer:
+                # rerank pool lớn -> LLM SINH answer -> GIAO citation∩pool -> derive docs từ điều chọn
+                ranked = reranker.rerank(question, raw_candidates, top_k=max(args.pool_k, Settings.TOP_K_FINAL))
+                out = generator.generate(question, ranked)
+                answer_text = out.get("answer", "")
+                kept = intersect_select(answer_text, ranked, pool_k=args.pool_k, max_out=args.max_select)
+                rel_docs, rel_articles = extract_references_all(kept, manifest)
+            elif args.llm_select:
+                # rerank lấy pool lớn hơn rồi để LLM chọn lọc (số lượng biến thiên)
                 ranked = reranker.rerank(question, raw_candidates, top_k=max(args.pool_k, Settings.TOP_K_FINAL))
                 chosen = select_candidates(
                     question, ranked, llm_pipe, llm_tokenizer,
-                    pool_k=args.pool_k, max_select=Settings.RELEVANT_ARTICLES_MAX,
+                    pool_k=args.pool_k, max_select=args.max_select,
                 )
-                rel_docs, rel_articles = extract_references_topn(chosen, manifest)
+                # LLM là nguồn chính: lấy TẤT CẢ điều/văn bản LLM đã chọn (không cap cố định)
+                rel_docs, rel_articles = extract_references_all(chosen, manifest)
             else:
                 ranked = reranker.rerank(question, raw_candidates)
                 rel_docs, rel_articles = extract_references_topn(ranked, manifest)
@@ -162,7 +186,7 @@ def main():
         results.append({
             "id": norm_id(qid),
             "question": question,
-            "answer": "",   # BỎ QUA tầng QA — chỉ tối ưu truy hồi
+            "answer": answer_text,
             "relevant_docs": rel_docs,
             "relevant_articles": rel_articles,
         })

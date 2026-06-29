@@ -79,3 +79,35 @@ def extract_references_topn(contexts: List[Dict], manifest: Dict) -> Tuple[List[
             break
 
     return relevant_docs, relevant_articles
+
+
+def extract_references_all(contexts: List[Dict], manifest: Dict) -> Tuple[List[str], List[str]]:
+    """
+    Lấy TẤT CẢ văn bản/Điều phân biệt từ `contexts` (KHÔNG cap theo Settings).
+    Dùng cho luồng LLM-select số lượng biến thiên: `contexts` ở đây đã là tập LLM chọn ra
+    (đã giới hạn bởi max_select), nên chỉ cần chuyển thành chuỗi chuẩn + loại trùng.
+    Giữ nguyên thứ tự đầu vào (= thứ tự ưu tiên LLM chọn).
+    """
+    relevant_docs: List[str] = []
+    relevant_articles: List[str] = []
+    seen_docs = set()
+    seen_articles = set()
+
+    for doc in contexts:
+        metadata = doc.get("metadata", {})
+        doc_number = metadata.get("doc_number", "").strip()
+        doc_title = metadata.get("title", "").strip()
+        article_id = metadata.get("article_id", "").strip()
+        if not doc_number:
+            continue
+        cdoc = canonical_doc_string(doc_number, doc_title, manifest)
+        if cdoc not in seen_docs:
+            seen_docs.add(cdoc)
+            relevant_docs.append(cdoc)
+        if article_id:
+            astr = f"{cdoc}|{article_id}"
+            if astr not in seen_articles:
+                seen_articles.add(astr)
+                relevant_articles.append(astr)
+
+    return relevant_docs, relevant_articles
