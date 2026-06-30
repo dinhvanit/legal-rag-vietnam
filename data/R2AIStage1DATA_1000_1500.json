@@ -1,0 +1,2006 @@
+[
+  {
+    "id": 1000,
+    "question": "Đối tác chậm giao hàng khiến công ty không đạt được mục đích kinh doanh, công ty muốn chấm dứt hợp đồng thì nên chọn phương án hủy bỏ hay đơn phương chấm dứt để xử lý việc hoàn trả tài sản và bồi thường thiệt hại như thế nào?"
+  },
+  {
+    "id": 1001,
+    "question": "Khi công ty chuyển đổi loại hình doanh nghiệp, để đảm bảo tài sản an toàn và báo cáo tài chính trung thực trước khi bàn giao, công ty cần thực hiện những công việc kế toán nào và nếu có đoàn kiểm tra kế toán vào thời điểm này thì họ có quyền hạn gì?"
+  },
+  {
+    "id": 1002,
+    "question": "Công ty cho đối tác thuê máy móc và yêu cầu dùng chính máy móc đó làm tài sản bảo đảm cho khoản thanh toán, nếu đối tác không giao máy để xử lý khi vi phạm thì công ty cần đáp ứng điều kiện gì về quyền sở hữu, hiệu lực đối kháng và cách xử lý để thu hồi tài sản?"
+  },
+  {
+    "id": 1003,
+    "question": "Công ty ký hợp đồng bằng văn bản với một đối tác nhưng nội dung điều khoản không rõ ràng, đồng thời sau đó phát hiện đối tác là người bị hạn chế năng lực hành vi dân sự thì việc giải thích nội dung hợp đồng và xác định hiệu lực của giao dịch này được xử lý như thế nào?"
+  },
+  {
+    "id": 1004,
+    "question": "Doanh nghiệp tôi vừa gặp hỏa hoạn gây thiệt hại nặng nề cho cả nhà xưởng, đất sản xuất phi nông nghiệp và đất nông nghiệp, đồng thời ảnh hưởng đến hàng hóa chịu thuế tiêu thụ đặc biệt thì cần chuẩn bị những loại hồ sơ gì để đề nghị miễn, giảm các khoản thuế này?"
+  },
+  {
+    "id": 1005,
+    "question": "Khi thuê đơn vị vận chuyển hàng hóa, công ty cần thực hiện những nghĩa vụ gì về thanh toán, thông tin tài sản và có quyền yêu cầu hay xử lý thế nào nếu bên vận chuyển giao hàng sai địa điểm hoặc làm hư hỏng hàng hóa?"
+  },
+  {
+    "id": 1006,
+    "question": "Công ty tôi thuê một đơn vị phần mềm quản lý dữ liệu khách hàng, vậy công ty cần xây dựng quy tắc bảo vệ thông tin gồm những nội dung gì, việc thuê bên thứ ba này phải đáp ứng điều kiện nào và khi khách hàng yêu cầu xóa dữ liệu thì công ty phải xử lý ra sao?"
+  },
+  {
+    "id": 1007,
+    "question": "Công ty tôi đang làm đại lý thương mại và đồng thời cung cấp dịch vụ logistics, nếu hiện nay công ty muốn mở rộng sang nhượng quyền thương mại thì cần đăng ký với cơ quan nào, và trong trường hợp công ty cầm giữ hàng hóa của bên giao đại lý thì phải thực hiện những nghĩa vụ gì?"
+  },
+  {
+    "id": 1008,
+    "question": "Công ty muốn chạy chiến dịch khuyến mại cho sản phẩm mới thông qua một đơn vị quảng cáo chuyên nghiệp thì cần thực hiện những nghĩa vụ gì về thủ tục khuyến mại và có những quyền hạn nào khi thuê dịch vụ quảng cáo này?"
+  },
+  {
+    "id": 1009,
+    "question": "Công ty tôi là công ty cổ phần, hiện đang gặp khó khăn trong việc triệu tập họp Đại hội đồng cổ đông do không đủ tỷ lệ dự họp, tôi muốn biết quy trình triệu tập, thời hạn gửi thông báo mời họp cho các lần triệu tập tiếp theo và sự khác biệt về điều kiện tiến hành họp này so với mô hình công ty TNHH hai thành viên trở lên?"
+  },
+  {
+    "id": 1010,
+    "question": "Công ty tôi đáp ứng tiêu chí doanh nghiệp nhỏ và vừa thì được hưởng những quyền lợi gì về chi phí khi sử dụng dịch vụ từ mạng lưới tư vấn viên và tham gia các khóa đào tạo sử dụng ngân sách nhà nước?"
+  },
+  {
+    "id": 1011,
+    "question": "Công ty tôi không thông tin cho nhân viên về các yếu tố nguy hiểm tại nơi làm việc và không trang cấp đầy đủ phương tiện bảo vệ cá nhân thì sẽ bị xử lý như thế nào và phải khắc phục ra sao để tuân thủ đúng pháp luật về an toàn, vệ sinh lao động?"
+  },
+  {
+    "id": 1012,
+    "question": "Công ty tôi soạn sẵn hợp đồng theo mẫu và điều kiện giao dịch chung để khách hàng ký, vậy công ty cần thực hiện công khai các nội dung này thế nào và nếu có điều khoản miễn trách nhiệm cho công ty thì hiệu lực pháp lý sẽ ra sao?"
+  },
+  {
+    "id": 1013,
+    "question": "Công ty đơn phương chấm dứt hợp đồng với một cán bộ công đoàn vì lý do người này liên tục yêu cầu công ty thực hiện biện pháp khắc phục nguy hiểm tại nơi làm việc thì hành vi này bị nghiêm cấm ra sao và công ty phải đối mặt với rủi ro xử phạt, khắc phục hậu quả thế nào?"
+  },
+  {
+    "id": 1014,
+    "question": "Công ty muốn thuê đơn vị tổ chức trưng bày sản phẩm tại một hội chợ thương mại ở nước ngoài thì cần lập hợp đồng thế nào, bên công ty phải thực hiện những nghĩa vụ gì và việc bán hàng tại đó được xử lý ra sao?"
+  },
+  {
+    "id": 1015,
+    "question": "Khi doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo muốn nhận đầu tư từ một quỹ được tổ chức tài chính nhà nước địa phương lựa chọn cùng đầu tư, thì quỹ đó cần đáp ứng điều kiện gì, doanh nghiệp nhận vốn có trách nhiệm gì và nếu quỹ này thay đổi vốn góp thì phải tuân thủ quy định nào?"
+  },
+  {
+    "id": 1016,
+    "question": "Công ty tôi là đối tượng nộp thuế, hiện đang khiếu nại về một quyết định xử phạt thuế thì cơ quan quản lý thuế có quyền yêu cầu cung cấp hồ sơ gì và nếu kết quả giải quyết cho thấy công ty bị thu sai thì quy trình hoàn trả tiền được thực hiện như thế nào, ai là người có thẩm quyền xử lý khiếu nại này?"
+  },
+  {
+    "id": 1017,
+    "question": "Công ty tôi đang nộp đơn đăng ký cho một sản phẩm đặc sản vùng miền và một sáng chế mới, vậy hồ sơ chỉ dẫn địa lý cần những tài liệu gì, làm sao để đơn được coi là hợp lệ và thời hạn yêu cầu thẩm định nội dung sáng chế là bao lâu để không bị coi là rút đơn?"
+  },
+  {
+    "id": 1018,
+    "question": "Khi chuẩn bị thành lập công ty, tôi ký hợp đồng thuê văn phòng và mua thiết bị, vậy tôi cần thực hiện nghĩa vụ đăng ký doanh nghiệp và đăng ký thuế như thế nào, và ai sẽ chịu trách nhiệm với các hợp đồng này nếu công ty không được cấp giấy chứng nhận đăng ký doanh nghiệp?"
+  },
+  {
+    "id": 1019,
+    "question": "Trong trường hợp nhân viên bị chết do tai nạn lao động, nếu công ty không tổ chức điều trị phục hồi chức năng trước đó và hiện tại chậm chi trả trợ cấp cho thân nhân thì sẽ bị xử lý hành chính ra sao và thân nhân người lao động được hưởng những khoản trợ cấp nào?"
+  },
+  {
+    "id": 1020,
+    "question": "Công ty tôi muốn đồng thời thay đổi tên doanh nghiệp và chuyển trụ sở chính sang tỉnh khác, vậy quy trình thực hiện với cơ quan thuế và cơ quan đăng ký kinh doanh như thế nào, và thời hạn để cập nhật thông tin cho các chi nhánh là bao lâu?"
+  },
+  {
+    "id": 1021,
+    "question": "Khi công ty TNHH hai thành viên trở lên tiếp nhận một tổ chức làm thành viên mới do chuyển nhượng vốn, công ty cần chuẩn bị văn bản cử người đại diện cho tổ chức này với những nội dung gì và hồ sơ đăng ký thay đổi thành viên cần những giấy tờ nào, trong đó trường hợp nào được miễn bản sao giấy tờ pháp lý của cá nhân người đại diện?"
+  },
+  {
+    "id": 1022,
+    "question": "Công ty tôi đang tạm ngừng kinh doanh nhưng nay muốn giải thể hẳn, đồng thời có một chi nhánh đã ngừng hoạt động hơn một năm mà chưa thông báo thì quy trình giải thể công ty và xử lý chi nhánh này phải thực hiện như thế nào?"
+  },
+  {
+    "id": 1023,
+    "question": "Khi xảy ra tranh chấp thương mại với khách hàng cá nhân, công ty cần thực hiện các hình thức giải quyết nào và người đại diện của công ty khi tham gia giải quyết phải tuân thủ phạm vi đại diện ra sao, đặc biệt nếu trong hợp đồng mẫu có điều khoản trọng tài?"
+  },
+  {
+    "id": 1024,
+    "question": "Công ty tôi là doanh nghiệp nhỏ và vừa mới chuyển đổi từ hộ kinh doanh, vậy tôi có thể tìm kiếm các thông tin hỗ trợ kinh doanh ở đâu và được hưởng những chính sách miễn, giảm chi phí tư vấn hay hướng dẫn thuế, kế toán cụ thể như thế nào?"
+  },
+  {
+    "id": 1025,
+    "question": "Công ty đem hàng hóa tham gia triển lãm tại nước ngoài và ký hợp đồng theo mẫu với khách hàng tại đó, vậy việc bán hàng này cần tuân thủ điều kiện gì, công ty phải thực hiện nghĩa vụ công khai hợp đồng ra sao và nếu muốn hủy bỏ hợp đồng thì cần xử lý thế nào để không phải bồi thường?"
+  },
+  {
+    "id": 1026,
+    "question": "Công ty ký hợp đồng thương mại với một cá nhân nhưng sau đó phát hiện người này là người bị hạn chế năng lực hành vi dân sự, vậy công ty cần làm gì để tuyên bố hợp đồng vô hiệu và thời hạn để khởi kiện ra Tòa án hoặc Trọng tài là bao lâu?"
+  },
+  {
+    "id": 1027,
+    "question": "Công ty thỏa thuận trả lương thử việc cho nhân viên theo giờ với mức lương chỉ bằng 80% lương chính thức, nếu bị thanh tra thì mức xử phạt hành chính và cách khắc phục hậu quả về tiền lương được tính như thế nào?"
+  },
+  {
+    "id": 1028,
+    "question": "Công ty muốn gia nhập một thỏa ước lao động tập thể ngành thì cần điều kiện gì, và nếu trong quá trình thương lượng công ty từ chối yêu cầu hoặc không bố trí địa điểm họp thì sẽ bị xử lý ra sao?"
+  },
+  {
+    "id": 1029,
+    "question": "Trong khi Ban trọng tài lao động đang giải quyết tranh chấp theo quy trình, nếu công ty đơn phương kỷ luật nhân viên vì lý do tham gia đình công thì hành vi này có vi phạm pháp luật không và công ty sẽ bị xử lý, khắc phục hậu quả ra sao?"
+  },
+  {
+    "id": 1030,
+    "question": "Công ty không cho nhân viên nữ nghỉ 30 phút mỗi ngày trong thời gian hành kinh và không đảm bảo điều kiện an toàn vệ sinh lao động cho lao động nữ thì sẽ bị xử lý như thế nào và phải khắc phục ra sao?"
+  },
+  {
+    "id": 1031,
+    "question": "Công ty có 15 nhân viên nhưng chưa ban hành nội quy lao động bằng văn bản, nay muốn sa thải một nhân viên vì vi phạm kỷ luật thì rủi ro bị xử phạt hành chính là gì và nhân viên đó có quyền yêu cầu giải quyết như thế nào?"
+  },
+  {
+    "id": 1032,
+    "question": "Công ty muốn xác lập quyền chủ sở hữu đối với một sáng chế để ngăn cấm đối thủ cạnh tranh sử dụng thì cần thực hiện thủ tục gì và trong trường hợp nào công ty không có quyền cấm đối thủ sử dụng sáng chế đó?"
+  },
+  {
+    "id": 1033,
+    "question": "Công ty phát hiện đối tác tự ý sao chép một phần phần mềm của mình để kinh doanh và quảng cáo thu lợi, vậy hành vi này được xác định là xâm phạm quyền tác giả như thế nào và công ty có thể yêu cầu bồi thường những khoản chi phí, tổn thất cụ thể nào?"
+  },
+  {
+    "id": 1034,
+    "question": "Công ty tôi muốn đặt tên thương mại cho chuỗi cửa hàng mới, nhưng tên này có chứa một từ dễ gây nhầm lẫn về xuất xứ hàng hóa và trùng với một nhãn hiệu đã bảo hộ, vậy tên này có được coi là có khả năng phân biệt không và nếu tôi vẫn sử dụng trên biển hiệu thì sẽ bị xác định là xâm phạm quyền đối với tên thương mại dựa trên những căn cứ nào?"
+  },
+  {
+    "id": 1035,
+    "question": "Khi phát hiện lô hàng nhập khẩu sao chép lậu tác phẩm của công ty, công ty cần cung cấp chứng cứ gì để yêu cầu cơ quan hải quan tạm dừng làm thủ tục và các hàng hóa này sẽ bị xử lý như thế nào?"
+  },
+  {
+    "id": 1036,
+    "question": "Một thành viên công ty TNHH hai thành viên trở lên muốn chuyển nhượng phần vốn góp bằng quyền sở hữu trí tuệ cho người ngoài thì quy trình chào bán thực hiện thế nào và hồ sơ đăng ký thay đổi phần vốn góp cần những giấy tờ gì?"
+  },
+  {
+    "id": 1037,
+    "question": "Công ty đơn phương chấm dứt hợp đồng trái pháp luật với một nhân viên làm việc 5 năm, nếu nhân viên này không muốn quay lại làm việc thì công ty phải bồi thường những khoản nào và cách xác định thời gian để tính trợ cấp thôi việc cho họ ra sao?"
+  },
+  {
+    "id": 1038,
+    "question": "Công ty nhập khẩu một lô hàng chứa các tác phẩm mà Nhà nước là đại diện chủ sở hữu để phục vụ nghiên cứu cá nhân không thương mại thì được miễn phí bản quyền ra sao và nếu bị hải quan nghi ngờ xâm phạm quyền tác giả thì sẽ bị xử lý thế nào?"
+  },
+  {
+    "id": 1039,
+    "question": "Công ty tôi đang nộp đơn đăng ký cả kiểu dáng công nghiệp cho bao bì và chỉ dẫn địa lý cho đặc sản vùng miền, vậy quy trình thẩm định nội dung của hai loại đơn này khác nhau thế nào và sau khi được cấp văn bằng thì những thông tin nào sẽ được công bố trên Công báo?"
+  },
+  {
+    "id": 1040,
+    "question": "Khi công ty đang chờ cấp văn bằng bảo hộ nhãn hiệu, nếu có bên thứ ba gửi ý kiến phản đối hoặc cơ quan quản lý thông báo dự định cấp văn bằng thì công ty cần xử lý thế nào và trường hợp nào nhãn hiệu sẽ bị hủy bỏ hiệu lực do dụng ý xấu?"
+  },
+  {
+    "id": 1041,
+    "question": "Công ty muốn nộp đơn đăng ký nhãn hiệu tại Việt Nam và hưởng quyền ưu tiên từ đơn đã nộp tại Pháp, nhưng sau đó bị một bên khác nộp ý kiến phản đối về khả năng phân biệt của nhãn hiệu thì quy trình xử lý và điều kiện hưởng quyền ưu tiên này được thực hiện như thế nào?"
+  },
+  {
+    "id": 1042,
+    "question": "Công ty tôi nhận quyền thương mại nhưng do sự cố bất khả kháng nên không thể đầu tư đủ cơ sở vật chất và tuân thủ thiết kế theo yêu cầu của bên nhượng quyền, vậy công ty cần xử lý thông báo thế nào để được miễn trách nhiệm và những nghĩa vụ cơ bản nào về vận hành mà công ty vẫn phải đảm bảo?"
+  },
+  {
+    "id": 1043,
+    "question": "Công ty tôi muốn đăng ký bảo hộ đồng thời cho một sáng chế, một kiểu dáng công nghiệp và một nhãn hiệu thì quy trình thẩm định hình thức của sáng chế được thực hiện thế nào, và đơn đăng ký kiểu dáng cũng như nhãn hiệu cần đáp ứng những yêu cầu đặc thù gì để không bị từ chối?"
+  },
+  {
+    "id": 1044,
+    "question": "Trong trường hợp công ty muốn chuyển nhượng quyền tác giả của một phần mềm có đồng chủ sở hữu và đồng thời yêu cầu cơ quan nhà nước ra quyết định bắt buộc chuyển giao quyền sử dụng một sáng chế liên quan, công ty cần thực hiện thủ tục nộp hồ sơ ra sao và hợp đồng chuyển nhượng cần đảm bảo những nội dung chính nào?"
+  },
+  {
+    "id": 1045,
+    "question": "Công ty nhận chuyển nhượng quyền đối với giống cây trồng từ một đối tác, nhưng hiện đang có tranh chấp về kết luận giám định giống này và chưa thống nhất mức thù lao cho tác giả thì công ty phải xử lý việc giám định lại như thế nào và thực hiện nghĩa vụ tài chính với tác giả ra sao?"
+  },
+  {
+    "id": 1046,
+    "question": "Trong trường hợp công ty bị cơ quan thuế ấn định thuế do kê khai không trung thực và dẫn đến chậm nộp tiền thuế, thì số tiền chậm nộp này được tính như thế nào và quy trình thông báo, điều chỉnh giảm số tiền này ra sao?"
+  },
+  {
+    "id": 1047,
+    "question": "Công ty tôi là doanh nghiệp siêu nhỏ, muốn thuê một tổ chức kinh doanh dịch vụ làm thủ tục về thuế để thực hiện chế độ kế toán đơn giản và lập Báo cáo tình hình tài chính thì đơn vị đó cần điều kiện gì và báo cáo cần trình bày những thông tin chung nào?"
+  },
+  {
+    "id": 1048,
+    "question": "Công ty tôi đang tạm ngừng kinh doanh nhưng cần thực hiện giao dịch với nhà cung cấp nước ngoài thì việc sử dụng mã số thuế của công ty, của nhà cung cấp này và quy định về hóa đơn trong thời gian tạm ngừng được xử lý thế nào?"
+  },
+  {
+    "id": 1049,
+    "question": "Công ty tôi muốn mời một chuyên gia nước ngoài đủ 18 tuổi, có chuyên môn tốt vào xử lý sự cố kỹ thuật phức tạp trong 2 tháng thì cần đáp ứng điều kiện gì về giấy phép và nếu không làm thủ tục xác nhận thì công ty cùng chuyên gia này sẽ bị xử lý ra sao?"
+  },
+  {
+    "id": 1050,
+    "question": "Công ty tôi đang bị cưỡng chế thuế và không hoạt động tại địa chỉ đã đăng ký, vậy người đại diện theo pháp luật sẽ bị xử lý về việc xuất cảnh như thế nào và cơ quan thuế căn cứ vào những tiêu chí nào để đánh giá mức độ tuân thủ trong trường hợp này?"
+  },
+  {
+    "id": 1051,
+    "question": "Đối tác giao hàng kém chất lượng và chậm tiến độ gây thiệt hại cho công ty, vậy công ty có quyền yêu cầu họ khắc phục hàng hóa, trả tiền phạt vi phạm và bồi thường thiệt hại như thế nào?"
+  },
+  {
+    "id": 1052,
+    "question": "Công ty tôi là thương nhân thuê máy móc từ một đối tác, sau khi đã kiểm tra và xác nhận nhận hàng thì phát hiện máy không đúng thỏa thuận, vậy công ty có được trả lại hàng không và trong thời gian thuê thì công ty có quyền yêu cầu bảo dưỡng hay tự sửa chữa rồi đòi chi phí như thế nào?"
+  },
+  {
+    "id": 1053,
+    "question": "Công ty tôi đang làm thủ tục giải thể nhưng vẫn còn nợ thuế và có hồ sơ hoàn thuế đang chờ xử lý, vậy việc nộp nợ thuế còn lại sẽ do ai chịu trách nhiệm và nếu cơ quan thuế chậm ra quyết định hoàn thuế thì công ty được giải quyết quyền lợi thế nào, đồng thời nếu muốn xin gia hạn nộp số thuế nợ này thì quy trình tiếp nhận hồ sơ ra sao?"
+  },
+  {
+    "id": 1054,
+    "question": "Khi tuyển dụng nhân sự mới, công ty muốn giao cho Trưởng phòng nhân sự ký hợp đồng thử việc với mức lương 80% lương chính thức và yêu cầu nhân viên nộp bằng đại học bản gốc để lưu giữ thì cách làm này có đúng quy định không và cần điều chỉnh những điểm nào?"
+  },
+  {
+    "id": 1055,
+    "question": "Công ty tôi đang gặp khó khăn đặc biệt do ngành nghề kinh doanh suy thoái và vừa bị hỏa hoạn gây thiệt hại lớn, vậy tôi cần chuẩn bị hồ sơ gì để xin gia hạn nộp thuế và cơ chế giải quyết cho hai trường hợp này khác nhau như thế nào?"
+  },
+  {
+    "id": 1056,
+    "question": "Công ty tôi tự tính thuế nhưng nộp tiền vào ngân sách trước khi nộp hồ sơ khai thuế dẫn đến nộp thừa, vậy thời điểm xác định khoản nộp thừa này là khi nào và quy trình bù trừ hoặc hoàn trả số tiền này được thực hiện ra sao?"
+  },
+  {
+    "id": 1057,
+    "question": "Khi công ty muốn tiếp cận nguồn vốn từ Quỹ phát triển doanh nghiệp nhỏ và vừa thông qua hình thức cho vay gián tiếp hoặc tài trợ xây nhà xưởng, máy móc thì Quỹ sẽ sử dụng nguồn vốn nào để thực hiện và các thỏa thuận, nguyên tắc tài trợ cần tuân thủ những nội dung gì?"
+  },
+  {
+    "id": 1058,
+    "question": "Công ty đang tranh chấp với đối tác qua email về thỏa thuận trọng tài, nếu Hội đồng trọng tài quyết định thỏa thuận này vô hiệu thì công ty phải khiếu nại ra tòa thế nào và trong trường hợp không khiếu nại thì quy trình chuẩn bị phiên họp giải quyết tranh chấp sẽ được thực hiện ra sao?"
+  },
+  {
+    "id": 1059,
+    "question": "Công ty tôi định chạy chương trình khuyến mại tặng rượu mạnh cho khách hàng tại bệnh viện, đồng thời hiện đang thiếu quy chế dân chủ ở cơ sở và chưa thực hiện quan trắc môi trường lao động thì những rủi ro pháp lý và mức xử phạt tương ứng cho từng hành vi là gì?"
+  },
+  {
+    "id": 1060,
+    "question": "Khi bị đối tác kiện ra trọng tài, nếu công ty muốn kiện ngược lại về vấn đề liên quan thì phải thực hiện quy trình nộp đơn kiện lại như thế nào và bản tự bảo vệ đi kèm cần đảm bảo những nội dung gì để vừa bảo vệ quyền lợi, vừa xác lập được thỏa thuận trọng tài nếu trước đó hai bên chưa ký văn bản chính thức?"
+  },
+  {
+    "id": 1061,
+    "question": "Trong trường hợp Chủ tịch Hội đồng thành viên đồng thời là người đại diện theo pháp luật duy nhất của công ty nhưng hiện đang bị tạm giam, công ty phải xử lý việc bầu người tạm thời điều hành Hội đồng thành viên và cử người đại diện theo pháp luật mới như thế nào, đồng thời điều kiện để cuộc họp bầu này diễn ra hợp lệ là gì?"
+  },
+  {
+    "id": 1062,
+    "question": "Công ty có nhân viên làm việc không trọn thời gian vừa hết thời hạn tạm hoãn hợp đồng, nhưng trước đó công ty đã gửi thông báo đơn phương chấm dứt hợp đồng với người này thì giờ muốn hủy bỏ việc chấm dứt để nhận họ trở lại làm việc thì phải xử lý thế nào?"
+  },
+  {
+    "id": 1063,
+    "question": "Một nhân viên vừa chấm dứt hợp đồng lao động và muốn xin hỗ trợ học phí, tiền ăn để nâng cao kỹ năng nghề thì cần đáp ứng điều kiện gì về thời gian đóng bảo hiểm thất nghiệp, cách xác định thời gian đóng này và căn cứ nào để đối chiếu việc tham gia bảo hiểm?"
+  },
+  {
+    "id": 1064,
+    "question": "Công ty tôi đang có một nhãn hiệu đăng ký quốc tế qua hệ thống Madrid bị thông báo tạm thời từ chối tại Việt Nam, đồng thời muốn thay đổi địa chỉ chủ sở hữu và gia hạn hiệu lực cho một bằng độc quyền sáng chế hiện có thì mỗi việc phải xử lý như thế nào?"
+  },
+  {
+    "id": 1065,
+    "question": "Công ty tôi đang hạch toán doanh thu từ tiền bán hàng và cung ứng dịch vụ, nhưng có một số khoản chi phí không có hóa đơn chứng từ và một số khoản tiền phạt vi phạm hành chính thì cách xác định thu nhập chịu thuế và phương pháp tính thuế thu nhập doanh nghiệp trong trường hợp này được thực hiện như thế nào?"
+  },
+  {
+    "id": 1066,
+    "question": "Công ty tôi có đơn PCT vào giai đoạn quốc gia, nay muốn tách một phần giải pháp kỹ thuật sang đơn mới và gia hạn thời hạn nộp văn bản ủy quyền thì phải thực hiện như thế nào và thời điểm bắt đầu xử lý đơn PCT này được tính ra sao?"
+  },
+  {
+    "id": 1067,
+    "question": "Công ty tôi mới thành lập chưa đủ một năm, giờ muốn nộp hồ sơ xin hỗ trợ doanh nghiệp nhỏ và vừa thì phải xác định quy mô doanh nghiệp dựa trên căn cứ nào, quy trình kê khai ra sao và thứ tự ưu tiên được nhận hỗ trợ được tính như thế nào?"
+  },
+  {
+    "id": 1068,
+    "question": "Công ty tôi đang hỗ trợ đối tác nước ngoài làm thủ tục hoàn thuế theo Hiệp định tránh đánh thuế hai lần và đồng thời làm hồ sơ hoàn thuế GTGT cho hàng xuất khẩu, vậy quy trình chuẩn bị hồ sơ cho hai trường hợp này khác nhau thế nào và cơ quan thuế sẽ ra quyết định hoàn thuế ra sao nếu công ty vẫn còn nợ thuế?"
+  },
+  {
+    "id": 1069,
+    "question": "Công ty tôi thuê lại lao động từ đối tác, vậy đối với nhóm nhân viên thuê lại này và những người làm việc không theo hợp đồng lao động tại xưởng, công ty cần phối hợp với bên cho thuê ra sao về an toàn vệ sinh lao động và phải thiết lập Hội đồng an toàn, vệ sinh lao động cơ sở với thành phần như thế nào?"
+  },
+  {
+    "id": 1070,
+    "question": "Trong trường hợp đối tác làm mất tài sản thuê của công ty mà không thể thay thế hay sửa chữa, công ty nên chọn phương án hủy bỏ hợp đồng hay đơn phương chấm dứt thực hiện hợp đồng để đảm bảo quyền lợi về bồi thường và hoàn trả tài sản?"
+  },
+  {
+    "id": 1071,
+    "question": "Trong trường hợp công ty không đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp cho nhân viên, thì khi nhân viên này mắc bệnh thuộc danh mục của Bộ Y tế và suy giảm khả năng lao động từ 5% trở lên, công ty phải xử lý trách nhiệm chi trả và báo cáo thống kê như thế nào?"
+  },
+  {
+    "id": 1072,
+    "question": "Công ty tôi là doanh nghiệp khởi nghiệp sáng tạo, vừa được một quỹ đầu tư cam kết rót vốn và đang có hợp đồng cung ứng cho một doanh nghiệp đầu chuỗi, vậy công ty cần đáp ứng phương thức lựa chọn nào để được hỗ trợ và sẽ được hỗ trợ những nội dung cụ thể nào về chi phí thuê mặt bằng cũng như tư vấn sở hữu trí tuệ?"
+  },
+  {
+    "id": 1073,
+    "question": "Để đảm bảo đúng quy định khi ghi sổ kế toán, công ty cần căn cứ vào loại chứng từ nào, nội dung sổ phải thể hiện những gì và hành vi tẩy xóa chứng từ này sẽ bị xử lý ra sao?"
+  },
+  {
+    "id": 1074,
+    "question": "Công ty muốn ký hợp đồng với một người đại diện theo pháp luật của cá nhân là người giám hộ do Tòa án chỉ định thì cần xác định những nội dung gì về phạm vi, thời hạn đại diện và trường hợp nào thì quyền đại diện này sẽ chấm dứt?"
+  },
+  {
+    "id": 1075,
+    "question": "Khi công ty quyết định giải thể, tôi cần thực hiện những công việc kế toán gì, đồng thời làm sao để đảm bảo hệ thống kiểm soát nội bộ vẫn vận hành an toàn tài sản và xử lý thế nào nếu có đoàn kiểm tra kế toán vào làm việc trong giai đoạn này?"
+  },
+  {
+    "id": 1076,
+    "question": "Công ty tôi vừa bị thiệt hại nặng do thiên tai gây hư hỏng hàng hóa và nhà xưởng, nay muốn làm thủ tục giảm thuế tiêu thụ đặc biệt, miễn thuế sử dụng đất phi nông nghiệp và miễn lệ phí trước bạ cho tài sản được bồi thường tái định cư thì mỗi loại hồ sơ cần những giấy tờ gì?"
+  },
+  {
+    "id": 1077,
+    "question": "Khi thuê đơn vị vận chuyển giao hàng đến đối tác nhưng đến nơi không có người nhận, công ty cần xử lý việc gửi giữ tài sản này thế nào và trong trường hợp này bên vận chuyển cũng như công ty có những nghĩa vụ gì về chi phí và bảo đảm an toàn tài sản?"
+  },
+  {
+    "id": 1078,
+    "question": "Công ty cổ phần muốn thay đổi nội dung Điều lệ và bầu lại Hội đồng quản trị thì phải thực hiện quy trình triệu tập họp như thế nào, người triệu tập cần chuẩn bị những gì và hình thức thông qua nghị quyết cho hai nội dung này được quy định ra sao?"
+  },
+  {
+    "id": 1079,
+    "question": "Công ty muốn thuê một đơn vị quảng cáo để triển khai chương trình khuyến mại cho sản phẩm mới thì cần thực hiện hình thức hợp đồng thế nào và phải đảm bảo những nghĩa vụ gì trong quá trình vận hành?"
+  },
+  {
+    "id": 1080,
+    "question": "Công ty thuê đơn vị tổ chức trưng bày hàng hóa tại hội chợ nước ngoài thì cần thực hiện những nghĩa vụ gì, có quyền kiểm soát ra sao và lưu ý gì về việc bán hàng hóa thuộc diện phải có giấy phép tại đây?"
+  },
+  {
+    "id": 1081,
+    "question": "Công ty tôi muốn chuyển từ mô hình giao đại lý sang nhượng quyền thương mại để kiểm soát cách vận hành và nhãn hiệu, vậy công ty cần thực hiện thủ tục gì và quyền sở hữu hàng hóa lúc này thay đổi ra sao so với khi làm đại lý?"
+  },
+  {
+    "id": 1082,
+    "question": "Công ty muốn mở chi nhánh mới bằng cách dùng tài sản có đăng ký quyền sở hữu của thành viên để góp vốn thì cần chuẩn bị hồ sơ đăng ký hoạt động chi nhánh gồm những gì, thủ tục chuyển quyền sở hữu tài sản đó ra sao và ai là người ký biên bản giao nhận tài sản này?"
+  },
+  {
+    "id": 1083,
+    "question": "Trong trường hợp công ty bị phát hiện vi phạm về thuế và hóa đơn thông qua một đoàn thanh tra, công ty cần thực hiện quyền giải trình như thế nào và ai là người có thẩm quyền ra quyết định xử phạt trong tình huống này?"
+  },
+  {
+    "id": 1084,
+    "question": "Khi thành lập công ty, tôi cần quy định những nội dung gì về người đại diện theo pháp luật trong Điều lệ và mã số doanh nghiệp được cấp sau đó sẽ được sử dụng vào những mục đích cụ thể nào?"
+  },
+  {
+    "id": 1085,
+    "question": "Công ty tôi đáp ứng tiêu chí doanh nghiệp nhỏ và vừa thì được hưởng ưu đãi gì về đào tạo nguồn nhân lực và cơ quan nào có trách nhiệm ban hành, thực hiện các chính sách hỗ trợ này?"
+  },
+  {
+    "id": 1086,
+    "question": "Công ty tôi đáp ứng tiêu chí doanh nghiệp nhỏ và vừa, hiện đang muốn áp dụng mức thuế suất thuế thu nhập doanh nghiệp thấp hơn thông thường và chế độ kế toán đơn giản cho đơn vị siêu nhỏ thì những hành vi nào của cơ quan hỗ trợ là bị nghiêm cấm trong quá trình thực hiện?"
+  },
+  {
+    "id": 1087,
+    "question": "Công ty muốn ký hợp đồng hợp tác với một đối tác để cùng khai thác mảnh đất, trong đó một bên đóng góp quyền sử dụng đất, một bên cung cấp dịch vụ vận hành và chia lợi nhuận thì nội dung hợp đồng cần đảm bảo những điều khoản chủ yếu nào và có lưu ý gì về mục đích sử dụng đất?"
+  },
+  {
+    "id": 1088,
+    "question": "Công ty tôi đã nộp phí và được cấp văn bằng bảo hộ nhãn hiệu, vậy tôi cần xác định những hành vi nào là đang sử dụng nhãn hiệu này và trong trường hợp nào tôi không có quyền ngăn cấm đối thủ cạnh tranh thực hiện các hành vi đó?"
+  },
+  {
+    "id": 1089,
+    "question": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế thì phải thực hiện ghi sổ, áp dụng hệ thống tài khoản và danh mục sổ kế toán theo hướng dẫn nào?"
+  },
+  {
+    "id": 1090,
+    "question": "Công ty tôi đang nợ thuế kéo dài và bị cơ quan thuế ra quyết định thu tiền từ đối tác đang nợ công ty, vậy trong trường hợp này công ty có thể được xóa nợ thuế nếu bị thiệt hại do thiên tai không và rủi ro về việc bị công khai thông tin trên cổng thông tin điện tử của ngành thuế là gì?"
+  },
+  {
+    "id": 1091,
+    "question": "Công ty tôi nộp đơn đăng ký chỉ dẫn địa lý nhưng bị thông báo dự định từ chối do thiếu bản mô tả tính chất đặc thù và không đáp ứng điều kiện bảo hộ, vậy quy trình xử lý của cơ quan quản lý và cách khắc phục để tránh bị từ chối cấp văn bằng bảo hộ là gì?"
+  },
+  {
+    "id": 1092,
+    "question": "Công ty muốn chuyển giao dữ liệu khách hàng cho một đơn vị phân tích dữ liệu bên thứ ba để quảng cáo sản phẩm, đồng thời thuê một KOL cung cấp thông tin sản phẩm cho khách hàng thì phải thực hiện quy trình xin phép, quản lý dữ liệu và phối hợp trách nhiệm với các bên này như thế nào?"
+  },
+  {
+    "id": 1093,
+    "question": "Khi phát hiện đối tác nhập khẩu hàng hóa xâm phạm quyền tác giả về kho bãi, công ty cần cung cấp chứng cứ gì để yêu cầu cơ quan hải quan tạm dừng thủ tục và trong trường hợp nào hàng hóa đó sẽ bị buộc tiêu hủy?"
+  },
+  {
+    "id": 1094,
+    "question": "Công ty tôi muốn nhận nhượng quyền thương mại thì cần lập hợp đồng thế nào, có những nghĩa vụ cơ bản nào phải thực hiện và nếu xảy ra sự cố bất khả kháng dẫn đến vi phạm hợp đồng thì phải xử lý ra sao để được miễn trách nhiệm?"
+  },
+  {
+    "id": 1095,
+    "question": "Công ty muốn đăng ký bảo hộ đồng thời thiết kế bố trí mạch tích hợp, kiểu dáng công nghiệp cho sản phẩm và nhãn hiệu cho thương hiệu thì cần lưu ý điều kiện về khả năng phân biệt của nhãn hiệu là gì và nếu Cục Sở hữu trí tuệ nghi ngờ tính xác thực của thông tin trong đơn đăng ký thiết kế bố trí hoặc kiểu dáng công nghiệp thì công ty phải xử lý ra sao?"
+  },
+  {
+    "id": 1096,
+    "question": "Trong trường hợp công ty đang bị cưỡng chế thuế nhưng chủ doanh nghiệp muốn xuất cảnh định cư, đồng thời công ty đang làm thủ tục giải thể và xin gia hạn nộp thuế thì quy trình xử lý nghĩa vụ thuế và rủi ro đối với cá nhân chủ doanh nghiệp sẽ như thế nào?"
+  },
+  {
+    "id": 1097,
+    "question": "Khi đối tác giao hàng kém chất lượng gây thiệt hại cho công ty, công ty có thể yêu cầu họ khắc phục hàng hóa, đòi tiền phạt vi phạm và yêu cầu bồi thường thiệt hại đồng thời không, và điều kiện để đòi bồi thường là gì?"
+  },
+  {
+    "id": 1098,
+    "question": "Khi một doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo nhận đầu tư từ tổ chức tài chính nhà nước địa phương phối hợp với một quỹ đầu tư, thì quỹ này cần đáp ứng điều kiện gì để được lựa chọn cùng đầu tư và việc quản lý tài chính, chuyển vốn của nhà đầu tư nước ngoài trong mô hình này được thực hiện ra sao?"
+  },
+  {
+    "id": 1099,
+    "question": "Một nhân viên nữ làm việc theo hợp đồng lao động xác định thời hạn 2 năm tại công ty, sau khi hoàn tất thủ tục hưởng chế độ thai sản thì muốn nghỉ việc hẳn để hưởng lương hưu do bị suy giảm khả năng lao động, vậy trường hợp này cần đáp ứng điều kiện gì về đối tượng tham gia, hồ sơ thai sản và tiêu chuẩn hưởng lương hưu?"
+  },
+  {
+    "id": 1100,
+    "question": "Công ty đang tái cơ cấu tổ chức dẫn đến nhiều người mất việc, đối với những nhân viên đang tạm hoãn hợp đồng hoặc đang làm việc không trọn thời gian thì công ty phải xử lý việc nhận lại và cho thôi việc như thế nào để đúng luật?"
+  },
+  {
+    "id": 1101,
+    "question": "Công ty tôi vừa tham gia triển lãm thương mại với một số hàng hóa tạm nhập từ nước ngoài, đồng thời tại xưởng sản xuất đang thiếu báo cáo quan trắc môi trường lao động và chưa ban hành quy chế dân chủ ở cơ sở thì những rủi ro pháp lý và mức xử phạt tương ứng cho từng sai sót này là gì?"
+  },
+  {
+    "id": 1102,
+    "question": "Công ty tôi đang đăng ký kiểu dáng công nghiệp cho sản phẩm mới, vậy cơ quan chức năng sẽ thẩm định điều kiện bảo hộ như thế nào, sau khi được cấp bằng thì thông tin nào sẽ được công bố công khai và tôi có thể tra cứu tình trạng pháp lý của văn bằng này ở đâu?"
+  },
+  {
+    "id": 1103,
+    "question": "Công ty tôi là TNHH hai thành viên trở lên, hiện đang làm thủ tục góp vốn bằng quyền sử dụng đất và muốn chỉ định một trong hai thành viên làm người đại diện theo pháp luật thì quy trình chuyển quyền sở hữu tài sản này phải thực hiện thế nào và ai là người ký biên bản giao nhận?"
+  },
+  {
+    "id": 1104,
+    "question": "Để xác định chính xác thời gian đóng bảo hiểm thất nghiệp cho nhân viên khi chấm dứt hợp đồng, công ty cần căn cứ vào hồ sơ nào và các khoản đóng này sẽ được hạch toán vào nguồn hình thành quỹ nào?"
+  },
+  {
+    "id": 1105,
+    "question": "Công ty muốn thay đổi người đại diện theo pháp luật để phù hợp với cơ cấu quản lý mới thì cần điều chỉnh nội dung nào trong Điều lệ và quy trình đăng ký thay đổi với cơ quan chức năng thực hiện ra sao?"
+  },
+  {
+    "id": 1106,
+    "question": "Khi phát hiện một đối thủ sao chép trái phép phần mềm của công ty để kinh doanh gây mất khách hàng, công ty cần xác định hành vi này là xâm phạm quyền tác giả theo tiêu chí nào và phải soạn đơn yêu cầu xử lý với những nội dung chính gì để yêu cầu bồi thường cả tổn thất về cơ hội kinh doanh?"
+  },
+  {
+    "id": 1107,
+    "question": "Công ty muốn thay đổi tên chủ sở hữu trên bằng độc quyền sáng chế, đồng thời thực hiện gia hạn hiệu lực văn bằng và thanh toán thù lao cho tác giả thì cần chuẩn bị hồ sơ gì và thời hạn thanh toán thù lao được tính như thế nào?"
+  },
+  {
+    "id": 1108,
+    "question": "Công ty muốn giải quyết tranh chấp bằng trọng tài thông qua email thì hình thức này có hợp lệ không, và nếu Hội đồng trọng tài ra quyết định không chấp nhận thỏa thuận này thì công ty cần khiếu nại ra sao cũng như quy trình phiên họp giải quyết tranh chấp sau đó diễn ra thế nào?"
+  },
+  {
+    "id": 1109,
+    "question": "Công ty tôi nộp đơn La Hay qua cơ quan quản lý nhà nước về quyền sở hữu công nghiệp nhưng bị thông báo thiếu sót, nếu muốn gia hạn thời gian khắc phục hoặc yêu cầu tách đơn trước khi có quyết định từ chối thì phải thực hiện như thế nào?"
+  },
+  {
+    "id": 1110,
+    "question": "Để đăng ký nhận hỗ trợ từ nhà nước, công ty tôi cần xác định lĩnh vực hoạt động và kê khai quy mô doanh nghiệp như thế nào, và trong trường hợp đáp ứng nhiều mức hỗ trợ khác nhau thì sẽ được xử lý ra sao?"
+  },
+  {
+    "id": 1111,
+    "question": "Công ty tôi đang phát triển một ứng dụng di động mới và muốn tham gia vào chuỗi giá trị để cung ứng cho đối tác lớn, vậy công ty cần đáp ứng tiêu chí nào để được xác định là doanh nghiệp khởi nghiệp sáng tạo và được hưởng những hỗ trợ cụ thể nào về tư vấn sở hữu trí tuệ cũng như điều kiện để được lựa chọn hỗ trợ khi tham gia chuỗi giá trị?"
+  },
+  {
+    "id": 1112,
+    "question": "Khi công ty chuẩn bị sáp nhập và thực hiện kiểm kê tài sản, doanh nghiệp cần thiết lập hệ thống kiểm soát nội bộ ra sao để bảo đảm an toàn tài sản và phải phối hợp cung cấp tài liệu gì nếu có đoàn kiểm tra kế toán làm việc?"
+  },
+  {
+    "id": 1113,
+    "question": "Khi thiết lập hệ thống ghi chép tài chính, công ty cần đảm bảo sổ kế toán có những nội dung gì, căn cứ vào đâu để ghi sổ và việc tách riêng một số tài sản, nợ phải trả ra khỏi sổ này sẽ dẫn đến rủi ro pháp lý nào?"
+  },
+  {
+    "id": 1114,
+    "question": "Công ty tôi vừa bị hỏa hoạn gây thiệt hại nặng về hàng hóa và đất phi nông nghiệp, đồng thời có nhân viên bị tai nạn nghiêm trọng; để đề nghị giảm thuế thu nhập cá nhân, thuế tiêu thụ đặc biệt và thuế sử dụng đất phi nông nghiệp thì cần chuẩn bị những loại hồ sơ gì?"
+  },
+  {
+    "id": 1115,
+    "question": "Công ty tôi thuê lại một nhóm lao động từ đơn vị cung ứng để vận hành xưởng, vậy đối với nhóm này và nhân viên chính thức thì công ty phải xây dựng kế hoạch an toàn vệ sinh lao động hằng năm gồm những nội dung gì và cần phối hợp với bên cho thuê lao động ra sao?"
+  },
+  {
+    "id": 1116,
+    "question": "Hợp tác xã muốn ký hợp đồng dịch vụ để khai thác quyền sử dụng đất là tài sản chung của các thành viên thì cần tuân thủ điều kiện gì về nội dung hợp đồng và quy trình định đoạt tài sản này?"
+  },
+  {
+    "id": 1117,
+    "question": "Trong trường hợp công ty không đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp cho nhân viên, nếu nhân viên này bị mắc bệnh nghề nghiệp và suy giảm khả năng lao động 10% thì công ty phải thực hiện báo cáo thống kê ra sao và cách tính khoản tiền tương ứng với chế độ trợ cấp một lần cho họ như thế nào?"
+  },
+  {
+    "id": 1118,
+    "question": "Công ty mua một tài sản nhưng sau đó phát hiện người bán không có quyền bán tài sản này, vậy công ty nên đơn phương chấm dứt hay hủy bỏ hợp đồng và cách xử lý hoàn trả, bồi thường trong mỗi trường hợp khác nhau thế nào?"
+  },
+  {
+    "id": 1119,
+    "question": "Công ty tôi đang làm hồ sơ hoàn thuế GTGT cho dự án đầu tư và hỗ trợ đối tác nước ngoài hoàn thuế theo Hiệp định tránh đánh thuế hai lần, nếu sau này cơ quan thuế thanh tra phát hiện số thuế hoàn chưa đúng thì quy trình thu hồi và xử lý rủi ro pháp lý sẽ diễn ra như thế nào?"
+  },
+  {
+    "id": 1120,
+    "question": "Doanh nghiệp siêu nhỏ khi thiết lập hệ thống ghi sổ kế toán và lập báo cáo tài chính thì phải quy định đơn vị tiền tệ như thế nào và cần sử dụng những mẫu sổ kế toán nào?"
+  },
+  {
+    "id": 1121,
+    "question": "Công ty muốn ủy quyền cho một đơn vị đại diện nộp đơn đăng ký chỉ dẫn địa lý cho sản phẩm đặc sản của mình thì giấy ủy quyền cần những nội dung gì, hồ sơ đơn đăng ký phải chuẩn bị những tài liệu nào và nếu đơn bị coi là không hợp lệ thì quy trình xử lý của cơ quan quản lý ra sao?"
+  },
+  {
+    "id": 1122,
+    "question": "Trong trường hợp Hệ thống thông tin quốc gia về đăng ký doanh nghiệp gặp sự cố kỹ thuật, công ty tôi muốn đăng ký tên mới thì quy trình cấp đăng ký sẽ thay đổi thế nào và việc kiểm tra tên trùng sẽ được thực hiện ra sao?"
+  },
+  {
+    "id": 1123,
+    "question": "Trong trường hợp hợp đồng lao động bị tuyên bố vô hiệu toàn bộ, công ty cần xử lý việc ký lại hợp đồng như thế nào, cách tính lương cho những ngày nghỉ lễ tết của nhân viên trong giai đoạn này ra sao và tiêu chuẩn thiết lập phòng vắt sữa mẹ tại nơi làm việc cho lao động nữ là gì?"
+  },
+  {
+    "id": 1124,
+    "question": "Trong trường hợp công ty bị ấn định thuế do không xuất trình đủ hóa đơn chứng từ khi thanh tra, quy trình ban hành quyết định ấn định thuế diễn ra thế nào và nếu người đại diện pháp luật chưa nộp đủ số thuế này thì sẽ bị xử lý ra sao khi xuất cảnh?"
+  },
+  {
+    "id": 1125,
+    "question": "Công ty nộp đơn quốc tế để bảo hộ sở hữu công nghiệp thì quy trình xử lý đơn này ra sao, điều kiện để được cấp văn bằng bảo hộ là gì và sau khi có văn bằng, công ty có quyền ngăn cấm đối thủ sử dụng đối tượng đó trong những trường hợp nào?"
+  },
+  {
+    "id": 1126,
+    "question": "Công ty tôi đang là doanh nghiệp ưu tiên trong lĩnh vực hải quan nhưng vừa bị thiệt hại nặng do thiên tai, nếu công ty không thể nộp thuế đúng hạn và không cung cấp đủ số liệu đối chiếu cho cơ quan hải quan thì rủi ro về công khai thông tin và khả năng được xóa nợ thuế là gì?"
+  },
+  {
+    "id": 1127,
+    "question": "Công ty thuê một KOL quảng bá sản phẩm và chia sẻ dữ liệu khách hàng cho bên vận chuyển, nhưng khi xảy ra tranh chấp về cách hiểu điều khoản trong hợp đồng mẫu và tính chính xác của thông tin quảng cáo thì việc giải quyết và phân định trách nhiệm giữa công ty, KOL và bên vận chuyển được thực hiện thế nào?"
+  },
+  {
+    "id": 1128,
+    "question": "Công ty phát hiện đối thủ sao chép trái phép phần mềm của mình để cho thuê thu lợi và làm mất khách hàng, vậy công ty cần xác định hành vi này xâm phạm quyền tác giả ở điểm nào, cách tính tổn thất về cơ hội kinh doanh ra sao và phải chuẩn bị những tài liệu, chứng cứ gì khi gửi đơn yêu cầu xử lý?"
+  },
+  {
+    "id": 1129,
+    "question": "Khi phát hiện đối thủ nhập khẩu hàng sao chép lậu tác phẩm của công ty, công ty cần cung cấp chứng cứ gì để chứng minh chủ thể quyền, gửi đơn đến cơ quan nào và hàng hóa vi phạm sẽ bị xử lý ra sao?"
+  },
+  {
+    "id": 1130,
+    "question": "Khi bên nhận quyền không thanh toán phí nhượng quyền và từ chối cho công ty kiểm tra định kỳ do gặp sự cố bất khả kháng, công ty cần xử lý quyền kiểm tra này thế nào và bên nhận quyền phải thực hiện nghĩa vụ thông báo ra sao để được miễn trách nhiệm?"
+  },
+  {
+    "id": 1131,
+    "question": "Công ty tôi đang nộp đơn đăng ký nhãn hiệu, kiểu dáng công nghiệp và thiết kế bố trí cho sản phẩm mới, vậy nếu Cục Sở hữu trí tuệ nghi ngờ tính xác thực thông tin trong đơn kiểu dáng hoặc thông báo đơn thiết kế bố trí có thiếu sót thì công ty phải xử lý thế nào để không bị từ chối cấp văn bằng, và nhãn hiệu cần đáp ứng điều kiện gì về khả năng phân biệt để được bảo hộ?"
+  },
+  {
+    "id": 1132,
+    "question": "Công ty tôi muốn đăng ký bảo hộ cho một mẫu mã sản phẩm mới, vậy quy trình thẩm định nội dung để đánh giá tính mới, tính sáng tạo được thực hiện ra sao, sau khi được cấp bằng thì những thông tin nào sẽ được công bố công khai và trong trường hợp nào văn bằng này có thể bị hủy bỏ hiệu lực?"
+  },
+  {
+    "id": 1133,
+    "question": "Khi đối tác giao hàng kém chất lượng, công ty muốn yêu cầu họ khắc phục, đòi tiền phạt vi phạm và bồi thường thiệt hại thì quy trình thực hiện ra sao và công ty cần làm gì để không bị giảm mức bồi thường?"
+  },
+  {
+    "id": 1134,
+    "question": "Trong trường hợp chủ hộ kinh doanh đột ngột mất tích và hộ kinh doanh này cũng đang làm thủ tục chấm dứt hoạt động nhưng vẫn còn nợ thuế, thì việc nộp thuế sẽ được xử lý thế nào và nếu muốn xin gia hạn nộp số thuế này thì hồ sơ được gửi qua những kênh nào?"
+  },
+  {
+    "id": 1135,
+    "question": "Khi một quỹ đầu tư khởi nghiệp sáng tạo bị giải thể do công ty quản lý quỹ phá sản, việc hạch toán tài chính phải tuân theo quy định nào và thứ tự ưu tiên thanh toán tài sản cho các bên liên quan được thực hiện ra sao?"
+  },
+  {
+    "id": 1136,
+    "question": "Công ty có một nhân viên làm việc theo hợp đồng 2 năm đang nghỉ thai sản thì đột ngột đủ tuổi nghỉ hưu, trường hợp này công ty cần xử lý hồ sơ thai sản như thế nào và thời điểm hưởng lương hưu của nhân viên này được xác định ra sao?"
+  },
+  {
+    "id": 1137,
+    "question": "Khi doanh nghiệp nhỏ và vừa không trả được nợ cho tổ chức cho vay, tổ chức này cần thực hiện những nghĩa vụ gì để yêu cầu Quỹ bảo lãnh tín dụng trả nợ thay và quy trình thẩm định hồ sơ này diễn ra như thế nào?"
+  },
+  {
+    "id": 1138,
+    "question": "Công ty đang thực hiện sáp nhập và ảnh hưởng đến nhiều nhân sự, trong đó có một nhân viên đang tạm hoãn hợp đồng và một nhân viên làm việc không trọn thời gian, thì công ty phải xử lý phương án sử dụng lao động và quyền lợi cho hai nhóm này như thế nào?"
+  },
+  {
+    "id": 1139,
+    "question": "Công ty tôi hiện không tổ chức đối thoại định kỳ tại nơi làm việc, chưa tiến hành quan trắc môi trường lao động và đang nợ đóng bảo hiểm xã hội cho nhân viên thì sẽ đối mặt với những rủi ro pháp lý và hình thức xử lý nào?"
+  },
+  {
+    "id": 1140,
+    "question": "Công ty tôi và đối tác chỉ thỏa thuận giải quyết tranh chấp qua email, nay công ty khởi kiện ra trọng tài nhưng đến phiên họp lại vắng mặt không lý do, thì vụ việc sẽ được xử lý thế nào và nếu Hội đồng trọng tài cho rằng thỏa thuận qua email này vô hiệu thì công ty phải làm gì để khiếu nại?"
+  },
+  {
+    "id": 1141,
+    "question": "Công ty muốn thay đổi số lượng và phân chia quyền hạn của những người đại diện theo pháp luật thì phải thực hiện điều chỉnh trong văn bản nội bộ nào và thủ tục thông báo với cơ quan đăng ký kinh doanh ra sao?"
+  },
+  {
+    "id": 1142,
+    "question": "Công ty TNHH hai thành viên trở lên có thành viên góp vốn bằng quyền sử dụng đất thì quy trình chuyển quyền sở hữu tài sản này, thời hạn hoàn tất góp vốn và nội dung trên giấy chứng nhận phần vốn góp do người đại diện theo pháp luật ký phải thực hiện như thế nào?"
+  },
+  {
+    "id": 1143,
+    "question": "Trong trường hợp công ty bị kiện ra trọng tài nhưng không có văn bản thỏa thuận trước đó, công ty cần thể hiện sự đồng ý giải quyết tranh chấp này trong bản tự bảo vệ như thế nào và nếu phát hiện Trọng tài viên được chọn có lợi ích liên quan đến đối phương thì phải xử lý ra sao?"
+  },
+  {
+    "id": 1144,
+    "question": "Công ty tôi triển khai dự án đầu tư mới thuộc đối tượng được áp dụng thuế suất 10% trong 15 năm, vậy doanh thu để tính thuế được xác định như thế nào, phương pháp tính số thuế phải nộp ra sao và thời điểm bắt đầu tính thời gian hưởng thuế suất ưu đãi là khi nào?"
+  },
+  {
+    "id": 1145,
+    "question": "Công ty nộp đơn La Hay chỉ định Việt Nam nhưng bị thông báo từ chối do không đảm bảo tính thống nhất, vậy công ty cần xử lý thế nào để cứu các kiểu dáng công nghiệp này và nếu quá hạn 03 tháng do sự kiện bất khả kháng thì yêu cầu khôi phục thời hạn được thực hiện ra sao?"
+  },
+  {
+    "id": 1146,
+    "question": "Khi công ty muốn xây dựng lộ trình nâng cao tay nghề cho nhân viên dựa trên tiêu chuẩn kỹ năng nghề quốc gia, công ty cần căn cứ vào khung phân loại nào và những thông tin gì về chứng chỉ kỹ năng của người lao động cần được cập nhật vào cơ sở dữ liệu đăng ký lao động?"
+  },
+  {
+    "id": 1147,
+    "question": "Công ty tôi muốn tham gia chuỗi giá trị để được hỗ trợ kinh phí thuê mặt bằng tại cơ sở ươm tạo và tư vấn sở hữu trí tuệ thì cần đáp ứng tiêu chí lựa chọn nào và cơ quan nào có trách nhiệm hướng dẫn chi tiết các tiêu chí này?"
+  },
+  {
+    "id": 1148,
+    "question": "Khi rà soát lại chứng từ chi tiền, công ty phát hiện một số phiếu chi bị tẩy xóa, thiếu chữ ký của kế toán trưởng và chưa được sắp xếp theo trình tự thời gian thì cách xử lý để đảm bảo đúng luật kế toán và những hành vi nào trong trường hợp này là bị nghiêm cấm?"
+  },
+  {
+    "id": 1149,
+    "question": "Công ty tôi vừa thực hiện dự án đầu tư sản xuất xăng sinh học và có phát sinh cả hàng hóa xuất khẩu, đồng thời đang làm thủ tục hoàn thuế cho đối tác nước ngoài theo Hiệp định tránh đánh thuế hai lần thì mỗi trường hợp này cần chuẩn bị những hồ sơ, giấy tờ gì?"
+  },
+  {
+    "id": 1150,
+    "question": "Doanh nghiệp tôi vừa gặp thiên tai gây thiệt hại nghiêm trọng đến tài nguyên đã kê khai, tài sản sản xuất và cả khu đất phi nông nghiệp đang sử dụng, vậy để được miễn giảm đồng thời thuế tài nguyên, thuế tiêu thụ đặc biệt và thuế sử dụng đất phi nông nghiệp thì hồ sơ cần chuẩn bị những gì?"
+  },
+  {
+    "id": 1151,
+    "question": "Khi đoàn kiểm tra kế toán yêu cầu cung cấp chứng từ nhưng công ty phát hiện tài liệu này đã bị mất, công ty cần thực hiện quy trình khắc phục thế nào và hệ thống kiểm soát nội bộ cần đảm bảo điều gì để tránh lặp lại rủi ro này?"
+  },
+  {
+    "id": 1152,
+    "question": "Trong trường hợp nhân viên bị tai nạn khi đi công tác ngoài văn phòng và đồng thời mắc bệnh nghề nghiệp mà công ty chưa đóng bảo hiểm bắt buộc, công ty cần thực hiện báo cáo, bồi thường và cho nhân viên giám định mức suy giảm khả năng lao động như thế nào?"
+  },
+  {
+    "id": 1153,
+    "question": "Hợp tác xã dự định ký hợp đồng hợp tác với một đối tác để cung cấp dịch vụ tư vấn trên một khu đất cụ thể, vậy hợp đồng này cần đảm bảo nội dung gì về quyền sử dụng đất và các thành viên hợp tác sẽ có quyền, nghĩa vụ gì trong quá trình thực hiện?"
+  },
+  {
+    "id": 1154,
+    "question": "Công ty nhập một lô hàng nhưng chất lượng không đạt tiêu chuẩn ngành và không đúng như thỏa thuận, vậy công ty có thể đơn phương chấm dứt hay hủy bỏ hợp đồng không và cách giải quyết hậu quả về tài sản, bồi thường trong mỗi trường hợp này khác nhau thế nào?"
+  },
+  {
+    "id": 1155,
+    "question": "Công ty tôi là đối tượng nộp thuế, hiện đang khiếu nại về một quyết định xử phạt vi phạm thủ tục thuế thì cơ quan quản lý thuế có quyền yêu cầu cung cấp hồ sơ gì, và nếu kết quả khiếu nại cho thấy công ty bị phạt sai thì ai là người có thẩm quyền ra quyết định xử phạt ban đầu cũng như xử lý hoàn trả tiền phạt cho công ty như thế nào?"
+  },
+  {
+    "id": 1156,
+    "question": "Công ty tôi đang chuyển sang dùng hóa đơn điện tử và đồng thời thực hiện khấu trừ thuế TNCN cho nhân viên, vậy công ty cần xử lý các hóa đơn giấy cũ mua từ cơ quan thuế như thế nào và những loại chứng từ nào được dùng để quản lý thuế, phí, lệ phí?"
+  },
+  {
+    "id": 1157,
+    "question": "Công ty tôi thuê lại lao động từ một đơn vị cung ứng để vận hành xưởng cơ khí (ngành có nguy cơ cao về tai nạn), vậy việc đánh giá nguy cơ rủi ro về an toàn vệ sinh lao động cho nhóm này phải thực hiện như thế nào và trách nhiệm phối hợp giữa hai bên ra sao?"
+  },
+  {
+    "id": 1158,
+    "question": "Khi công ty nộp đơn đăng ký chỉ dẫn địa lý và đơn đăng ký sáng chế, nếu đơn không đáp ứng yêu cầu hình thức thì sẽ bị xử lý thế nào, và trong thời gian chờ công bố trên Công báo, thông tin trong đơn sáng chế được bảo vệ ra sao?"
+  },
+  {
+    "id": 1159,
+    "question": "Công ty muốn bảo hộ chỉ dẫn địa lý thông qua đề nghị quốc tế thì quy trình xử lý, điều kiện để được cấp văn bằng bảo hộ và quyền ngăn cấm đối thủ sử dụng chỉ dẫn này được thực hiện như thế nào?"
+  },
+  {
+    "id": 1160,
+    "question": "Trong trường hợp công ty bị thiệt hại do dịch bệnh và đang làm thủ tục xóa nợ thuế, nếu công ty từ chối cung cấp thông tin theo yêu cầu của cơ quan thuế thì sẽ đối mặt với rủi ro bị công khai thông tin gì và trách nhiệm bồi thường ra sao?"
+  },
+  {
+    "id": 1161,
+    "question": "Trong trường hợp hợp đồng lao động bị tuyên bố vô hiệu toàn bộ, công ty cần xử lý việc ký lại hợp đồng như thế nào, cách tính lương cho những ngày nghỉ lễ tết trong thời gian chờ ký lại và các yêu cầu về buồng vệ sinh, buồng tắm tại nơi làm việc mà công ty bắt buộc phải đảm bảo là gì?"
+  },
+  {
+    "id": 1162,
+    "question": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp thu nhập tính thuế cần sử dụng những loại sổ kế toán nào và báo cáo tài chính lập ra sẽ cung cấp những thông tin gì cho chủ doanh nghiệp cũng như cơ quan Nhà nước?"
+  },
+  {
+    "id": 1163,
+    "question": "Nếu công ty bị cơ quan thuế ấn định thuế do không cung cấp đủ sổ sách kế toán và thông tin từ cơ quan đăng ký kinh doanh về việc thay đổi nội dung đăng ký doanh nghiệp, thì quy trình xử lý của cơ quan thuế sẽ diễn ra như thế nào và công ty phải đối mặt với những hậu quả pháp lý gì?"
+  },
+  {
+    "id": 1164,
+    "question": "Công ty tôi muốn mở rộng quy mô bằng cách đăng ký mới một doanh nghiệp con và một chi nhánh, vậy quy định về việc đặt tên để không bị trùng hoặc gây nhầm lẫn đối với hai đối tượng này khác nhau như thế nào và cơ quan nào sẽ quản lý việc đăng ký này?"
+  },
+  {
+    "id": 1165,
+    "question": "Khi công ty phát hiện lô hàng nhập khẩu xâm phạm quyền tác giả, công ty cần cung cấp chứng cứ gì để yêu cầu cơ quan hải quan nào tạm dừng thủ tục và trong trường hợp nào thì lô hàng này có thể được buộc phân phối không nhằm mục đích thương mại?"
+  },
+  {
+    "id": 1166,
+    "question": "Công ty tôi đang khiếu nại về việc bị từ chối cấp Bằng độc quyền kiểu dáng công nghiệp do bị đánh giá là không có tính sáng tạo, vậy nếu giờ tôi muốn rút đơn khiếu nại thì thủ tục thực hiện ra sao và trường hợp nào cơ quan quản lý sẽ ra quyết định đình chỉ giải quyết khiếu nại này?"
+  },
+  {
+    "id": 1167,
+    "question": "Công ty tôi là bên nhượng quyền, nếu không thể cung cấp tài liệu hướng dẫn và hỗ trợ kỹ thuật cho bên nhận quyền do sự kiện bất khả kháng, tôi cần xử lý thông báo thế nào và bên nhận quyền có nghĩa vụ gì trong việc phối hợp vận hành hệ thống lúc này?"
+  },
+  {
+    "id": 1168,
+    "question": "Trong trường hợp công ty đang làm thủ tục giải thể nhưng trước đó có nộp hồ sơ gia hạn nộp thuế và hiện có số tiền thuế nộp thừa, thì việc xử lý nợ thuế còn lại và yêu cầu hoàn số tiền nộp thừa này được thực hiện như thế nào?"
+  },
+  {
+    "id": 1169,
+    "question": "Công ty hợp danh là doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo muốn quyết định triển khai một dự án đầu tư mới để xin hỗ trợ giá thuê mặt bằng sản xuất thì cần tỷ lệ tán thành bao nhiêu từ Hội đồng thành viên và đối tượng nào sẽ được hưởng hỗ trợ này?"
+  },
+  {
+    "id": 1170,
+    "question": "Công ty muốn thuê một bên thứ ba để quảng bá sản phẩm và thu thập dữ liệu khách hàng, vậy công ty cần quy định thế nào trong hợp đồng với khách hàng và hợp đồng với bên thứ ba để không vi phạm luật bảo vệ quyền lợi người tiêu dùng?"
+  },
+  {
+    "id": 1171,
+    "question": "Để được vay vốn gián tiếp từ Quỹ phát triển doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp sáng tạo cần đáp ứng những điều kiện gì về vốn chủ sở hữu, phương án kinh doanh và các nguyên tắc chung về sử dụng vốn vay?"
+  },
+  {
+    "id": 1172,
+    "question": "Công ty tôi muốn đăng ký bảo hộ đồng thời nhãn hiệu cho logo, kiểu dáng công nghiệp cho sản phẩm và thiết kế bố trí cho chip điều khiển thì cần lưu ý điều kiện về đặc điểm tạo dáng, khả năng phân biệt của nhãn hiệu và quy định công bố thông tin đối với thiết kế bố trí như thế nào?"
+  },
+  {
+    "id": 1173,
+    "question": "Đối tác giao hàng kém chất lượng và vi phạm cơ bản nghĩa vụ hợp đồng, công ty tôi có quyền tạm ngừng thực hiện hợp đồng không và ngoài ra có thể yêu cầu đối tác khắc phục hàng hóa cũng như trả tiền phạt như thế nào?"
+  },
+  {
+    "id": 1174,
+    "question": "Công ty tôi tự ý cắt xén một video clip của nghệ sĩ và dùng bản nhạc nền trong đó để quảng cáo sản phẩm mà không xin phép, vậy hành vi này xâm phạm những quyền gì và công ty phải xác định tổn thất về cơ hội kinh doanh cho đối tác như thế nào?"
+  },
+  {
+    "id": 1175,
+    "question": "Công ty đang cho một nhân viên làm việc không trọn thời gian tạm hoãn hợp đồng, nay hết thời hạn tạm hoãn nhưng công ty quyết định chấm dứt hợp đồng với nhân viên này thì phải xử lý việc nhận lại và thông báo chấm dứt như thế nào?"
+  },
+  {
+    "id": 1176,
+    "question": "Công ty tôi muốn bổ sung thêm một người đại diện theo pháp luật để thuận tiện điều hành, vậy tôi cần quy định những nội dung gì trong Điều lệ và phải thực hiện công bố thông tin này như thế nào?"
+  },
+  {
+    "id": 1177,
+    "question": "Công ty xây kho chứa chất độc hại gây ảnh hưởng đến nhà hàng xóm, đồng thời không thực hiện quan trắc môi trường lao động và không tổ chức đối thoại định kỳ thì phải xử lý bồi thường, khắc phục và chịu mức phạt hành chính như thế nào?"
+  },
+  {
+    "id": 1178,
+    "question": "Công ty có một quản lý doanh nghiệp hưởng lương và một nhân viên nữ đang nghỉ thai sản; nếu nhân viên nữ này thôi việc trước khi sinh con thì ai là người nộp hồ sơ thai sản, và nếu vị quản lý trên đóng BHXH trên 35 năm thì khi nghỉ hưu sẽ được hưởng thêm khoản trợ cấp một lần như thế nào?"
+  },
+  {
+    "id": 1179,
+    "question": "Công ty tôi đang giải quyết tranh chấp tại Trọng tài dựa trên thỏa thuận qua email, nhưng đối tác khiếu nại về thẩm quyền của Hội đồng trọng tài và người làm chứng quan trọng lại không đến phiên họp, vậy quy trình khiếu nại thẩm quyền ra Tòa án và cách xử lý để triệu tập người làm chứng này được thực hiện như thế nào?"
+  },
+  {
+    "id": 1180,
+    "question": "Trong trường hợp công ty tôi xác định được toàn bộ tiền bán hàng và cung ứng dịch vụ nhưng không thể xác định được chi phí, thu nhập thì căn cứ tính thuế và phương pháp tính số thuế thu nhập doanh nghiệp phải nộp sẽ được thực hiện như thế nào?"
+  },
+  {
+    "id": 1181,
+    "question": "Khi công ty lập biên bản giao nhận tài sản góp vốn để chuyển quyền sở hữu cho doanh nghiệp và đồng thời thiết lập bảng hiệu cho một địa điểm kinh doanh mới, thì chữ ký trên biên bản và cách đặt tên, hiển thị bảng hiệu này phải tuân thủ những quy định nào?"
+  },
+  {
+    "id": 1182,
+    "question": "Công ty muốn tách một phần danh mục hàng hóa từ đơn nhãn hiệu hiện tại sang đơn mới rồi nộp Đơn Madrid có nguồn gốc Việt Nam thì cần thực hiện thủ tục tách đơn thế nào, hồ sơ Đơn Madrid gồm những gì và nếu quá hạn nộp tài liệu bổ sung thì có thể gia hạn hoặc xử lý ra sao?"
+  },
+  {
+    "id": 1183,
+    "question": "Công ty tôi thuê lại lao động từ một đơn vị cung ứng, vậy đối với nhóm nhân sự thuê lại này và nhân viên chính thức, công ty cần xây dựng kế hoạch ứng cứu khẩn cấp gồm những nội dung chủ yếu nào và trách nhiệm phối hợp xử lý sự cố với bên cho thuê lao động ra sao?"
+  },
+  {
+    "id": 1184,
+    "question": "Công ty tôi đang sở hữu một bằng độc quyền sáng chế sắp hết hạn và một văn bằng bảo hộ chỉ dẫn địa lý cho đặc sản địa phương, vậy tôi cần làm thế nào để duy trì hiệu lực cho sáng chế và thực hiện sửa đổi bản mô tả tính chất đặc thù của sản phẩm mang chỉ dẫn địa lý này, đồng thời cơ quan nào sẽ chịu trách nhiệm xác định các đặc tính sản phẩm đó?"
+  },
+  {
+    "id": 1185,
+    "question": "Công ty tôi đang làm thủ tục giải thể và có số thuế GTGT đầu vào chưa khấu trừ hết, đồng thời có một khoản thuế nộp theo Hiệp định tránh đánh thuế hai lần cần hoàn thì quy trình lập hồ sơ cho hai trường hợp này khác nhau như thế nào và có điểm gì chung về mẫu đơn đề nghị?"
+  },
+  {
+    "id": 1186,
+    "question": "Để quản lý tài chính, công ty tôi muốn lập hai bộ sổ kế toán riêng biệt, dùng các hệ thống tài khoản khác nhau và lưu trữ chứng từ theo ý muốn thì cách làm này có đúng luật và rủi ro vi phạm là gì?"
+  },
+  {
+    "id": 1187,
+    "question": "Công ty tôi cùng đối tác ký hợp đồng hợp tác để khai thác một khu đất, trong đó một bên cung cấp dịch vụ quản lý vận hành để nhận phí, vậy khi hợp đồng này chấm dứt thì việc xử lý nợ và chia tài sản chung được thực hiện thế nào, và nội dung hợp đồng về quyền sử dụng đất cần tuân thủ những điều kiện gì?"
+  },
+  {
+    "id": 1188,
+    "question": "Khi công ty thực hiện sáp nhập một đơn vị kế toán khác, công ty cần triển khai các bước bàn giao kế toán nào, đồng thời phải thiết lập hệ thống kiểm soát nội bộ và phối hợp với đoàn kiểm tra kế toán ra sao để đảm bảo tính pháp lý?"
+  },
+  {
+    "id": 1189,
+    "question": "Khi công ty đơn phương chấm dứt hoặc hủy bỏ hợp đồng với đối tác, việc thanh toán cho phần nghĩa vụ đã thực hiện sẽ được xử lý thế nào nếu trước đó hai bên không thỏa thuận rõ ràng về giá và phương thức thanh toán?"
+  },
+  {
+    "id": 1190,
+    "question": "Khi nhân viên bị bệnh nghề nghiệp hoặc tai nạn lúc đi làm, công ty cần thực hiện báo cáo thống kê gì và trong trường hợp không đóng bảo hiểm bắt buộc thì phải chi trả những khoản tương ứng với chế độ từ Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp nào?"
+  },
+  {
+    "id": 1191,
+    "question": "Công ty tôi đang vận hành dự án nhà ở xã hội cho người lao động, đồng thời có một số cơ sở sản xuất bị thiệt hại nặng do thiên tai và có đất phi nông nghiệp, vậy tôi cần chuẩn bị những bộ hồ sơ gì để đề nghị miễn tiền sử dụng đất cho dự án, giảm thuế tiêu thụ đặc biệt do thiên tai và miễn giảm thuế sử dụng đất phi nông nghiệp?"
+  },
+  {
+    "id": 1192,
+    "question": "Công ty tôi đã nộp phí và được cấp văn bằng bảo hộ cho một kiểu dáng công nghiệp, vậy công ty có những quyền tài sản nào và trong trường hợp nào công ty không được quyền ngăn cấm đối thủ cạnh tranh sử dụng kiểu dáng này?"
+  },
+  {
+    "id": 1193,
+    "question": "Công ty tôi vừa bị phát hiện cho đối tác mượn hóa đơn đặt in chưa phát hành, đồng thời chậm nộp hồ sơ khai thuế hơn 100 ngày có phát sinh thuế và cung cấp thông tin tài khoản khách hàng cho cơ quan thuế chậm 10 ngày thì sẽ đối mặt với những mức phạt và biện pháp khắc phục hậu quả nào?"
+  },
+  {
+    "id": 1194,
+    "question": "Công ty tôi muốn đăng ký bảo hộ chỉ dẫn địa lý cho sản phẩm đặc sản vùng miền thì cần chuẩn bị những tài liệu gì trong đơn, điều kiện nào để đơn được coi là hợp lệ và sau đó đơn sẽ được xử lý thẩm định nội dung như thế nào?"
+  },
+  {
+    "id": 1195,
+    "question": "Khi công ty thực hiện khấu trừ thuế TNCN cho nhân viên nhưng đồng thời đang làm thủ tục chuyển sang sử dụng hóa đơn điện tử và ngưng sử dụng mã số thuế, công ty cần xử lý các hóa đơn cũ và lập chứng từ khấu trừ thuế vào thời điểm nào?"
+  },
+  {
+    "id": 1196,
+    "question": "Khi thành lập doanh nghiệp trong khu công nghệ cao, tôi cần nộp hồ sơ đăng ký tên tại cơ quan nào và nếu cơ quan này từ chối tên dự kiến vì lý do trùng lặp thì tôi có quyền xử lý ra sao?"
+  },
+  {
+    "id": 1197,
+    "question": "Công ty vận hành hệ thống đường ống phân phối khí ký hợp đồng lao động sai thẩm quyền dẫn đến bị tuyên bố vô hiệu toàn bộ, vậy việc xử lý hợp đồng này, cách tính lương cho những ngày nghỉ lễ tết và quyền lợi về thời giờ làm việc đặc thù của nhân viên sẽ được thực hiện như thế nào?"
+  },
+  {
+    "id": 1198,
+    "question": "Công ty tôi vừa phát hiện bị mất một số hóa đơn đã mua của cơ quan thuế nhưng chưa lập và đồng thời phát hiện phần mềm hóa đơn điện tử đang dùng không đảm bảo nguyên tắc pháp luật, vậy trường hợp này công ty sẽ bị xử lý như thế nào và ai là đối tượng chịu phạt?"
+  },
+  {
+    "id": 1199,
+    "question": "Khi công ty dùng một bất động sản đầu tư để góp vốn vào công ty liên kết, kế toán cần xử lý giá trị tài sản này như thế nào và có được hạch toán chi phí giao dịch liên quan vào tài khoản chi phí sản xuất kinh doanh dở dang không, đồng thời lưu ý gì về việc xác định nghĩa vụ thuế?"
+  },
+  {
+    "id": 1200,
+    "question": "Khi phát hiện đối tác nhập khẩu hàng hóa xâm phạm quyền tác giả của công ty, để đề nghị cơ quan hải quan tạm dừng làm thủ tục hải quan thì công ty cần cung cấp những loại chứng cứ nào để chứng minh tư cách chủ thể quyền và chứng minh hành vi xâm phạm?"
+  },
+  {
+    "id": 1201,
+    "question": "Nếu công ty tự ý sửa đổi nội dung tác phẩm của đối tác gây ảnh hưởng xấu đến uy tín tác giả và làm mất đi các hợp đồng cho thuê bản gốc tác phẩm đó, thì hành vi này được xác định là xâm phạm quyền tác giả như thế nào và công ty phải bồi thường những khoản thiệt hại gì?"
+  },
+  {
+    "id": 1202,
+    "question": "Công ty tôi muốn thuê một KOL quảng bá sản phẩm và sử dụng điều kiện giao dịch chung để áp dụng cho khách hàng, đồng thời chia sẻ dữ liệu khách hàng cho bên đối tác phân tích thì phải thực hiện công khai, thông báo và phối hợp với bên thứ ba như thế nào cho đúng luật?"
+  },
+  {
+    "id": 1203,
+    "question": "Khi đối tác giao hàng thiếu và kém chất lượng, công ty muốn yêu cầu họ khắc phục đúng hợp đồng, cho thêm thời gian thực hiện và đồng thời đòi tiền phạt vi phạm thì phải xử lý như thế nào?"
+  },
+  {
+    "id": 1204,
+    "question": "Trong trường hợp công ty đang làm thủ tục giải thể nhưng vẫn muốn xin gia hạn nộp thuế và yêu cầu hoàn thuế, công ty cần gửi hồ sơ gia hạn qua những kênh nào và cơ quan thuế sẽ kiểm tra hồ sơ hoàn thuế tại đâu tùy theo diện hoàn?"
+  },
+  {
+    "id": 1205,
+    "question": "Khi bị cơ quan thuế ấn định số tiền thuế phải nộp mà công ty không đồng ý và muốn khiếu nại, công ty phải xử lý việc nộp tiền thuế này như thế nào và cần chuẩn bị hồ sơ gì nếu muốn xin gia hạn nộp số tiền đó?"
+  },
+  {
+    "id": 1206,
+    "question": "Công ty tôi là doanh nghiệp nhỏ và vừa đang hoạt động trong lĩnh vực ưu tiên của tỉnh, muốn tiếp cận Quỹ bảo lãnh tín dụng để vay vốn thì điều kiện đối tượng, mức bảo lãnh tối đa và các biện pháp bảo đảm cần thiết là gì?"
+  },
+  {
+    "id": 1207,
+    "question": "Công ty muốn đăng ký bảo hộ cho một mẫu mã sản phẩm mới bao gồm cả nhãn hiệu đi kèm thì cần đáp ứng các yêu cầu gì về nội dung đơn, quy trình thẩm định hình thức diễn ra ra sao và trường hợp nào dấu hiệu hình của nhãn hiệu sẽ bị coi là không có khả năng phân biệt do trùng với kiểu dáng công nghiệp?"
+  },
+  {
+    "id": 1208,
+    "question": "Khi một hành vi vi phạm hành chính có nhiều tình tiết tăng nặng và giảm nhẹ thì thời hạn đình chỉ hoạt động được xác định như thế nào?"
+  },
+  {
+    "id": 1209,
+    "question": "Trong trường hợp kết hôn nhiều lần, người lao động có được nghỉ hưởng nguyên lương cho mỗi lần kết hôn hay không?"
+  },
+  {
+    "id": 1210,
+    "question": "Đối tượng nào là người nộp thuế tiêu thụ đặc biệt?"
+  },
+  {
+    "id": 1211,
+    "question": "Hành vi vi phạm quy định về lập và trình bày báo cáo tài chính trong lĩnh vực kế toán, kiểm toán độc lập sẽ bị xử phạt như thế nào?"
+  },
+  {
+    "id": 1212,
+    "question": "Nhiệm vụ khoa học và công nghệ trong chương trình hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng hóa bao gồm những gì?"
+  },
+  {
+    "id": 1213,
+    "question": "Quy định về cơ cấu tổ chức quản lý của công ty cổ phần hiện nay như thế nào?"
+  },
+  {
+    "id": 1214,
+    "question": "Doanh nghiệp có dự án nông nghiệp có được Nhà nước hỗ trợ kinh phí đào tạo nghề cho người lao động không?"
+  },
+  {
+    "id": 1215,
+    "question": "Quy định về việc áp dụng biện pháp buộc tháo dỡ công trình hoặc phần công trình xây dựng không có giấy phép, xây dựng sai giấy phép trong xử lý vi phạm hành chính như thế nào?"
+  },
+  {
+    "id": 1216,
+    "question": "Quy định về chủ sở hữu đối tượng sở hữu công nghiệp hiện nay như thế nào?"
+  },
+  {
+    "id": 1217,
+    "question": "Trong thời gian được gia hạn nộp thuế, người nộp thuế có bị xử phạt hay không?"
+  },
+  {
+    "id": 1218,
+    "question": "Người 17 tuổi có được phép làm việc tại cơ sở giết mổ lợn không?"
+  },
+  {
+    "id": 1219,
+    "question": "Những đối tượng nào được phép tổ chức triển lãm thương mại?"
+  },
+  {
+    "id": 1220,
+    "question": "Theo quy định của pháp luật lao động, doanh nghiệp có được sử dụng người lao động là người khuyết tật làm việc vào ban đêm không và quy định này nằm ở điều khoản nào?"
+  },
+  {
+    "id": 1221,
+    "question": "Để làm việc tại Việt Nam, người lao động Trung Quốc cần đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 1222,
+    "question": "Trong những trường hợp nào thì quán karaoke sẽ bị thu hồi Giấy phép đủ điều kiện kinh doanh?"
+  },
+  {
+    "id": 1223,
+    "question": "Quy định về quyền hoãn thực hiện nghĩa vụ trong hợp đồng song vụ hiện nay như thế nào?"
+  },
+  {
+    "id": 1224,
+    "question": "Khi có nhu cầu đào tạo nghề, người sử dụng lao động và người lao động có bắt buộc phải ký kết hợp đồng đào tạo nghề không?"
+  },
+  {
+    "id": 1225,
+    "question": "Khi thành lập doanh nghiệp cho thuê lại lao động, số tiền ký quỹ có được hưởng lãi suất không?"
+  },
+  {
+    "id": 1226,
+    "question": "Để đánh giá một thỏa thuận hạn chế cạnh tranh có gây tác động hạn chế cạnh tranh một cách đáng kể hay không thì căn cứ vào những yếu tố nào?"
+  },
+  {
+    "id": 1227,
+    "question": "Việc nộp thuế thu nhập cá nhân bằng ngoại tệ có được phép không?"
+  },
+  {
+    "id": 1228,
+    "question": "Khi tham gia hội chợ thương mại tại Việt Nam, thương nhân có những quyền và nghĩa vụ gì?"
+  },
+  {
+    "id": 1229,
+    "question": "Khi bố nuôi hoặc mẹ nuôi qua đời, người lao động có được nghỉ việc riêng 3 ngày mà vẫn hưởng nguyên lương không?"
+  },
+  {
+    "id": 1230,
+    "question": "Tôi muốn giúp bạn làm thủ tục xin phép hoạt động giáo dục tại Việt Nam cho một cơ sở giáo dục có vốn đầu tư nước ngoài thì cần thực hiện như thế nào?"
+  },
+  {
+    "id": 1231,
+    "question": "Việc tiết lộ thông tin kinh doanh của doanh nghiệp có bị phạt tiền không?"
+  },
+  {
+    "id": 1232,
+    "question": "Thế nào là một công ty được coi là công ty mẹ?"
+  },
+  {
+    "id": 1233,
+    "question": "Việc chấm dứt hoạt động bán hàng đa cấp tại địa phương được thực hiện theo trình tự, thủ tục như thế nào?"
+  },
+  {
+    "id": 1234,
+    "question": "Việc giải quyết tranh chấp bằng hòa giải thương mại được thực hiện theo những nguyên tắc nào?"
+  },
+  {
+    "id": 1235,
+    "question": "Trong trường hợp tai nạn lao động xảy ra hoàn toàn do lỗi của người lao động thì họ có được hưởng trợ cấp tai nạn lao động hay không?"
+  },
+  {
+    "id": 1236,
+    "question": "Khi cho thuê doanh nghiệp, chủ doanh nghiệp tư nhân có còn phải chịu trách nhiệm trước pháp luật không?"
+  },
+  {
+    "id": 1237,
+    "question": "Việc chấp hành hình phạt tù có làm chấm dứt tư cách thành viên hợp danh không?"
+  },
+  {
+    "id": 1238,
+    "question": "Mức chi trả dịch vụ hệ sinh thái tự nhiên được quy định như thế nào?"
+  },
+  {
+    "id": 1239,
+    "question": "Doanh nghiệp bị xử phạt vi phạm hành chính như thế nào nếu tự ý sửa chữa nội dung trong giấy phép bưu chính?"
+  },
+  {
+    "id": 1240,
+    "question": "Trong hợp đồng đại lý thương mại, bên giao đại lý có bắt buộc phải là thương nhân không?"
+  },
+  {
+    "id": 1241,
+    "question": "Nếu quá thời hạn góp vốn của Công ty TNHH một thành viên thì ai sẽ là người chịu trách nhiệm?"
+  },
+  {
+    "id": 1242,
+    "question": "Công ty cổ phần và công ty trách nhiệm hữu hạn có được phát hành trái phiếu không?"
+  },
+  {
+    "id": 1243,
+    "question": "Việc nghiệm thu giai đoạn thi công xây dựng hoặc công trình xây dựng được thực hiện như thế nào?"
+  },
+  {
+    "id": 1244,
+    "question": "Việc bầu Chủ tịch Hội đồng thành viên trong công ty TNHH hai thành viên trở lên có cần phải thông qua cuộc họp Hội đồng thành viên không?"
+  },
+  {
+    "id": 1245,
+    "question": "Việc lập hóa đơn cần tuân thủ những nguyên tắc nào và thời điểm lập hóa đơn được quy định ra sao?"
+  },
+  {
+    "id": 1246,
+    "question": "Khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh, những trường hợp nào không được bồi thường về đất nhưng vẫn được bồi thường chi phí đầu tư vào đất còn lại?"
+  },
+  {
+    "id": 1247,
+    "question": "Hợp đồng cung ứng dịch vụ được quy định về hình thức như thế nào?"
+  },
+  {
+    "id": 1248,
+    "question": "Theo quy định của pháp luật, bên đại lý trong hợp đồng đại lý thương mại có những quyền và nghĩa vụ gì?"
+  },
+  {
+    "id": 1249,
+    "question": "Quy định về việc thống nhất chữ ký trên các chứng từ kế toán được thực hiện như thế nào?"
+  },
+  {
+    "id": 1250,
+    "question": "Hồ sơ đề nghị xóa nợ tiền thuế, tiền chậm nộp và tiền phạt bao gồm những giấy tờ, tài liệu gì?"
+  },
+  {
+    "id": 1251,
+    "question": "Người sử dụng lao động có phải thông báo kết quả thử việc cho người lao động không?"
+  },
+  {
+    "id": 1252,
+    "question": "Khi nhận chuyển giao công nghệ từ cơ sở giáo dục đại học, doanh nghiệp có được chia sẻ quyền sở hữu trí tuệ hay không?"
+  },
+  {
+    "id": 1253,
+    "question": "Theo quy định pháp luật hiện hành, phiên họp giải quyết tranh chấp bằng trọng tài có được phép hoãn không và việc tạm hoãn này được thực hiện trong những trường hợp nào?"
+  },
+  {
+    "id": 1254,
+    "question": "Khi thành lập doanh nghiệp, tài sản dùng để góp vốn có bắt buộc phải định giá không?"
+  },
+  {
+    "id": 1255,
+    "question": "Ngoài việc sử dụng bản ghi âm, doanh nghiệp có thể quảng cáo sản phẩm thông qua những phương tiện nào khác?"
+  },
+  {
+    "id": 1256,
+    "question": "Văn phòng đại diện có được phép thực hiện chức năng kinh doanh hay không?"
+  },
+  {
+    "id": 1257,
+    "question": "Việc thông báo khuyến mại dịch vụ được thực hiện bằng những cách thức nào?"
+  },
+  {
+    "id": 1258,
+    "question": "Quy định về việc thiết lập trang thông tin điện tử bán hàng hiện nay như thế nào?"
+  },
+  {
+    "id": 1259,
+    "question": "Cách xác định tổng nguồn vốn đối với doanh nghiệp nhỏ hoạt động dưới 1 năm được quy định như thế nào?"
+  },
+  {
+    "id": 1260,
+    "question": "Hàng hóa thuộc danh mục cấm nhập khẩu vào Việt Nam thì có được phép quá cảnh qua lãnh thổ Việt Nam không?"
+  },
+  {
+    "id": 1261,
+    "question": "Thời gian giải quyết thủ tục cấp Giấy phép hoạt động cho thuê lại lao động có phải mất khoảng 1 tháng không?"
+  },
+  {
+    "id": 1262,
+    "question": "Bên cầm cố có quyền thỏa thuận về giá trị của tài sản cầm cố hay không?"
+  },
+  {
+    "id": 1263,
+    "question": "Theo quy định của pháp luật, doanh nghiệp có bắt buộc phải cho người lao động nghỉ hằng tuần vào ngày Chủ nhật không?"
+  },
+  {
+    "id": 1264,
+    "question": "Khi làm hồ sơ xin cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa, có bắt buộc phải nộp bản chính chứng chỉ của người phụ trách kinh doanh không?"
+  },
+  {
+    "id": 1265,
+    "question": "Một hợp đồng chuyển giao công nghệ cần bao gồm những nội dung chính nào?"
+  },
+  {
+    "id": 1266,
+    "question": "Khi mới thành lập, công ty cổ phần cần phải có tối thiểu bao nhiêu cổ đông sáng lập?"
+  },
+  {
+    "id": 1267,
+    "question": "Việc quảng cáo trên các xuất bản phẩm được quy định như thế nào?"
+  },
+  {
+    "id": 1268,
+    "question": "Người lao động có được hưởng nguyên lương khi nghỉ lễ Giỗ tổ Hùng Vương, ngày 30/4 và 1/5 không?"
+  },
+  {
+    "id": 1269,
+    "question": "Khi khai thác, sử dụng cảnh quan của hệ sinh thái tự nhiên để kinh doanh dịch vụ du lịch thì có phải nộp phí không?"
+  },
+  {
+    "id": 1270,
+    "question": "Doanh nghiệp có được cắt tiền thưởng Tết nếu người lao động không đạt doanh số không?"
+  },
+  {
+    "id": 1271,
+    "question": "Trong trường hợp công ty chậm trả lương, nhân viên có được nhận tiền đền bù không?"
+  },
+  {
+    "id": 1272,
+    "question": "Trong những trường hợp nào thì việc sử dụng bài hát không cần phải xin phép và không phải trả tiền nhuận bút?"
+  },
+  {
+    "id": 1273,
+    "question": "Công ty kinh doanh vận tải có bị xử phạt không nếu tài xế đón thêm khách ngoài danh sách hành khách ghi trong hợp đồng vận tải?"
+  },
+  {
+    "id": 1274,
+    "question": "Quy định về việc lập hóa đơn điện tử có mã của cơ quan thuế hiện nay như thế nào?"
+  },
+  {
+    "id": 1275,
+    "question": "Trong trường hợp nào thì việc xây dựng bảng quảng cáo phải xin giấy phép xây dựng?"
+  },
+  {
+    "id": 1276,
+    "question": "Doanh nghiệp cần nộp hồ sơ đề nghị cấp giấy phép hoạt động cho thuê lại lao động cho cơ quan nào?"
+  },
+  {
+    "id": 1277,
+    "question": "Thời hạn cho vay vốn tín dụng đầu tư của Nhà nước được quy định là bao lâu?"
+  },
+  {
+    "id": 1278,
+    "question": "Trong trường hợp công ty không trả trợ cấp thôi việc cho người lao động thì có bắt buộc phải hòa giải trước khi khởi kiện không?"
+  },
+  {
+    "id": 1279,
+    "question": "Khi công ty bị phá sản thì có phải thanh toán các nghĩa vụ thuế cho nhà nước không?"
+  },
+  {
+    "id": 1280,
+    "question": "Việc thay đổi, bổ sung hoặc hủy bỏ biện pháp khẩn cấp tạm thời của Hội đồng trọng tài được quy định về thẩm quyền và thủ tục như thế nào?"
+  },
+  {
+    "id": 1281,
+    "question": "Doanh nghiệp có phải chi trả trợ cấp mất việc làm cho người lao động ký hợp đồng lao động dưới 12 tháng không?"
+  },
+  {
+    "id": 1282,
+    "question": "Thời hạn nộp hồ sơ đề nghị gia hạn giấy phép hoạt động cho thuê lại lao động là bao lâu trước khi giấy phép hết hạn?"
+  },
+  {
+    "id": 1283,
+    "question": "Công ty đang nợ thuế thì có được phép tạm ngừng kinh doanh không?"
+  },
+  {
+    "id": 1284,
+    "question": "Quy định về việc áp dụng các biện pháp kỹ thuật đối với hàng hóa nhập khẩu như thế nào?"
+  },
+  {
+    "id": 1285,
+    "question": "Để quảng cáo thực phẩm bảo vệ sức khỏe thì cần đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 1286,
+    "question": "Quy định về việc chuyển đổi hóa đơn điện tử sang hóa đơn giấy như thế nào?"
+  },
+  {
+    "id": 1287,
+    "question": "Doanh nghiệp có được phép trả lương cho người lao động bằng sản phẩm không?"
+  },
+  {
+    "id": 1288,
+    "question": "Cách tính kỳ kế toán đầu tiên đối với doanh nghiệp mới thành lập được quy định như thế nào?"
+  },
+  {
+    "id": 1289,
+    "question": "Người sử dụng lao động có được phép giữ lương của người lao động trong thời gian thử việc không?"
+  },
+  {
+    "id": 1290,
+    "question": "Doanh nghiệp có dự án đầu tư cơ sở chăn nuôi bò sữa, bò thịt sẽ được hưởng các chính sách hỗ trợ như thế nào?"
+  },
+  {
+    "id": 1291,
+    "question": "Khi chủ sở hữu của pháp nhân qua đời thì pháp nhân đó có được hưởng thừa kế từ người chủ hay không và quy định pháp luật nào điều chỉnh vấn đề này?"
+  },
+  {
+    "id": 1292,
+    "question": "Khi xây dựng bảng lương mới cho nhân viên kinh doanh, doanh nghiệp có phải gửi thông báo cho Sở Lao động - Thương binh và Xã hội hay không?"
+  },
+  {
+    "id": 1293,
+    "question": "Theo quy định của pháp luật lao động, người sử dụng lao động có được phép can thiệp vào quyền tự quyết chi tiêu tiền lương của người lao động không?"
+  },
+  {
+    "id": 1294,
+    "question": "Người lao động có được hưởng lương trong thời gian bị tạm giam không?"
+  },
+  {
+    "id": 1295,
+    "question": "Trình tự, thủ tục tiến hành hòa giải được thực hiện như thế nào?"
+  },
+  {
+    "id": 1296,
+    "question": "Đơn đăng ký bảo hộ chỉ dẫn địa lý cần đáp ứng những yêu cầu gì?"
+  },
+  {
+    "id": 1297,
+    "question": "Công ty có được phép giảm lương của người lao động hay không?"
+  },
+  {
+    "id": 1298,
+    "question": "Các đề án xúc tiến thương mại trong Chương trình cấp quốc gia về xúc tiến thương mại được quy định về nguồn kinh phí, nguyên tắc và mức hỗ trợ như thế nào?"
+  },
+  {
+    "id": 1299,
+    "question": "Khi chấm dứt hợp đồng ủy quyền có thù lao, có cần phải thông báo cho bên ủy quyền hay không?"
+  },
+  {
+    "id": 1300,
+    "question": "Chủ doanh nghiệp tư nhân có được coi là người quản lý doanh nghiệp hay không?"
+  },
+  {
+    "id": 1301,
+    "question": "Công ty TNHH một thành viên có được phép phát hành trái phiếu không?"
+  },
+  {
+    "id": 1302,
+    "question": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo theo quy định pháp luật hiện nay bao gồm những loại giấy tờ bắt buộc nào?"
+  },
+  {
+    "id": 1303,
+    "question": "Tổ chức kinh tế khi nhận chuyển nhượng quyền sử dụng đất hoặc chuyển mục đích sử dụng đất thì có những quyền và nghĩa vụ gì?"
+  },
+  {
+    "id": 1304,
+    "question": "Khi bàn giao con dấu thì có bắt buộc phải lập thành văn bản hay không?"
+  },
+  {
+    "id": 1305,
+    "question": "Việc quảng cáo sản phẩm của mình là tốt nhất trên thị trường có bị coi là hành vi bị cấm trong quảng cáo không?"
+  },
+  {
+    "id": 1306,
+    "question": "Có được ký chứng từ kế toán khi chưa ghi đủ nội dung không?"
+  },
+  {
+    "id": 1307,
+    "question": "Khi thông báo sản phẩm quảng cáo trên bảng quảng cáo thì hồ sơ cần bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 1308,
+    "question": "Khi đặt tên chi nhánh cho công ty hợp danh thì có được phép sử dụng chữ số không?"
+  },
+  {
+    "id": 1309,
+    "question": "Ai là người có thẩm quyền giao kết hợp đồng lao động bên phía người sử dụng lao động?"
+  },
+  {
+    "id": 1310,
+    "question": "Khi nghỉ việc, người lao động có phải hoàn trả chi phí đào tạo nghề hay không?"
+  },
+  {
+    "id": 1311,
+    "question": "Thời giờ làm việc tối đa trong ngày và trong tuần đối với người lao động 16 tuổi là bao nhiêu?"
+  },
+  {
+    "id": 1312,
+    "question": "Người làm kiểm toán có được miễn thi môn kế toán khi thi lấy chứng chỉ hành nghề dịch vụ làm thủ tục về thuế không?"
+  },
+  {
+    "id": 1313,
+    "question": "Những đối tượng nào phải thực hiện đăng ký hoặc đăng ký thay đổi khoản vay nước ngoài tự vay, tự trả?"
+  },
+  {
+    "id": 1314,
+    "question": "Trong thời gian đình công, tiền lương và các quyền lợi hợp pháp của người lao động không tham gia đình công được tính như thế nào?"
+  },
+  {
+    "id": 1315,
+    "question": "Đối với cá nhân không ký hợp đồng lao động, công ty có được cấp một chứng từ khấu trừ cho nhiều lần khấu trừ thuế trong cùng một kỳ tính thuế không?"
+  },
+  {
+    "id": 1316,
+    "question": "Quy định về khoản bảo đảm đối với hàng hóa tạm quản theo cơ chế của Công ước Istanbul như thế nào?"
+  },
+  {
+    "id": 1317,
+    "question": "Đối với giấy phép lao động được cấp theo thời hạn của hợp đồng lao động dự kiến ký kết, cần nộp hồ sơ xin gia hạn trước bao nhiêu ngày kể từ ngày hết hạn?"
+  },
+  {
+    "id": 1318,
+    "question": "Thủ tục đổi Giấy chứng nhận đăng ký đầu tư và Giấy chứng nhận đăng ký doanh nghiệp để thay thế cho Giấy phép đầu tư, Giấy chứng nhận đầu tư được thực hiện như thế nào?"
+  },
+  {
+    "id": 1319,
+    "question": "Quy định về quyền giới thiệu hàng hóa hiện nay như thế nào?"
+  },
+  {
+    "id": 1320,
+    "question": "Khi thuộc đối tượng bị áp dụng các biện pháp cưỡng chế, thì tiền nợ thuế, tiền phạt và tiền chậm nộp quá hạn được ưu tiên thanh toán theo thứ tự thứ mấy?"
+  },
+  {
+    "id": 1321,
+    "question": "Việc tạm ứng hợp đồng trong xây dựng được quy định theo những nguyên tắc nào?"
+  },
+  {
+    "id": 1322,
+    "question": "Khi chuyển giao hàng hóa hoặc tiền cho bên đại lý theo hợp đồng đại lý thương mại, bên giao đại lý có còn giữ quyền sở hữu đối với số hàng hóa, tiền đó không?"
+  },
+  {
+    "id": 1323,
+    "question": "Việc gửi tin nhắn quảng cáo qua điện thoại sau 22 giờ đêm có được phép không?"
+  },
+  {
+    "id": 1324,
+    "question": "Thời hạn hiệu lực của Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp là bao lâu?"
+  },
+  {
+    "id": 1325,
+    "question": "Đơn vị cung cấp nước có nghĩa vụ phải bảo dưỡng đồng hồ đo nước hay không?"
+  },
+  {
+    "id": 1326,
+    "question": "Khi ký kết hợp đồng xây dựng, các bên cần phải đảm bảo những nguyên tắc nào?"
+  },
+  {
+    "id": 1327,
+    "question": "Khi đăng ký quyền tác giả cho tác phẩm có đồng tác giả thì hồ sơ cần bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 1328,
+    "question": "Thực hiện thủ tục cấp mới Giấy chứng nhận đăng ký doanh nghiệp trực tuyến có phải nộp phí hay lệ phí không?"
+  },
+  {
+    "id": 1329,
+    "question": "Khi thiết lập chức năng từ chối nhận tin nhắn quảng cáo, doanh nghiệp cần đáp ứng những yêu cầu gì?"
+  },
+  {
+    "id": 1330,
+    "question": "Theo Luật Thương mại 2005, hàng hóa và dịch vụ khi trưng bày, giới thiệu cần đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 1331,
+    "question": "Số nhiệm kỳ của Chủ tịch Hội đồng thành viên trong công ty TNHH hai thành viên trở lên có bị hạn chế không?"
+  },
+  {
+    "id": 1332,
+    "question": "Kể từ ngày 01/07/2018, hồ sơ và trình tự, thủ tục để được cấp Giấy phép chuyển giao công nghệ được quy định như thế nào?"
+  },
+  {
+    "id": 1333,
+    "question": "Trường hợp tạm dừng hợp đồng xây dựng mà không thông báo thì có phải bồi thường thiệt hại hay không?"
+  },
+  {
+    "id": 1334,
+    "question": "Quyền và nghĩa vụ của Chủ tịch Hội đồng quản trị được quy định như thế nào?"
+  },
+  {
+    "id": 1335,
+    "question": "Cơ quan nào có thẩm quyền cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu?"
+  },
+  {
+    "id": 1336,
+    "question": "Theo quy định mới nhất, việc bảo vệ môi trường trong sản xuất nông nghiệp được quy định như thế nào?"
+  },
+  {
+    "id": 1337,
+    "question": "Thời điểm bắt đầu tính thời gian hỗ trợ lãi suất vay ngân hàng là khi nào?"
+  },
+  {
+    "id": 1338,
+    "question": "Cá nhân và tổ chức có trách nhiệm gì trong việc bảo đảm an toàn cho khách du lịch khi tham gia các hoạt động du lịch nguy hiểm?"
+  },
+  {
+    "id": 1339,
+    "question": "Những trường hợp nào cơ sở phát thải khí nhà kính bắt buộc phải thực hiện kiểm kê khí nhà kính?"
+  },
+  {
+    "id": 1340,
+    "question": "Người lao động làm việc vào ngày lễ 30/4 thì được tính lương như thế nào?"
+  },
+  {
+    "id": 1341,
+    "question": "Hồ sơ xin cấp giấy phép xây dựng màn hình quảng cáo ngoài trời bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 1342,
+    "question": "Người lao động nước ngoài làm việc tại Việt Nam có được nghỉ ngày Tết cổ truyền của dân tộc họ không?"
+  },
+  {
+    "id": 1343,
+    "question": "Theo quy định của pháp luật, chi nhánh có được thay mặt doanh nghiệp ký kết hợp đồng lao động với người lao động không?"
+  },
+  {
+    "id": 1344,
+    "question": "Việc sử dụng hình thẻ của cá nhân để quảng cáo cho tiệm chụp ảnh có bị cấm không?"
+  },
+  {
+    "id": 1345,
+    "question": "Điểm bán lẻ thuốc lá trưng bày quá một hộp của một nhãn hiệu thuốc lá thì bị xử phạt bao nhiêu tiền?"
+  },
+  {
+    "id": 1346,
+    "question": "Doanh nghiệp xây dựng cơ sở hạ tầng cho dự án nhân giống cây trồng bằng công nghệ nuôi cấy mô thì có được hỗ trợ không?"
+  },
+  {
+    "id": 1347,
+    "question": "Người lao động được nghỉ việc riêng trong những trường hợp nào mà vẫn được hưởng nguyên lương?"
+  },
+  {
+    "id": 1348,
+    "question": "Diễn viên múa dưới 18 tuổi có thể tự mình ký kết hợp đồng lao động được không?"
+  },
+  {
+    "id": 1349,
+    "question": "Công ty có được phép sa thải người lao động đang nghỉ ốm theo chỉ định của bác sĩ không?"
+  },
+  {
+    "id": 1350,
+    "question": "Thủ tục đăng ký hành nghề dịch vụ kế toán được thực hiện như thế nào?"
+  },
+  {
+    "id": 1351,
+    "question": "Người lao động nữ có được phép xin kéo dài thời gian nghỉ thai sản không?"
+  },
+  {
+    "id": 1352,
+    "question": "Đối với hình phạt chính trong hình sự, pháp nhân thương mại phạm tội có bị áp dụng hình thức xử phạt là cảnh cáo không?"
+  },
+  {
+    "id": 1353,
+    "question": "Việc vận hành máy phát điện gây tiếng ồn vượt quá quy chuẩn kỹ thuật sẽ bị xử phạt hành chính như thế nào?"
+  },
+  {
+    "id": 1354,
+    "question": "Khi thi công đường ống thoát nước trên đường mà không đặt biển cảnh báo dẫn đến chết người thì có phải bồi thường thiệt hại không?"
+  },
+  {
+    "id": 1355,
+    "question": "Thời hạn để công ty thanh toán tiền lương cho người lao động sau khi nghỉ việc là bao lâu?"
+  },
+  {
+    "id": 1356,
+    "question": "Điều kiện để người lao động được trang cấp phương tiện bảo vệ cá nhân được quy định như thế nào?"
+  },
+  {
+    "id": 1357,
+    "question": "Khi quảng cáo trang thiết bị y tế trên báo nói và báo hình thì cần phải thể hiện những nội dung gì?"
+  },
+  {
+    "id": 1358,
+    "question": "Việc làm rõ hồ sơ dự thầu đối với phương thức một túi một hồ sơ trong mua sắm theo Hiệp định CPTPP được quy định như thế nào?"
+  },
+  {
+    "id": 1359,
+    "question": "Theo quy định mới nhất, công ty hợp danh có được phép mở nhiều hơn một tài khoản ngân hàng không?"
+  },
+  {
+    "id": 1360,
+    "question": "Khi muốn xin cấp giấy phép xây dựng để di dời công trình thì cần chuẩn bị những giấy tờ, tài liệu gì trong hồ sơ?"
+  },
+  {
+    "id": 1361,
+    "question": "Người lao động hưởng lương theo sản phẩm có được tạm ứng lương không?"
+  },
+  {
+    "id": 1362,
+    "question": "Lao động nữ mang thai đến tháng thứ 7 thì có được về sớm 30 phút mỗi ngày không?"
+  },
+  {
+    "id": 1363,
+    "question": "Công trình xây dựng được thực hiện nghiệm thu vào những giai đoạn nào?"
+  },
+  {
+    "id": 1364,
+    "question": "Việc phân nhóm hàng hóa xuất khẩu, nhập khẩu và quá cảnh khi gửi qua dịch vụ chuyển phát nhanh quốc tế được quy định như thế nào?"
+  },
+  {
+    "id": 1365,
+    "question": "Khi tuyển dụng người lao động 13 tuổi, doanh nghiệp có bắt buộc phải yêu cầu giấy khám sức khỏe không?"
+  },
+  {
+    "id": 1366,
+    "question": "Sau khi nộp hồ sơ, trong bao lâu thì hộ kinh doanh sẽ được cấp giấy chứng nhận đăng ký thuế?"
+  },
+  {
+    "id": 1367,
+    "question": "Khi hóa đơn điện tử có sai sót thì cần phải xử lý như thế nào?"
+  },
+  {
+    "id": 1368,
+    "question": "Để giải quyết tranh chấp bằng Trọng tài thương mại thì cần đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 1369,
+    "question": "Kích thước tối đa của biển hiệu quảng cáo đối với cá nhân kinh doanh được quy định như thế nào?"
+  },
+  {
+    "id": 1370,
+    "question": "Một cá nhân đăng ký kinh doanh nhiều hơn một hộ kinh doanh thì bị xử phạt bao nhiêu tiền?"
+  },
+  {
+    "id": 1371,
+    "question": "Để xin cấp giấy phép xây dựng công trình quảng cáo ngoài trời thì cần chuẩn bị hồ sơ gồm những giấy tờ gì?"
+  },
+  {
+    "id": 1372,
+    "question": "Thời hạn hiệu lực của Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm là bao lâu?"
+  },
+  {
+    "id": 1373,
+    "question": "Việc vi phạm các quy định về tài khoản kế toán sẽ bị xử phạt như thế nào?"
+  },
+  {
+    "id": 1374,
+    "question": "Trong trường hợp bên bán giao hàng trước thời hạn đã thỏa thuận, bên mua có quyền từ chối nhận hàng hay không?"
+  },
+  {
+    "id": 1375,
+    "question": "Để chào bán trái phiếu ra thị trường quốc tế, doanh nghiệp trong nước cần đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 1376,
+    "question": "Công ty cổ phần có được phép lưu giữ sổ đăng ký cổ đông dưới dạng dữ liệu điện tử không?"
+  },
+  {
+    "id": 1377,
+    "question": "Việc cấp đổi, thu hồi chứng nhận và tổ chức quan trắc, đánh giá sự phù hợp của sản phẩm với tiêu chí Nhãn sinh thái Việt Nam được quy định như thế nào?"
+  },
+  {
+    "id": 1378,
+    "question": "Hồ sơ xin cấp Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 1379,
+    "question": "Việc tham vấn thị trường trong mua sắm gói thầu theo Hiệp định CPTPP được quy định như thế nào?"
+  },
+  {
+    "id": 1380,
+    "question": "Khi dùng hàng hóa để khuyến mại, quảng cáo thì có bắt buộc phải lập hóa đơn hay không?"
+  },
+  {
+    "id": 1381,
+    "question": "Đối với gói thầu mua sắm theo Hiệp định CPTPP, nguyên tắc thanh toán cho loại hợp đồng theo đơn giá cố định được quy định như thế nào?"
+  },
+  {
+    "id": 1382,
+    "question": "Người từng là thành viên Hội đồng quản trị trong 05 năm liền trước có được bổ nhiệm làm thành viên độc lập Hội đồng quản trị không?"
+  },
+  {
+    "id": 1383,
+    "question": "Khi chuyển người lao động sang làm công việc khác thì có cần phải được sự đồng ý của người lao động không?"
+  },
+  {
+    "id": 1384,
+    "question": "Việc sử dụng lao động chưa thành niên cần tuân thủ những nguyên tắc nào?"
+  },
+  {
+    "id": 1385,
+    "question": "Nội dung của biên bản giao nhận tài sản góp vốn bao gồm những gì?"
+  },
+  {
+    "id": 1386,
+    "question": "Thành viên góp vốn trong công ty hợp danh có thể đảm nhiệm chức vụ giám đốc công ty được không?"
+  },
+  {
+    "id": 1387,
+    "question": "Thời hạn để cơ quan quản lý công trình thủy lợi cho ý kiến phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường đối với dự án đầu tư có hoạt động xả nước thải vào công trình thủy lợi là bao lâu?"
+  },
+  {
+    "id": 1388,
+    "question": "Để chào bán cổ phiếu lần đầu ra công chúng, công ty cổ phần có bắt buộc phải có mức vốn điều lệ đã góp từ 30 tỷ đồng trở lên không?"
+  },
+  {
+    "id": 1389,
+    "question": "Việc sử dụng loa để quảng cáo gần trường học có được phép không?"
+  },
+  {
+    "id": 1390,
+    "question": "Cơ quan nào có thẩm quyền cấp giấy phép xây dựng cho công trình quảng cáo ngoài trời?"
+  },
+  {
+    "id": 1391,
+    "question": "Đối với Công ty TNHH một thành viên do tổ chức làm chủ sở hữu, ai sẽ là người đại diện theo pháp luật của công ty?"
+  },
+  {
+    "id": 1392,
+    "question": "Quy định về việc thuê đất và cấp giấy phép xây dựng trong cụm công nghiệp như thế nào?"
+  },
+  {
+    "id": 1393,
+    "question": "Sau khi có quyết định giải thể doanh nghiệp, doanh nghiệp và người quản lý bị cấm thực hiện những hoạt động nào?"
+  },
+  {
+    "id": 1394,
+    "question": "Nếu doanh nghiệp xã hội chấm dứt mục tiêu xã hội đã cam kết trước thời hạn thì có phải hoàn trả lại các ưu đãi đã nhận không?"
+  },
+  {
+    "id": 1395,
+    "question": "Việc công ty TNHH mua lại phần vốn góp với giá thấp hơn giá thị trường có đúng quy định pháp luật không?"
+  },
+  {
+    "id": 1396,
+    "question": "Thời hạn để nhận được kết quả cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế là bao lâu?"
+  },
+  {
+    "id": 1397,
+    "question": "Lao động nữ có được quay trở lại làm việc khi chưa hết thời gian nghỉ thai sản không?"
+  },
+  {
+    "id": 1398,
+    "question": "Một bản hợp đồng lao động cần phải bao gồm những nội dung chính nào?"
+  },
+  {
+    "id": 1399,
+    "question": "Khi chưa được công nhận hạng cơ sở lưu trú du lịch, cơ sở lưu trú du lịch có được sử dụng hình ảnh ngôi sao để quảng cáo không?"
+  },
+  {
+    "id": 1400,
+    "question": "Chủ tịch Hội đồng quản trị của công ty cổ phần có được kiêm nhiệm chức danh Giám đốc hoặc Tổng giám đốc không?"
+  },
+  {
+    "id": 1401,
+    "question": "Quy định về tính mới của kiểu dáng công nghiệp hiện nay như thế nào?"
+  },
+  {
+    "id": 1402,
+    "question": "Cơ quan nào có thẩm quyền cho phép doanh nghiệp cho thuê lại lao động được rút tiền ký quỹ?"
+  },
+  {
+    "id": 1403,
+    "question": "Đối với người lao động hưởng lương theo sản phẩm thì tiền lương làm thêm giờ được tính như thế nào?"
+  },
+  {
+    "id": 1404,
+    "question": "Doanh nghiệp sẽ bị xử phạt như thế nào nếu sử dụng lao động chưa thành niên mà không có sự đồng ý của cha mẹ hoặc người giám hộ?"
+  },
+  {
+    "id": 1405,
+    "question": "Thành viên công ty TNHH hai thành viên trở lên có được phép góp vốn bằng tài sản khác với tài sản đã cam kết trước đó không?"
+  },
+  {
+    "id": 1406,
+    "question": "Trong những trường hợp nào doanh nghiệp được cấp lại giấy chứng nhận đăng ký hoạt động bán hàng đa cấp?"
+  },
+  {
+    "id": 1407,
+    "question": "Việc không ghi tên thương nhân đầu mối trên biển hiệu của cửa hàng bán lẻ xăng dầu sẽ bị xử phạt bao nhiêu tiền?"
+  },
+  {
+    "id": 1408,
+    "question": "Kế toán trưởng của các đơn vị kế toán có trình độ chuyên môn nghiệp vụ từ đại học trở lên cần đáp ứng những tiêu chuẩn và điều kiện gì?"
+  },
+  {
+    "id": 1409,
+    "question": "Chứng từ kế toán có bị tẩy xóa, sửa chữa thì có còn giá trị thanh toán hay không?"
+  },
+  {
+    "id": 1410,
+    "question": "Việc tiến hành thủ tục kiểm tra, giám sát hải quan được thực hiện theo những nguyên tắc nào?"
+  },
+  {
+    "id": 1411,
+    "question": "Kiểm toán viên hành nghề có được ký báo cáo kiểm toán cho một công ty trong nhiều năm liên tục không?"
+  },
+  {
+    "id": 1412,
+    "question": "Tổ chức hành nghề kiến trúc có quyền yêu cầu chủ đầu tư thực hiện đúng theo thiết kế kiến trúc đã được duyệt không?"
+  },
+  {
+    "id": 1413,
+    "question": "Khi nhận được yêu cầu thương lượng tập thể, công ty có được phép từ chối không?"
+  },
+  {
+    "id": 1414,
+    "question": "Cơ quan nào có thẩm quyền ra quyết định tạm dừng thi công công trình xây dựng khi có vi phạm hành chính trong hoạt động xây dựng?"
+  },
+  {
+    "id": 1415,
+    "question": "Thương nhân kinh doanh dịch vụ logistics được miễn trách nhiệm đối với những tổn thất về hàng hóa trong những trường hợp nào?"
+  },
+  {
+    "id": 1416,
+    "question": "Để đề nghị công nhận khu du lịch cấp tỉnh thì hồ sơ cần bao gồm những giấy tờ, tài liệu gì?"
+  },
+  {
+    "id": 1417,
+    "question": "Thời hiệu để xử lý kỷ luật sa thải đối với người lao động cố ý gây thương tích cho cấp trên là bao lâu?"
+  },
+  {
+    "id": 1418,
+    "question": "Khi xả thải 200 cm3 nước thải chăn nuôi thì có bắt buộc phải xử lý trước khi thải ra môi trường không?"
+  },
+  {
+    "id": 1419,
+    "question": "Người sử dụng lao động có được quyền đơn phương chấm dứt hợp đồng lao động nếu người lao động không đồng ý chuyển sang làm công việc khác không?"
+  },
+  {
+    "id": 1420,
+    "question": "Giám đốc công ty cổ phần có được kiêm nhiệm vị trí kế toán trưởng không?"
+  },
+  {
+    "id": 1421,
+    "question": "Người lao động chưa thành niên mới 14 tuổi có được làm công việc phục vụ không?"
+  },
+  {
+    "id": 1422,
+    "question": "Việc bán rượu, bia thông qua máy bán hàng tự động có bị xử phạt không?"
+  },
+  {
+    "id": 1423,
+    "question": "Quy định về phạm vi bảo lãnh tín dụng dành cho doanh nghiệp nhỏ và vừa hiện nay như thế nào?"
+  },
+  {
+    "id": 1424,
+    "question": "Tổ chức được Nhà nước cho thuê đất và đã trả tiền thuê đất một lần cho toàn bộ thời gian thuê thì có được dùng quyền sử dụng đất để góp vốn không?"
+  },
+  {
+    "id": 1425,
+    "question": "Việc hỗ trợ lãi suất từ ngân sách nhà nước đối với các khoản vay của doanh nghiệp, hợp tác xã và hộ kinh doanh được thực hiện theo nguyên tắc nào?"
+  },
+  {
+    "id": 1426,
+    "question": "Trong lĩnh vực an toàn thực phẩm, những hành vi nào bị nghiêm cấm?"
+  },
+  {
+    "id": 1427,
+    "question": "Tôi là nhà thầu xây dựng, nếu bên giao thầu vi phạm hoặc không thực hiện đúng các cam kết trong hợp đồng thì tôi có được quyền dừng thi công không?"
+  },
+  {
+    "id": 1428,
+    "question": "Người sử dụng lao động có bắt buộc phải thực hiện quy chế dân chủ ở cơ sở tại nơi làm việc không?"
+  },
+  {
+    "id": 1429,
+    "question": "Trong hoạt động khuyến nông, đối tượng chuyển giao và đối tượng nhận chuyển giao công nghệ trong nông nghiệp bao gồm những ai?"
+  },
+  {
+    "id": 1430,
+    "question": "Thủ tục hợp pháp hóa lãnh sự tại Bộ Ngoại giao được thực hiện theo trình tự như thế nào?"
+  },
+  {
+    "id": 1431,
+    "question": "Doanh nghiệp có được quyền đơn phương chấm dứt hợp đồng lao động đối với người lao động tự ý bỏ việc không?"
+  },
+  {
+    "id": 1432,
+    "question": "Quy định về việc thực hiện kết luận thanh tra, văn bản chỉ đạo, yêu cầu, kiến nghị và quyết định xử lý sai phạm về hành chính, kinh tế như thế nào?"
+  },
+  {
+    "id": 1433,
+    "question": "Khi chấm dứt hoạt động bán hàng đa cấp, doanh nghiệp bán hàng đa cấp cần thực hiện những trách nhiệm gì?"
+  },
+  {
+    "id": 1434,
+    "question": "Để đề nghị cấp giấy phép xây dựng công trình quảng cáo thì cần chuẩn bị những tài liệu gì trong hồ sơ?"
+  },
+  {
+    "id": 1435,
+    "question": "Tổ chức hành nghề kiến trúc có quyền từ chối những yêu cầu nằm ngoài hợp đồng và nhiệm vụ thiết kế kiến trúc với chủ đầu tư không?"
+  },
+  {
+    "id": 1436,
+    "question": "Quy định của pháp luật về việc nghiệm thu công trình xây dựng như thế nào?"
+  },
+  {
+    "id": 1437,
+    "question": "Khi làm thủ tục gia hạn giấy phép lao động cho người nước ngoài thì có cần nộp hộ chiếu không?"
+  },
+  {
+    "id": 1438,
+    "question": "Sau bao nhiêu ngày kể từ khi cơ quan nhà nước có thẩm quyền nhận đủ hồ sơ đăng ký thì nội quy lao động bắt đầu có hiệu lực?"
+  },
+  {
+    "id": 1439,
+    "question": "Trong những trường hợp nào người sử dụng lao động được phép tổ chức cho người lao động làm thêm trên 200 giờ một năm?"
+  },
+  {
+    "id": 1440,
+    "question": "Người sử dụng lao động có được quyền sắp xếp ngày nghỉ hằng tuần vào ngày khác thay vì ngày Chủ nhật không?"
+  },
+  {
+    "id": 1441,
+    "question": "Trong trường hợp mẹ kế mất, người lao động có được nghỉ việc mà vẫn hưởng nguyên lương không?"
+  },
+  {
+    "id": 1442,
+    "question": "Chủ doanh nghiệp tư nhân phải thông báo thay đổi nội dung giấy chứng nhận đăng ký doanh nghiệp trong những trường hợp nào?"
+  },
+  {
+    "id": 1443,
+    "question": "Việc công bố công khai trên các phương tiện thông tin đại chúng về việc xử phạt vi phạm hành chính đối với cá nhân, tổ chức được quy định trong những trường hợp nào?"
+  },
+  {
+    "id": 1444,
+    "question": "Mức hỗ trợ, thời gian hỗ trợ, phương thức chi trả và hồ sơ đề nghị hỗ trợ được quy định như thế nào?"
+  },
+  {
+    "id": 1445,
+    "question": "Việc sử dụng hình ảnh cá nhân để quảng cáo trái quy định sẽ bị xử phạt như thế nào?"
+  },
+  {
+    "id": 1446,
+    "question": "Cần có bao nhiêu năm kinh nghiệm làm kế toán thì đủ điều kiện để làm công tác kiểm toán nội bộ?"
+  },
+  {
+    "id": 1447,
+    "question": "Bao bì đựng chất thải nguy hại cần đáp ứng những yêu cầu, tiêu chuẩn nào trước khi đưa vào sử dụng?"
+  },
+  {
+    "id": 1448,
+    "question": "Khi thành viên của công ty TNHH chết thì người thừa kế của thành viên đó có trở thành thành viên của công ty không?"
+  },
+  {
+    "id": 1449,
+    "question": "Số lượng thành viên tối đa của Hội đồng quản trị trong công ty cổ phần là bao nhiêu?"
+  },
+  {
+    "id": 1450,
+    "question": "Thủ tục đăng ký thuế trực tiếp đối với nhà cung cấp nước ngoài được thực hiện như thế nào?"
+  },
+  {
+    "id": 1451,
+    "question": "Khi thay đổi cơ cấu, công ty có được phép cho thôi việc số lượng lớn nhân viên không?"
+  },
+  {
+    "id": 1452,
+    "question": "Việc giám định tổn thất đối với hợp đồng bảo hiểm tài sản và hợp đồng bảo hiểm thiệt hại được thực hiện như thế nào?"
+  },
+  {
+    "id": 1453,
+    "question": "Quy định về quyền quảng cáo thương mại hiện nay như thế nào?"
+  },
+  {
+    "id": 1454,
+    "question": "Trong những trường hợp nào hộ gia đình phải xin phép cơ quan nhà nước có thẩm quyền khi chuyển mục đích sử dụng đất?"
+  },
+  {
+    "id": 1455,
+    "question": "Trong hoạt động cho thuê lại lao động, đơn vị nào có trách nhiệm trả lương cho người lao động thuê lại?"
+  },
+  {
+    "id": 1456,
+    "question": "Trong những trường hợp nào thì hợp đồng lao động sẽ bị Tòa án tuyên bố vô hiệu?"
+  },
+  {
+    "id": 1457,
+    "question": "Khi giao kết hợp đồng trên môi trường mạng, trách nhiệm cung cấp thông tin được quy định như thế nào?"
+  },
+  {
+    "id": 1458,
+    "question": "Quy định về việc báo cáo thực hiện kết luận thanh tra như thế nào?"
+  },
+  {
+    "id": 1459,
+    "question": "Theo quy định của Luật Doanh nghiệp, tổ chức có được phép làm thành viên hợp danh khi thành lập công ty hợp danh hay không?"
+  },
+  {
+    "id": 1460,
+    "question": "Việc chào bán trái phiếu không chuyển đổi không kèm chứng quyền và trái phiếu kèm chứng quyền của công ty không phải là công ty đại chúng được quy định như thế nào?"
+  },
+  {
+    "id": 1461,
+    "question": "Khi hết thời hạn tạm hoãn thực hiện hợp đồng lao động, người sử dụng lao động có quyền từ chối nhận lại người lao động không?"
+  },
+  {
+    "id": 1462,
+    "question": "Việc vi phạm nghĩa vụ cung cấp thông tin trong hợp đồng bảo hiểm sẽ dẫn đến trách nhiệm và hậu quả pháp lý như thế nào?"
+  },
+  {
+    "id": 1463,
+    "question": "Những trường hợp nào bị coi là đình công bất hợp pháp?"
+  },
+  {
+    "id": 1464,
+    "question": "Quy định về biện pháp tự vệ đặc biệt đối với hàng hóa nhập khẩu vào Việt Nam như thế nào?"
+  },
+  {
+    "id": 1465,
+    "question": "Thương nhân có quyền trưng bày, giới thiệu hàng hóa, dịch vụ như thế nào theo quy định của pháp luật?"
+  },
+  {
+    "id": 1466,
+    "question": "Thời gian xin cấp Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke là bao lâu?"
+  },
+  {
+    "id": 1467,
+    "question": "Khi đặt tên cho cơ sở giáo dục có vốn đầu tư nước ngoài thì cần phải đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 1468,
+    "question": "Tôi cần nộp hồ sơ đề nghị cấp giấy phép xây dựng công trình quảng cáo tại cơ quan nào?"
+  },
+  {
+    "id": 1469,
+    "question": "Cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung không có công trình, thiết bị xử lý nước thải thì bị xử phạt bao nhiêu tiền?"
+  },
+  {
+    "id": 1470,
+    "question": "Có những phương thức nào để chuyển đổi công ty trách nhiệm hữu hạn thành công ty cổ phần?"
+  },
+  {
+    "id": 1471,
+    "question": "Việc ký kết hợp đồng mua sắm gói thầu với nhà thầu được lựa chọn trong Hiệp định CPTPP được quy định như thế nào?"
+  },
+  {
+    "id": 1472,
+    "question": "Quy định về hàng hóa được mua bán, trao đổi tại chợ biên giới như thế nào?"
+  },
+  {
+    "id": 1473,
+    "question": "Thương nhân nước ngoài có được phép trực tiếp tổ chức hội chợ, triển lãm thương mại tại Việt Nam hay không?"
+  },
+  {
+    "id": 1474,
+    "question": "Nhà đầu tư nước ngoài có thể đầu tư vào thị trường chứng khoán Việt Nam thông qua những hình thức nào?"
+  },
+  {
+    "id": 1475,
+    "question": "Khi xử lý kỷ luật người lao động, những hành vi nào là bị cấm?"
+  },
+  {
+    "id": 1476,
+    "question": "Số lượng thành viên trong công ty hợp danh có bị giới hạn hay không?"
+  },
+  {
+    "id": 1477,
+    "question": "Khi đăng ký thành lập công ty, các cổ đông sáng lập phải đăng ký mua ít nhất bao nhiêu phần trăm tổng số cổ phần phổ thông được quyền chào bán?"
+  },
+  {
+    "id": 1478,
+    "question": "Nhân viên sale bất động sản có được phép gọi điện thoại quảng cáo sau 17 giờ hàng ngày không?"
+  },
+  {
+    "id": 1479,
+    "question": "Trong những trường hợp nào thì giấy phép kinh doanh dịch vụ lữ hành bị thu hồi?"
+  },
+  {
+    "id": 1480,
+    "question": "Nhân viên phục vụ xe khách thu tiền vé cao hơn giá niêm yết thì bị xử phạt bao nhiêu tiền?"
+  },
+  {
+    "id": 1481,
+    "question": "Việc áp dụng quy chuẩn kỹ thuật môi trường và sử dụng các thông số môi trường để xác định hành vi vi phạm hành chính trong lĩnh vực bảo vệ môi trường được quy định như thế nào?"
+  },
+  {
+    "id": 1482,
+    "question": "Việc thanh toán hối phiếu nhận nợ được coi là hoàn thành trong những trường hợp nào?"
+  },
+  {
+    "id": 1483,
+    "question": "Những đối tượng nào được xác định là nhà đầu tư chứng khoán chuyên nghiệp?"
+  },
+  {
+    "id": 1484,
+    "question": "Những hành vi nào bị coi là xâm phạm quyền của chủ sở hữu sáng chế, kiểu dáng công nghiệp và thiết kế bố trí?"
+  },
+  {
+    "id": 1485,
+    "question": "Màn hình quảng cáo ngoài trời có kích thước bao nhiêu thì phải xin giấy phép xây dựng?"
+  },
+  {
+    "id": 1486,
+    "question": "Khi chuyển mục đích sử dụng đất từ đất trồng lúa sang đất làm muối thì có phải xin phép cơ quan nhà nước có thẩm quyền không?"
+  },
+  {
+    "id": 1487,
+    "question": "Cơ quan nào có thẩm quyền kiểm tra chất lượng cơ sở lưu trú du lịch?"
+  },
+  {
+    "id": 1488,
+    "question": "Theo quy định của Luật Doanh nghiệp, Kiểm soát viên của công ty cổ phần có bắt buộc phải có bằng tốt nghiệp đại học không?"
+  },
+  {
+    "id": 1489,
+    "question": "Việc xuất hóa đơn cho công đoàn cơ sở mà không có mã số thuế thì có được coi là hợp lệ không?"
+  },
+  {
+    "id": 1490,
+    "question": "Chủ sở hữu là cá nhân của công ty TNHH một thành viên có những quyền hạn gì?"
+  },
+  {
+    "id": 1491,
+    "question": "Công ty sa thải nhân viên với lý do kinh doanh không hiệu quả thì có đúng quy định pháp luật không?"
+  },
+  {
+    "id": 1492,
+    "question": "Công ty có vốn điều lệ đã góp trên 100 tỷ đồng có được coi là nhà đầu tư chứng khoán chuyên nghiệp không?"
+  },
+  {
+    "id": 1493,
+    "question": "Việc không nêu địa điểm thực hiện khuyến mại thì bị phạt bao nhiêu tiền?"
+  },
+  {
+    "id": 1494,
+    "question": "Trong trường hợp chủ doanh nghiệp tư nhân thuê người khác làm Giám đốc thì chủ doanh nghiệp có còn phải chịu trách nhiệm về các hoạt động kinh doanh của doanh nghiệp hay không?"
+  },
+  {
+    "id": 1495,
+    "question": "Việc sử dụng giấy phép kinh doanh dịch vụ karaoke của cơ sở khác để kinh doanh cho quán mình thì bị xử phạt bao nhiêu?"
+  },
+  {
+    "id": 1496,
+    "question": "Vi phạm quy định về bảo vệ môi trường trong sản xuất nông nghiệp thì bị xử phạt như thế nào?"
+  },
+  {
+    "id": 1497,
+    "question": "Thủ tục gia hạn giấy phép xây dựng được quy định như thế nào?"
+  },
+  {
+    "id": 1498,
+    "question": "Quy định về hợp đồng dịch vụ quảng cáo thương mại hiện nay như thế nào?"
+  },
+  {
+    "id": 1499,
+    "question": "Pháp luật quy định như thế nào về nguyên tắc xác định số lợi bất hợp pháp có được từ việc thực hiện hành vi vi phạm hành chính?"
+  },
+  {
+    "id": 1500,
+    "question": "Để kinh doanh dịch vụ logistics thì cần đáp ứng những điều kiện gì?"
+  }
+]

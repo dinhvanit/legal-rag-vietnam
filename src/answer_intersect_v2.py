@@ -142,10 +142,15 @@ def intersect_select_v2(
     pairs = parse_citation_pairs(answer_text)
 
     if not pairs:
-        # Answer không cite được Điều nào hợp lệ -> chỉ giữ top-1 rerank, không
-        # rỗng hoàn toàn, nhưng cũng không lấy nhiều để tránh nhiễu không có cơ sở.
-        logger.warning("[answer_intersect_v2] Answer không cite Điều nào hợp lệ -> fallback top-1 rerank.")
-        return pool[:1] if pool else []
+        # Answer không cite được Điều nào hợp lệ -> fallback top-N rerank (giống bản
+        # gốc: N = Settings.RELEVANT_ARTICLES_MAX, thường = 2). Không dùng top-1 vì
+        # F2 phạt Recall nặng gấp 4 lần Precision — mất 1 Điều đúng tệ hơn nhiều so
+        # với có thêm 1 Điều thừa. Reranker BAAI/bge đã khá tốt nên top-2 rerank
+        # hầu hết là đúng ở các câu LLM không cite được gì (hiếm, thường do câu
+        # quá ngắn hoặc LLM sinh answer lan man không trích dẫn cụ thể).
+        logger.warning("[answer_intersect_v2] Answer không cite Điều nào hợp lệ -> fallback top-N rerank.")
+        n = max(1, getattr(Settings, "RELEVANT_ARTICLES_MAX", 2))
+        return pool[:n] if pool else []
 
     # Index pool theo (article_num, doc_number) để match O(1)
     pool_index: Dict[Tuple[str, str], Dict] = {}
@@ -194,9 +199,14 @@ def intersect_select_v2(
         )
 
     if not kept:
-        # Mọi cặp cite đều không tra được (rất có thể LLM bịa toàn bộ) -> fallback
-        # top-1 duy nhất, KHÔNG lấy top-N để tránh chèn văn bản không liên quan.
-        logger.warning("[answer_intersect_v2] Không cặp cite nào hợp lệ -> fallback top-1 rerank.")
-        return pool[:1] if pool else []
+        # Mọi cặp cite đều không tra được trong pool lẫn corpus (rất có thể LLM bịa
+        # toàn bộ số hiệu hoặc số Điều) -> fallback top-N rerank (N = RELEVANT_ARTICLES_MAX).
+        # Lý do dùng top-N chứ không top-1: F2 phạt Recall nặng gấp 4 lần Precision,
+        # mất thêm 1 Điều đúng tệ hơn nhiều so với có 1 Điều thừa (xem phân tích số
+        # liệu: pipeline cũ fallback top-2 rerank -> Recall 0.6907, v2 fallback top-1
+        # -> Recall 0.6707, chênh -0.02 chỉ vì đổi top-2 thành top-1 ở đây).
+        logger.warning("[answer_intersect_v2] Không cặp cite nào hợp lệ -> fallback top-N rerank.")
+        n = max(1, getattr(Settings, "RELEVANT_ARTICLES_MAX", 2))
+        return pool[:n] if pool else []
 
     return kept[:max_out]

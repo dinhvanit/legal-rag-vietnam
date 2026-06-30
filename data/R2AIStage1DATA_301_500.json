@@ -1,0 +1,802 @@
+[
+  {
+    "id": 301,
+    "question": "Khi muốn đăng ký hộ kinh doanh, chủ hộ có thể lựa chọn những phương thức đăng ký nào?"
+  },
+  {
+    "id": 302,
+    "question": "Khi đăng ký thành lập hộ kinh doanh, tôi cần lựa chọn ngành kinh tế cấp mấy để ghi làm ngành nghề kinh doanh chính?"
+  },
+  {
+    "id": 303,
+    "question": "Hộ kinh doanh có thời hạn bao lâu để sửa đổi, bổ sung hồ sơ đăng ký sau khi nhận thông báo từ cơ quan đăng ký kinh doanh?"
+  },
+  {
+    "id": 304,
+    "question": "Hồ sơ đăng ký thành lập hộ kinh doanh bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 305,
+    "question": "Khi đề nghị chấp thuận việc sử dụng tác phẩm mà Nhà nước là đại diện quản lý quyền tác giả, quyền liên quan, công ty cần chuẩn bị hồ sơ gồm những gì?"
+  },
+  {
+    "id": 306,
+    "question": "Khi quán cà phê sử dụng bản ghi âm, ghi hình nhằm mục đích thương mại thì có nghĩa vụ gì đối với chủ sở hữu quyền tác giả?"
+  },
+  {
+    "id": 307,
+    "question": "Công ty sử dụng bản ghi âm, ghi hình đã công bố cho mục đích thương mại trong kinh doanh thì phải trả tiền bản quyền như thế nào?"
+  },
+  {
+    "id": 308,
+    "question": "Khi nộp hồ sơ đăng ký hộ kinh doanh, tôi có thể thanh toán lệ phí bằng những cách nào?"
+  },
+  {
+    "id": 309,
+    "question": "Khi thực hiện bảo hành sản phẩm cho khách hàng, công ty cần công bố công khai những nội dung gì trong chính sách bảo hành?"
+  },
+  {
+    "id": 310,
+    "question": "Khi công ty thuê bên thứ ba để quản lý dữ liệu khách hàng thì cần phải làm gì để đúng luật?"
+  },
+  {
+    "id": 311,
+    "question": "Công ty phải làm gì nếu muốn thay đổi mục đích sử dụng thông tin của khách hàng đã thông báo trước đó?"
+  },
+  {
+    "id": 312,
+    "question": "Khi thu thập thông tin khách hàng, công ty cần xây dựng quy tắc bảo vệ thông tin gồm những nội dung gì?"
+  },
+  {
+    "id": 313,
+    "question": "Trong trường hợp bị xâm phạm quyền tác giả, tổn thất về cơ hội kinh doanh được xác định là gì?"
+  },
+  {
+    "id": 314,
+    "question": "Khi nhận được khiếu nại từ khách hàng, công ty phải thông báo lại cho họ trong thời hạn bao lâu?"
+  },
+  {
+    "id": 315,
+    "question": "Khi hệ thống thông tin bị tấn công gây nguy cơ mất an toàn dữ liệu khách hàng, công ty phải thông báo cho cơ quan quản lý trong thời hạn bao lâu?"
+  },
+  {
+    "id": 316,
+    "question": "Khi công ty thuê người có ảnh hưởng để quảng bá sản phẩm, người này có trách nhiệm gì với người tiêu dùng?"
+  },
+  {
+    "id": 317,
+    "question": "Khi phát hiện sản phẩm có khuyết tật nhóm A, công ty cần thực hiện những trách nhiệm thu hồi nào?"
+  },
+  {
+    "id": 318,
+    "question": "Khi đơn đăng ký sở hữu công nghiệp của công ty bị phản đối, công ty có bao nhiêu thời gian để gửi văn bản trả lời cho Cục Sở hữu trí tuệ?"
+  },
+  {
+    "id": 319,
+    "question": "Khi Cục Sở hữu trí tuệ ra quyết định cấp văn bằng bảo hộ thì trong thời hạn bao lâu thông tin này sẽ được công bố trên Công báo sở hữu công nghiệp?"
+  },
+  {
+    "id": 320,
+    "question": "Khi Cục Sở hữu trí tuệ yêu cầu xác minh thông tin trong đơn đăng ký nhãn hiệu thì công ty phải nộp tài liệu làm rõ trong thời hạn bao lâu?"
+  },
+  {
+    "id": 321,
+    "question": "Khi bán hàng từ xa, công ty cần cung cấp những thông tin gì cho người tiêu dùng?"
+  },
+  {
+    "id": 322,
+    "question": "Khi khách hàng mua hàng, công ty có nghĩa vụ phải cung cấp những loại giấy tờ, chứng từ nào liên quan đến giao dịch?"
+  },
+  {
+    "id": 323,
+    "question": "Những loại dấu hiệu nào không được bảo hộ làm nhãn hiệu cho sản phẩm của công ty?"
+  },
+  {
+    "id": 324,
+    "question": "Khi nộp hồ sơ xác lập quyền sở hữu công nghiệp, công ty phải làm gì đối với các bản dịch tiếng Việt của tài liệu nước ngoài?"
+  },
+  {
+    "id": 325,
+    "question": "Khi cho nhân viên đi bán hàng tận cửa, công ty có trách nhiệm gì đối với hoạt động bán hàng của nhân viên đó?"
+  },
+  {
+    "id": 326,
+    "question": "Khi Cục Sở hữu trí tuệ yêu cầu xác minh thông tin trong đơn đăng ký kiểu dáng công nghiệp thì công ty phải nộp tài liệu làm rõ trong thời hạn bao lâu?"
+  },
+  {
+    "id": 327,
+    "question": "Quỹ bảo lãnh tín dụng có thể bảo lãnh tối đa bao nhiêu phần trăm giá trị khoản vay cho doanh nghiệp nhỏ và vừa?"
+  },
+  {
+    "id": 328,
+    "question": "Khi trả lương theo sản phẩm hoặc lương khoán, công ty cần đảm bảo mức lương quy đổi như thế nào để không vi phạm luật?"
+  },
+  {
+    "id": 329,
+    "question": "Để được Quỹ bảo lãnh tín dụng xem xét cấp bảo lãnh, công ty cần đáp ứng những điều kiện gì?"
+  },
+  {
+    "id": 330,
+    "question": "Thời hạn cấp bảo lãnh tín dụng của Quỹ bảo lãnh tín dụng cho doanh nghiệp được xác định như thế nào?"
+  },
+  {
+    "id": 331,
+    "question": "Khi công ty xin bảo lãnh tín dụng từ Quỹ bảo lãnh tín dụng cho SME thì đồng tiền bảo lãnh là loại tiền nào?"
+  },
+  {
+    "id": 332,
+    "question": "Những doanh nghiệp nhỏ và vừa nào sẽ được ưu tiên xem xét cấp bảo lãnh tín dụng?"
+  },
+  {
+    "id": 333,
+    "question": "Khi đề nghị bảo lãnh tín dụng, công ty phải trả những loại chi phí nào cho Quỹ bảo lãnh tín dụng?"
+  },
+  {
+    "id": 334,
+    "question": "Hồ sơ đề nghị bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 335,
+    "question": "Khi công ty nộp đủ hồ sơ xin bảo lãnh tín dụng hợp lệ thì bên bảo lãnh phải hoàn thành xem xét trong thời hạn bao lâu?"
+  },
+  {
+    "id": 336,
+    "question": "Khi được bảo lãnh tín dụng, công ty có nghĩa vụ gì về việc cung cấp thông tin và tài liệu cho bên bảo lãnh?"
+  },
+  {
+    "id": 337,
+    "question": "Hợp đồng bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa cần phải bao gồm những nội dung cơ bản nào?"
+  },
+  {
+    "id": 338,
+    "question": "Một chứng thư bảo lãnh vay vốn cho doanh nghiệp nhỏ và vừa cần phải có những nội dung cơ bản nào?"
+  },
+  {
+    "id": 339,
+    "question": "Khi công ty không trả được nợ vay cho ngân hàng, quy trình thực hiện cam kết bảo lãnh tín dụng diễn ra như thế nào?"
+  },
+  {
+    "id": 340,
+    "question": "Công ty có chi nhánh hoạt động ở nhiều vùng khác nhau thì áp dụng mức lương tối thiểu như thế nào?"
+  },
+  {
+    "id": 341,
+    "question": "Số tiền mà bên bảo lãnh trả nợ thay cho doanh nghiệp bao gồm những khoản nào?"
+  },
+  {
+    "id": 342,
+    "question": "Khi công ty tổ chức chương trình khuyến mại thì cần phải làm gì với cơ quan quản lý nhà nước về thương mại?"
+  },
+  {
+    "id": 343,
+    "question": "Khi Quỹ bảo lãnh tín dụng trả nợ thay cho công ty, công ty phải hoàn trả cho Quỹ những khoản chi phí nào?"
+  },
+  {
+    "id": 344,
+    "question": "Văn phòng đại diện của công ty có được trực tiếp thực hiện hoạt động quảng cáo thương mại không?"
+  },
+  {
+    "id": 345,
+    "question": "Công ty không kinh doanh dịch vụ hội chợ có được tổ chức cho doanh nghiệp khác tham gia triển lãm ở nước ngoài không?"
+  },
+  {
+    "id": 346,
+    "question": "Những trường hợp nào thì nghĩa vụ bảo lãnh vay vốn của bên bảo lãnh được chấm dứt?"
+  },
+  {
+    "id": 347,
+    "question": "Khi thuê bên môi giới thương mại, công ty có những nghĩa vụ gì đối với bên môi giới?"
+  },
+  {
+    "id": 348,
+    "question": "Khi muốn tổ chức hội chợ triển lãm thương mại tại Việt Nam thì công ty phải đăng ký với cơ quan nào?"
+  },
+  {
+    "id": 349,
+    "question": "Trong trường hợp công ty và bên đại lý không thỏa thuận trước về mức thù lao thì sẽ được tính như thế nào?"
+  },
+  {
+    "id": 350,
+    "question": "Khi muốn chấm dứt hợp đồng đại lý mà không có thỏa thuận khác, công ty phải thông báo trước bao nhiêu ngày?"
+  },
+  {
+    "id": 351,
+    "question": "Khi làm đại lý bán hàng, công ty có nghĩa vụ gì trong việc bảo quản hàng hóa và chịu trách nhiệm về chất lượng?"
+  },
+  {
+    "id": 352,
+    "question": "Chi nhánh của thương nhân nước ngoài tại Việt Nam có nghĩa vụ gì về chế độ kế toán và báo cáo hoạt động?"
+  },
+  {
+    "id": 353,
+    "question": "Khi yêu cầu đặt cọc để bảo đảm thực hiện hợp đồng, số tiền tối đa công ty được quy định là bao nhiêu?"
+  },
+  {
+    "id": 354,
+    "question": "Một bộ hồ sơ mời thầu đầy đủ cần bao gồm những nội dung chính nào?"
+  },
+  {
+    "id": 355,
+    "question": "Công ty nhận gia công hàng hóa có thể nhận thù lao bằng những hình thức nào?"
+  },
+  {
+    "id": 356,
+    "question": "Trong hoạt động đại diện thương mại, bên đại diện có quyền yêu cầu thanh toán những khoản chi phí nào?"
+  },
+  {
+    "id": 357,
+    "question": "Một thông báo mời thầu cần phải bao gồm những nội dung chủ yếu nào?"
+  },
+  {
+    "id": 358,
+    "question": "Công ty thuê máy móc thiết bị từ đối tác thì có được cho bên thứ ba thuê lại không?"
+  },
+  {
+    "id": 359,
+    "question": "Khi kết thúc hợp đồng nhượng quyền thương mại, công ty nhận quyền có nghĩa vụ gì đối với nhãn hiệu và quyền sở hữu trí tuệ của bên nhượng quyền?"
+  },
+  {
+    "id": 360,
+    "question": "Trong hoạt động thương mại, công ty có thể áp dụng những loại chế tài nào khi đối tác vi phạm hợp đồng?"
+  },
+  {
+    "id": 361,
+    "question": "Trước khi thực hiện nhượng quyền thương mại thì công ty phải đăng ký với cơ quan nào?"
+  },
+  {
+    "id": 362,
+    "question": "Công ty có được yêu cầu đối tác trả tiền phạt vi phạm hợp đồng nếu hai bên không thỏa thuận điều này trong hợp đồng không?"
+  },
+  {
+    "id": 363,
+    "question": "Khi tham gia đấu thầu, công ty có thể thực hiện bảo đảm dự thầu dưới những hình thức nào?"
+  },
+  {
+    "id": 364,
+    "question": "Khi soạn thảo hợp đồng thương mại, công ty được thỏa thuận mức phạt vi phạm tối đa là bao nhiêu?"
+  },
+  {
+    "id": 365,
+    "question": "Khi công ty quyết định huỷ bỏ hợp đồng thương mại thì phải làm gì để tránh bị bồi thường thiệt hại?"
+  },
+  {
+    "id": 366,
+    "question": "Khi giao hàng cho đối tác, công ty bán hàng có nghĩa vụ phải giao kèm theo những chứng từ gì?"
+  },
+  {
+    "id": 367,
+    "question": "Trong những trường hợp nào hàng hóa xuất nhập khẩu của công ty bắt buộc phải có giấy chứng nhận xuất xứ?"
+  },
+  {
+    "id": 368,
+    "question": "Hàng hóa của công ty khi lưu thông trong nước có bắt buộc phải có nhãn hàng hóa không?"
+  },
+  {
+    "id": 369,
+    "question": "Nếu trong hợp đồng mua bán không thỏa thuận địa điểm giao hàng thì bên bán phải giao hàng ở đâu?"
+  },
+  {
+    "id": 370,
+    "question": "Trong trường hợp hợp đồng không thỏa thuận về thời hạn giao hàng thì bên bán phải giao hàng khi nào?"
+  },
+  {
+    "id": 371,
+    "question": "Những hành vi nào được coi là vi phạm pháp luật về thương mại trong hoạt động kinh doanh?"
+  },
+  {
+    "id": 372,
+    "question": "Khi hàng hóa mua bán có bảo hành thì bên bán phải chịu chi phí bảo hành như thế nào?"
+  },
+  {
+    "id": 373,
+    "question": "Khi giao hàng cho người vận chuyển mà không có ký mã hiệu rõ ràng thì công ty bán hàng phải thông báo những gì cho bên mua?"
+  },
+  {
+    "id": 374,
+    "question": "Trong trường hợp không có thỏa thuận khác, công ty mua hàng phải thanh toán cho bên bán vào thời điểm nào?"
+  },
+  {
+    "id": 375,
+    "question": "Nếu bên mua không kiểm tra hàng hóa trước khi giao theo thỏa thuận thì bên bán có quyền làm gì?"
+  },
+  {
+    "id": 376,
+    "question": "Khi hợp đồng không quy định địa điểm giao hàng cụ thể thì rủi ro hư hỏng hàng hóa được chuyển sang bên mua khi nào?"
+  },
+  {
+    "id": 377,
+    "question": "Trong trường hợp không có thỏa thuận khác, khi nào rủi ro về mất mát hàng hóa được chuyển sang cho bên mua?"
+  },
+  {
+    "id": 378,
+    "question": "Nếu thương nhân chưa đăng ký kinh doanh thì phải chịu trách nhiệm như thế nào về các hoạt động của mình?"
+  },
+  {
+    "id": 379,
+    "question": "Khi mua bán hàng hóa, thời điểm nào quyền sở hữu hàng hóa được chuyển từ bên bán sang bên mua?"
+  },
+  {
+    "id": 380,
+    "question": "Trong những trường hợp nào công ty mua hàng có quyền tạm ngừng thanh toán cho bên bán?"
+  },
+  {
+    "id": 381,
+    "question": "Trong trường hợp hợp đồng không ghi rõ thời hạn hoàn thành dịch vụ thì công ty phải căn cứ vào đâu để xác định thời hạn này?"
+  },
+  {
+    "id": 382,
+    "question": "Khi tổ chức chương trình khuyến mại, công ty có những nghĩa vụ cơ bản nào đối với khách hàng?"
+  },
+  {
+    "id": 383,
+    "question": "Nếu hàng hóa bị hư hỏng sau khi rủi ro đã chuyển sang bên mua thì bên mua có còn nghĩa vụ phải thanh toán tiền hàng không?"
+  },
+  {
+    "id": 384,
+    "question": "Thông tin về hoạt động đầu tư khởi nghiệp sáng tạo sử dụng ngân sách địa phương được công khai ở đâu?"
+  },
+  {
+    "id": 385,
+    "question": "Công ty cần thực hiện thông báo khuyến mại hàng hóa cho khách hàng bằng những cách nào?"
+  },
+  {
+    "id": 386,
+    "question": "Công ty muốn triển khai chương trình khuyến mại thì có những hình thức nào được pháp luật cho phép?"
+  },
+  {
+    "id": 387,
+    "question": "Thời hạn tối đa cho khoản đầu tư từ ngân sách địa phương vào doanh nghiệp khởi nghiệp sáng tạo là bao lâu?"
+  },
+  {
+    "id": 388,
+    "question": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo cần đáp ứng những tiêu chí nào để được nhận đầu tư từ tổ chức tài chính nhà nước của địa phương?"
+  },
+  {
+    "id": 389,
+    "question": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo có trách nhiệm gì khi nhận vốn đầu tư?"
+  },
+  {
+    "id": 390,
+    "question": "Khi thực hiện hoạt động đầu tư khởi nghiệp sáng tạo, công ty có trách nhiệm phải làm gì về ngành nghề kinh doanh?"
+  },
+  {
+    "id": 391,
+    "question": "Những đối tượng nào chịu sự điều chỉnh của Nghị định về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo?"
+  },
+  {
+    "id": 392,
+    "question": "Hồ sơ đề nghị cấp giấy xác nhận đủ điều kiện kinh doanh dịch vụ làm thủ tục về thuế gồm những gì?"
+  },
+  {
+    "id": 393,
+    "question": "Khi nhận đầu tư từ tổ chức tài chính nhà nước của địa phương, hạn mức vốn tối đa họ được góp vào công ty khởi nghiệp sáng tạo là bao nhiêu?"
+  },
+  {
+    "id": 394,
+    "question": "Khi thuê đại lý thuế, công ty có thể yêu cầu họ thực hiện những dịch vụ làm thủ tục thuế nào?"
+  },
+  {
+    "id": 395,
+    "question": "Thời hạn của một cuộc thanh tra thuế tại trụ sở công ty được tính từ thời điểm nào đến thời điểm nào?"
+  },
+  {
+    "id": 396,
+    "question": "Khi cơ quan thuế ra quyết định thanh tra, trong thời hạn bao lâu thì công ty phải được nhận quyết định này?"
+  },
+  {
+    "id": 397,
+    "question": "Quyết định cưỡng chế thi hành quyết định hành chính về quản lý thuế có hiệu lực trong bao lâu?"
+  },
+  {
+    "id": 398,
+    "question": "Những loại tài sản nào của doanh nghiệp không bị kê biên khi bị cưỡng chế thi hành quyết định quản lý thuế?"
+  },
+  {
+    "id": 399,
+    "question": "Nếu công ty khai thiếu số tiền thuế phải nộp thì sẽ bị phạt bao nhiêu phần trăm trên số tiền thuế thiếu đó?"
+  },
+  {
+    "id": 400,
+    "question": "Những hành vi nào được coi là vi phạm thủ tục thuế đối với doanh nghiệp?"
+  },
+  {
+    "id": 401,
+    "question": "Công ty phải làm gì nếu không đồng ý với kiến nghị về nghĩa vụ thuế của Kiểm toán nhà nước khi họ trực tiếp kiểm toán doanh nghiệp?"
+  },
+  {
+    "id": 402,
+    "question": "Nếu công ty tự phát hiện khai sai dẫn đến thiếu thuế và nộp đủ số tiền thuế trước khi cơ quan thuế công bố quyết định kiểm tra thì có bị xử phạt vi phạm hành chính không?"
+  },
+  {
+    "id": 403,
+    "question": "Khi không đồng ý với kết luận của Thanh tra nhà nước về nghĩa vụ thuế, công ty có quyền làm gì?"
+  },
+  {
+    "id": 404,
+    "question": "Khi đăng ký thuế trực tiếp với cơ quan thuế, công ty cần nộp hồ sơ tại cơ quan thuế nào?"
+  },
+  {
+    "id": 405,
+    "question": "Nếu công ty đăng ký thuế trực tiếp với cơ quan thuế thì hồ sơ cần chuẩn bị những gì?"
+  },
+  {
+    "id": 406,
+    "question": "Khi công ty đăng ký thuế trực tiếp với cơ quan thuế thì thời hạn thực hiện là bao lâu?"
+  },
+  {
+    "id": 407,
+    "question": "Sau khi nộp đủ hồ sơ đăng ký thuế, trong bao lâu thì công ty được cấp giấy chứng nhận đăng ký thuế?"
+  },
+  {
+    "id": 408,
+    "question": "Khi thay đổi thông tin đăng ký thuế trực tiếp với cơ quan thuế, công ty phải thông báo trong thời hạn bao lâu?"
+  },
+  {
+    "id": 409,
+    "question": "Công ty cần thực hiện đăng ký thuế và xin cấp mã số thuế vào thời điểm nào?"
+  },
+  {
+    "id": 410,
+    "question": "Khi công ty thực hiện sáp nhập thì việc đăng ký thuế đối với tổ chức bị sáp nhập và tổ chức mới được xử lý như thế nào?"
+  },
+  {
+    "id": 411,
+    "question": "Hồ sơ đề nghị khôi phục mã số thuế của công ty bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 412,
+    "question": "Công ty có thể nộp hồ sơ đăng ký thuế cho cơ quan thuế thông qua những hình thức nào?"
+  },
+  {
+    "id": 413,
+    "question": "Khi công ty chi trả tiền cho đối tác kinh doanh xuyên biên giới qua nền tảng số thì phải dùng thông tin gì để khấu trừ và nộp thuế thay?"
+  },
+  {
+    "id": 414,
+    "question": "Khi công ty thực hiện chuyển đổi loại hình doanh nghiệp thì hồ sơ khai thuế cần bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 415,
+    "question": "Thời hạn nộp hồ sơ khai thuế theo quý của công ty chậm nhất là khi nào?"
+  },
+  {
+    "id": 416,
+    "question": "Trong trường hợp gặp thiên tai hoặc hỏa hoạn, công ty được gia hạn nộp hồ sơ khai thuế tối đa bao lâu?"
+  },
+  {
+    "id": 417,
+    "question": "Đối với tổ chức không thuộc diện đăng ký kinh doanh thì phải thông báo tạm ngừng hoạt động cho cơ quan thuế trước bao lâu?"
+  },
+  {
+    "id": 418,
+    "question": "Trường hợp nào hộ kinh doanh, cá nhân kinh doanh phải nộp thuế theo phương pháp kê khai thay vì phương pháp khoán?"
+  },
+  {
+    "id": 419,
+    "question": "Công ty có thể nộp tiền thuế vào ngân sách nhà nước thông qua những địa điểm hoặc hình thức nào?"
+  },
+  {
+    "id": 420,
+    "question": "Thời hạn chậm nhất để công ty tạm nộp thuế thu nhập doanh nghiệp theo quý là khi nào?"
+  },
+  {
+    "id": 421,
+    "question": "Khi công ty nộp thuế qua chuyển khoản thì ngày nào được tính là ngày đã nộp thuế?"
+  },
+  {
+    "id": 422,
+    "question": "Công ty có bị coi là vi phạm pháp luật nếu bán hàng hóa mà không xuất hóa đơn không?"
+  },
+  {
+    "id": 423,
+    "question": "Trong những trường hợp nào thì công ty thực hiện chấm dứt hiệu lực mã số thuế?"
+  },
+  {
+    "id": 424,
+    "question": "Khi cơ quan thuế thực hiện ấn định thuế, họ phải thông báo cho công ty những nội dung gì?"
+  },
+  {
+    "id": 425,
+    "question": "Công ty nộp thừa tiền thuế và tiền phạt thì được xử lý bù trừ hoặc hoàn trả như thế nào?"
+  },
+  {
+    "id": 426,
+    "question": "Khi công ty nộp tiền vào ngân sách nhà nước thì thứ tự ưu tiên thanh toán tiền thuế, tiền phạt và tiền chậm nộp được tính như thế nào?"
+  },
+  {
+    "id": 427,
+    "question": "Khi chi nhánh của công ty chấm dứt hoạt động mà vẫn còn nợ thuế thì ai là người có trách nhiệm nộp số nợ này?"
+  },
+  {
+    "id": 428,
+    "question": "Khi muốn yêu cầu hoàn thuế, công ty cần chuẩn bị những giấy tờ gì trong hồ sơ?"
+  },
+  {
+    "id": 429,
+    "question": "Công ty có thể nộp hồ sơ hoàn thuế cho cơ quan thuế thông qua những hình thức nào?"
+  },
+  {
+    "id": 430,
+    "question": "Thông thường công ty phải sử dụng loại đồng tiền nào để khai thuế và nộp thuế?"
+  },
+  {
+    "id": 431,
+    "question": "Công ty có thể gửi hồ sơ xin gia hạn nộp thuế cho cơ quan thuế qua những hình thức nào?"
+  },
+  {
+    "id": 432,
+    "question": "Trong những trường hợp nào công ty được xem xét gia hạn nộp thuế?"
+  },
+  {
+    "id": 433,
+    "question": "Khi công ty nộp đủ hồ sơ xin miễn giảm thuế, cơ quan thuế sẽ giải quyết và trả lời trong thời hạn bao lâu?"
+  },
+  {
+    "id": 434,
+    "question": "Hóa đơn điện tử bao gồm những loại chứng từ nào theo quy định?"
+  },
+  {
+    "id": 435,
+    "question": "Công ty đã thực hiện giao dịch điện tử trong lĩnh vực thuế thì có phải thực hiện thêm phương thức giao dịch nào khác không?"
+  },
+  {
+    "id": 436,
+    "question": "Trường hợp công ty có khoản nợ thuế dưới 5 tỷ đồng thì cơ quan nào có thẩm quyền quyết định xóa nợ?"
+  },
+  {
+    "id": 437,
+    "question": "Trong trường hợp nào thì doanh nghiệp bị tuyên bố phá sản được xóa nợ tiền thuế, tiền chậm nộp và tiền phạt?"
+  },
+  {
+    "id": 438,
+    "question": "Công ty có thể nộp hồ sơ miễn thuế, giảm thuế cho cơ quan thuế thông qua những hình thức nào?"
+  },
+  {
+    "id": 439,
+    "question": "Trong những trường hợp nào thì công ty được khoanh tiền thuế nợ?"
+  },
+  {
+    "id": 440,
+    "question": "Những doanh nghiệp thuộc lĩnh vực nào thì được sử dụng hóa đơn điện tử không có mã của cơ quan thuế?"
+  },
+  {
+    "id": 441,
+    "question": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo cần đảm bảo tỷ lệ vốn chủ sở hữu tối thiểu bao nhiêu khi vay vốn từ Quỹ phát triển doanh nghiệp nhỏ và vừa?"
+  },
+  {
+    "id": 442,
+    "question": "Khi vay vốn từ Quỹ phát triển doanh nghiệp nhỏ và vừa, thời hạn cho vay tối đa là bao lâu?"
+  },
+  {
+    "id": 443,
+    "question": "Để đề nghị vay vốn trực tiếp từ Quỹ phát triển doanh nghiệp nhỏ và vừa, công ty cần chuẩn bị những giấy tờ gì trong hồ sơ?"
+  },
+  {
+    "id": 444,
+    "question": "Khi cơ quan thuế yêu cầu cung cấp thông tin để xác định nghĩa vụ thuế, công ty phải thực hiện trách nhiệm này như thế nào?"
+  },
+  {
+    "id": 445,
+    "question": "Khi ký thỏa thuận cho vay trực tiếp với Quỹ phát triển doanh nghiệp nhỏ và vừa, công ty cần lưu ý những nội dung cơ bản nào trong văn bản?"
+  },
+  {
+    "id": 446,
+    "question": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo cần đáp ứng những điều kiện gì để được vay vốn từ nguồn vốn của Quỹ?"
+  },
+  {
+    "id": 447,
+    "question": "Mức phí cho vay gián tiếp mà Quỹ phát triển doanh nghiệp nhỏ và vừa trả cho ngân hàng được tính như thế nào?"
+  },
+  {
+    "id": 448,
+    "question": "Lãi suất cho vay trực tiếp từ Quỹ phát triển doanh nghiệp nhỏ và vừa được xác định như thế nào?"
+  },
+  {
+    "id": 449,
+    "question": "Các dịch vụ về hóa đơn điện tử hiện nay bao gồm những loại dịch vụ nào?"
+  },
+  {
+    "id": 450,
+    "question": "Mức tài trợ vốn tối đa mà công ty nhỏ và vừa được nhận cho một dự án là bao nhiêu?"
+  },
+  {
+    "id": 451,
+    "question": "Khi ký thỏa thuận tài trợ vốn với Quỹ phát triển doanh nghiệp nhỏ và vừa, công ty cần đảm bảo những nội dung cơ bản nào trong văn bản?"
+  },
+  {
+    "id": 452,
+    "question": "Hồ sơ nghiệm thu tài trợ vốn từ Quỹ phát triển doanh nghiệp nhỏ và vừa bao gồm những giấy tờ gì?"
+  },
+  {
+    "id": 453,
+    "question": "Để đề nghị vay vốn gián tiếp, công ty nhỏ và vừa cần chuẩn bị những giấy tờ gì trong hồ sơ?"
+  },
+  {
+    "id": 454,
+    "question": "Khi nhận hỗ trợ từ Quỹ phát triển doanh nghiệp nhỏ và vừa, công ty có những trách nhiệm gì?"
+  },
+  {
+    "id": 455,
+    "question": "Người lao động tham gia bảo hiểm xã hội có những trách nhiệm cụ thể nào?"
+  },
+  {
+    "id": 456,
+    "question": "Những đối tượng nào được tham gia bảo hiểm hưu trí bổ sung theo quy định?"
+  },
+  {
+    "id": 457,
+    "question": "Thỏa thuận cho vay giữa ngân hàng và doanh nghiệp nhỏ và vừa cần phải đảm bảo những điều kiện gì về hình thức và nội dung?"
+  },
+  {
+    "id": 458,
+    "question": "Những trường hợp nào thân nhân của người lao động được hưởng trợ cấp tuất một lần?"
+  },
+  {
+    "id": 459,
+    "question": "Những trường hợp nào người lao động được quyền yêu cầu hưởng bảo hiểm xã hội một lần?"
+  },
+  {
+    "id": 460,
+    "question": "Khi đăng ký bảo hiểm xã hội bắt buộc cho nhân viên, công ty cần chuẩn bị những giấy tờ gì trong hồ sơ?"
+  },
+  {
+    "id": 461,
+    "question": "Công ty thực hiện giao dịch bảo hiểm xã hội bằng hình thức điện tử thì có giá trị pháp lý tương đương bản giấy không?"
+  },
+  {
+    "id": 462,
+    "question": "Tỷ lệ đóng bảo hiểm xã hội bắt buộc hiện nay là bao nhiêu phần trăm?"
+  },
+  {
+    "id": 463,
+    "question": "Công ty phải nộp hồ sơ tham gia bảo hiểm xã hội bắt buộc cho nhân viên trong thời hạn bao lâu?"
+  },
+  {
+    "id": 464,
+    "question": "Những người lao động nước ngoài làm việc tại Việt Nam trong trường hợp nào thì phải tham gia bảo hiểm xã hội bắt buộc?"
+  },
+  {
+    "id": 465,
+    "question": "Công ty có trách nhiệm gì trong việc lập hồ sơ để nhân viên được hưởng chế độ bảo hiểm xã hội?"
+  },
+  {
+    "id": 466,
+    "question": "Khi thông tin đăng ký bảo hiểm xã hội của nhân viên thay đổi thì công ty cần nộp những giấy tờ gì cho cơ quan bảo hiểm?"
+  },
+  {
+    "id": 467,
+    "question": "Đối với nhân viên hưởng lương do công ty quyết định thì tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc bao gồm những khoản nào?"
+  },
+  {
+    "id": 468,
+    "question": "Mức đóng bảo hiểm xã hội hằng tháng vào quỹ hưu trí và tử tuất của người lao động là bao nhiêu?"
+  },
+  {
+    "id": 469,
+    "question": "Khi tham gia bảo hiểm xã hội bắt buộc, nhân viên của công ty sẽ được hưởng những chế độ gì?"
+  },
+  {
+    "id": 470,
+    "question": "Nếu công ty chọn phương thức đóng bảo hiểm xã hội hằng tháng thì thời hạn đóng chậm nhất là khi nào?"
+  },
+  {
+    "id": 471,
+    "question": "Nhân viên làm việc trong điều kiện bình thường và đóng bảo hiểm xã hội dưới 15 năm thì được hưởng chế độ ốm đau tối đa bao nhiêu ngày trong một năm?"
+  },
+  {
+    "id": 472,
+    "question": "Những trường hợp nào công ty bị coi là chậm đóng bảo hiểm xã hội bắt buộc và bảo hiểm thất nghiệp?"
+  },
+  {
+    "id": 473,
+    "question": "Nhân viên nghỉ ốm thì chậm nhất là bao lâu sau khi đi làm lại phải nộp hồ sơ hưởng trợ cấp cho công ty?"
+  },
+  {
+    "id": 474,
+    "question": "Người lao động nghỉ ốm đau từ đủ 30 ngày trở lên trong một năm thì được nghỉ dưỡng sức, phục hồi sức khỏe tối đa bao nhiêu ngày?"
+  },
+  {
+    "id": 475,
+    "question": "Công ty phải nộp danh sách nhân viên nghỉ dưỡng sức phục hồi sức khỏe cho cơ quan bảo hiểm xã hội trong thời hạn bao lâu?"
+  },
+  {
+    "id": 476,
+    "question": "Nếu công ty trốn đóng bảo hiểm xã hội bắt buộc cho nhân viên thì phải khắc phục về tài chính như thế nào?"
+  },
+  {
+    "id": 477,
+    "question": "Mức hưởng trợ cấp ốm đau một ngày của nhân viên được tính như thế nào?"
+  },
+  {
+    "id": 478,
+    "question": "Trong những trường hợp nào thì người lao động không được hưởng chế độ ốm đau?"
+  },
+  {
+    "id": 479,
+    "question": "Trường hợp nào công ty bị coi là trốn đóng bảo hiểm xã hội bắt buộc và bảo hiểm thất nghiệp?"
+  },
+  {
+    "id": 480,
+    "question": "Những trường hợp nào người lao động trong công ty được hưởng chế độ thai sản?"
+  },
+  {
+    "id": 481,
+    "question": "Nhân viên nữ mang thai được nghỉ đi khám thai tối đa bao nhiêu lần và mỗi lần bao nhiêu ngày?"
+  },
+  {
+    "id": 482,
+    "question": "Nhân viên nhận nuôi con nuôi dưới 06 tháng tuổi thì được nghỉ việc hưởng chế độ thai sản đến khi nào?"
+  },
+  {
+    "id": 483,
+    "question": "Nhân viên nữ thực hiện biện pháp triệt sản thì được nghỉ hưởng chế độ thai sản tối đa bao nhiêu ngày?"
+  },
+  {
+    "id": 484,
+    "question": "Nhân viên nữ nhờ mang thai hộ được nghỉ hưởng chế độ thai sản trong bao lâu kể từ khi nhận con?"
+  },
+  {
+    "id": 485,
+    "question": "Nhân viên nữ bị sảy thai khi thai dưới 05 tuần tuổi thì được nghỉ chế độ thai sản tối đa bao nhiêu ngày?"
+  },
+  {
+    "id": 486,
+    "question": "Mức trợ cấp thai sản một tháng của người lao động được tính như thế nào?"
+  },
+  {
+    "id": 487,
+    "question": "Khi nhân viên nam đề nghị nghỉ việc hưởng chế độ thai sản khi vợ sinh con thì công ty cần yêu cầu cung cấp những giấy tờ gì?"
+  },
+  {
+    "id": 488,
+    "question": "Khi nhân viên nghỉ thai sản xong, công ty có bao nhiêu ngày để nộp hồ sơ cho cơ quan bảo hiểm xã hội?"
+  },
+  {
+    "id": 489,
+    "question": "Cách tính mức lương hưu hằng tháng cho lao động nữ khi đủ điều kiện hưởng là như thế nào?"
+  },
+  {
+    "id": 490,
+    "question": "Nhân viên nam của công ty khi vợ sinh con thì được nghỉ việc hưởng chế độ thai sản bao nhiêu ngày?"
+  },
+  {
+    "id": 491,
+    "question": "Thời gian nghỉ dưỡng sức, phục hồi sức khỏe sau thai sản tối đa là bao nhiêu ngày?"
+  },
+  {
+    "id": 492,
+    "question": "Công ty phải nộp danh sách nhân viên hưởng trợ cấp dưỡng sức sau thai sản cho cơ quan bảo hiểm xã hội trong thời hạn bao lâu?"
+  },
+  {
+    "id": 493,
+    "question": "Trong những trường hợp nào thì người lao động được hưởng bảo hiểm xã hội một lần?"
+  },
+  {
+    "id": 494,
+    "question": "Người lao động cần đóng bảo hiểm xã hội bắt buộc tối thiểu bao nhiêu năm để được hưởng lương hưu?"
+  },
+  {
+    "id": 495,
+    "question": "Đối với nhân viên đóng bảo hiểm xã hội theo chế độ tiền lương do công ty quyết định thì mức bình quân tiền lương để tính lương hưu được tính như thế nào?"
+  },
+  {
+    "id": 496,
+    "question": "Mức trợ cấp mai táng đối với người lao động được tính như thế nào?"
+  },
+  {
+    "id": 497,
+    "question": "Mức trợ cấp một lần cho mỗi con khi sinh con được tính như thế nào?"
+  },
+  {
+    "id": 498,
+    "question": "Công ty cần nộp hồ sơ cho cơ quan bảo hiểm xã hội trước bao nhiêu ngày khi nhân viên đủ điều kiện hưởng lương hưu?"
+  },
+  {
+    "id": 499,
+    "question": "Tiền lương làm căn cứ đóng bảo hiểm xã hội của nhân viên do công ty tự quyết định mức lương sẽ được điều chỉnh như thế nào?"
+  },
+  {
+    "id": 500,
+    "question": "Công ty có bị coi là vi phạm pháp luật nếu chậm đóng bảo hiểm xã hội bắt buộc cho nhân viên không?"
+  }
+]
